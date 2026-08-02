@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2028191486500852089",
+    "created_at": "2026-03-09T15:34:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T16:34:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031030792592540058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1960704294396813316",
+          "start": 0,
+          "username": "jing7141"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031030792592540058",
+    "in_reply_to_user_id": "1960704294396813316",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028191486500852089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jing7141 你的挑染好几把帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028191474614255616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCWVZnzbwAASQIE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2028191486500852089",
+        "created_at": "2026-03-09T15:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T16:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031030792592540058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1960704294396813316",
+              "start": 0,
+              "username": "jing7141"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031030792592540058",
+        "in_reply_to_user_id": "1960704294396813316",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028191486500852089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jing7141 你的挑染好几把帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028191474614255616"
+          ]
+        },
+        "author_id": "1960704294396813316",
+        "conversation_id": "2028191486500852089",
+        "created_at": "2026-03-01T19:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T20:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028191486500852089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/od4VmcpXAQ",
+              "end": 29,
+              "expanded_url": "https://x.com/jing7141/status/2028191486500852089/photo/1",
+              "media_key": "3_2028191474614255616",
+              "start": 6,
+              "url": "https://t.co/od4VmcpXAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028191486500852089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "长痘痘了… https://t.co/od4VmcpXAQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 ENFP-T 🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789938754444292096/FMmDDz1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 236,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 165
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-27T14:01:56.000Z",
+        "description": "京田就是得过且过的京田",
+        "id": "1960704294396813316",
+        "name": "京田",
+        "pinned_tweet_id": "1998474378577932648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026032742203584513/EjQyBLoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 147,
+          "like_count": 6142,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 1377
+        },
+        "username": "jing7141",
+        "verified": false
+      }
+    ]
+  }
+}

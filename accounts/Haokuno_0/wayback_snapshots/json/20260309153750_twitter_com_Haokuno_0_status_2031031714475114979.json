@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2030570247561089330",
+    "created_at": "2026-03-09T15:37:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T16:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031031714475114979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1960704294396813316",
+          "start": 0,
+          "username": "jing7141"
+        },
+        {
+          "end": 19,
+          "id": "1560927630752247808",
+          "start": 10,
+          "username": "Yurainl1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031031714475114979",
+    "in_reply_to_user_id": "1960704294396813316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030674486471835795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jing7141 @Yurainl1 早熟但是晚熟，我还是未成年吧😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2030570247561089330",
+        "created_at": "2026-03-09T15:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T16:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031031714475114979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1960704294396813316",
+              "start": 0,
+              "username": "jing7141"
+            },
+            {
+              "end": 19,
+              "id": "1560927630752247808",
+              "start": 10,
+              "username": "Yurainl1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031031714475114979",
+        "in_reply_to_user_id": "1960704294396813316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030674486471835795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jing7141 @Yurainl1 早熟但是晚熟，我还是未成年吧😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960704294396813316",
+        "conversation_id": "2030570247561089330",
+        "created_at": "2026-03-08T15:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T16:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030674486471835795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1560927630752247808",
+              "start": 0,
+              "username": "Yurainl1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030674486471835795",
+        "in_reply_to_user_id": "1560927630752247808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 473,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030570247561089330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yurainl1 就是说，能不能永远当小朋友，我感觉我才小升初"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 ENFP-T 🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789938754444292096/FMmDDz1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 236,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 167
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-27T14:01:56.000Z",
+        "description": "京田就是得过且过的京田",
+        "id": "1960704294396813316",
+        "name": "京田",
+        "pinned_tweet_id": "1998474378577932648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026032742203584513/EjQyBLoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 147,
+          "like_count": 6142,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 1379
+        },
+        "username": "jing7141",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-20T09:55:12.000Z",
+        "description": "等湿透的心听雨声｜不关注勿扰^ω^",
+        "id": "1560927630752247808",
+        "location": "0.1km",
+        "name": "乱篇",
+        "pinned_tweet_id": "2016664945384182076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026937275020619776/DGccCN2O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2615,
+          "following_count": 71,
+          "like_count": 4028,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 179
+        },
+        "username": "Yurainl1",
+        "verified": false
+      }
+    ]
+  }
+}

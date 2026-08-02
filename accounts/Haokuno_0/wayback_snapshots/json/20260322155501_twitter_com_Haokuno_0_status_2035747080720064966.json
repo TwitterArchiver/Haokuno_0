@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2035747080720064966",
+    "created_at": "2026-03-22T15:55:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T16:55:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035747080720064966"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0twt012/status…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/0twt012/status/2035727818689323407",
+          "start": 24,
+          "url": "https://t.co/DQ0I6JcJUe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035747080720064966",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035727818689323407",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不理我的时候我就感觉我像叼着玩具被关在门外的狗 https://t.co/DQ0I6JcJUe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2035747080720064966",
+        "created_at": "2026-03-22T15:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T16:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035747080720064966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0twt012/status…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/0twt012/status/2035727818689323407",
+              "start": 24,
+              "url": "https://t.co/DQ0I6JcJUe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035747080720064966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035727818689323407",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不理我的时候我就感觉我像叼着玩具被关在门外的狗 https://t.co/DQ0I6JcJUe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2035727818689323407",
+        "created_at": "2026-03-22T14:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T15:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035727818689323407"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035727818689323407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1206,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不理我的时候我就感觉我像叼着玩具被关在门外的狗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 07 ENFP-T 🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2031647286288060518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034078738712039424/MCUfN4n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 39,
+          "like_count": 470,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 623
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/💬//碎碎念//情感博主//你喜欢我我喜欢你//讨厌没有礼貌的人//",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "188/288🚪",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 245,
+          "like_count": 789,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 874
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

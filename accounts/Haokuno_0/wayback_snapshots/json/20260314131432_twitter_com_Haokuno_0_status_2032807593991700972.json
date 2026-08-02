@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2032736467605405767",
+    "created_at": "2026-03-14T13:14:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T14:14:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032807593991700972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1647229461769891842",
+          "start": 0,
+          "username": "DrilL019"
+        },
+        {
+          "end": 22,
+          "id": "1892896759808217092",
+          "start": 10,
+          "username": "hajixi12356"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032807593991700972",
+    "in_reply_to_user_id": "1647229461769891842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032768644019798344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrilL019 @hajixi12356 喜欢用ap4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2032736467605405767",
+        "created_at": "2026-03-14T13:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T14:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032807593991700972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1647229461769891842",
+              "start": 0,
+              "username": "DrilL019"
+            },
+            {
+              "end": 22,
+              "id": "1892896759808217092",
+              "start": 10,
+              "username": "hajixi12356"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032807593991700972",
+        "in_reply_to_user_id": "1647229461769891842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032768644019798344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrilL019 @hajixi12356 喜欢用ap4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647229461769891842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1697053249440731136",
+              "name": "Apple Event 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1717672666507730944",
+              "name": "Apple Event"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple AirPods",
+              "id": "972151914115710976",
+              "name": "Apple AirPods"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology",
+              "id": "857879456773357569",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2032736467605405767",
+        "created_at": "2026-03-14T10:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T11:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032768644019798344"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "AirPods Pro3",
+              "probability": 0.7708,
+              "start": 13,
+              "type": "Product"
+            },
+            {
+              "end": 34,
+              "normalized_text": "AirPods4",
+              "probability": 0.9365,
+              "start": 27,
+              "type": "Product"
+            },
+            {
+              "end": 48,
+              "normalized_text": "AirPods Pro2",
+              "probability": 0.7715,
+              "start": 37,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1892896759808217092",
+              "start": 0,
+              "username": "hajixi12356"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032768644019798344",
+        "in_reply_to_user_id": "1892896759808217092",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032736467605405767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hajixi12356 AirPods Pro3？\nAirPods4？\nAirPods Pro2！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 07 ENFP-T 🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2031647286288060518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789938754444292096/FMmDDz1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 252,
+          "like_count": 235,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 341
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T13:25:23.000Z",
+        "description": "安得此身脫拘攣 舟載諸友長周旋｜毁灭行者向来向往灾难｜Student 🇨🇳 鉴政禁止 发推不定 日常音游碎碎念",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/drill019",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/drill019",
+                "start": 0,
+                "url": "https://t.co/2G0EsDBXiS"
+              }
+            ]
+          }
+        },
+        "id": "1647229461769891842",
+        "location": "懷谷齋",
+        "name": "DrilL019",
+        "pinned_tweet_id": "2032440558011203726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011804418208063488/uOZ4kFzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 733,
+          "like_count": 9548,
+          "listed_count": 0,
+          "media_count": 444,
+          "tweet_count": 3307
+        },
+        "url": "https://t.co/2G0EsDBXiS",
+        "username": "DrilL019",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-21T11:18:58.000Z",
+        "description": "逃生舱@hajixi12456 盒狗在线接单喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "hajixi12456"
+              }
+            ]
+          }
+        },
+        "id": "1892896759808217092",
+        "location": "台湾及其附属岛屿是中华人民共和国神圣不可分割的一部分",
+        "name": "你猜我是谁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008090828087193601/demHyICf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1103,
+          "following_count": 228,
+          "like_count": 12976,
+          "listed_count": 16,
+          "media_count": 283,
+          "tweet_count": 5336
+        },
+        "username": "hajixi12356",
+        "verified": false
+      }
+    ]
+  }
+}

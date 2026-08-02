@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2038736976556486752",
+    "created_at": "2026-03-31T10:27:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T11:27:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038926056019615861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1960704294396813316",
+          "start": 0,
+          "username": "jing7141"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038926056019615861",
+    "in_reply_to_user_id": "1960704294396813316",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038925967738233033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jing7141 🧎🧎🧎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2038736976556486752",
+        "created_at": "2026-03-31T10:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038926056019615861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1960704294396813316",
+              "start": 0,
+              "username": "jing7141"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038926056019615861",
+        "in_reply_to_user_id": "1960704294396813316",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038925967738233033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jing7141 🧎🧎🧎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960704294396813316",
+        "conversation_id": "2038736976556486752",
+        "created_at": "2026-03-31T10:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038925967738233033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1276148275175755776",
+              "start": 0,
+              "username": "Haokuno_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038925967738233033",
+        "in_reply_to_user_id": "1276148275175755776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038762290434974168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haokuno_0 不会的不会的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 07 ENFP-T 🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2031647286288060518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034078738712039424/MCUfN4n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 44,
+          "like_count": 573,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 748
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-27T14:01:56.000Z",
+        "description": "京田就是得过且过的京田",
+        "id": "1960704294396813316",
+        "name": "京田",
+        "pinned_tweet_id": "1998474378577932648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026032742203584513/EjQyBLoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 172,
+          "like_count": 6837,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 1551
+        },
+        "username": "jing7141",
+        "verified": false
+      }
+    ]
+  }
+}

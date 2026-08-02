@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2036706351108542912",
+    "created_at": "2026-03-26T03:22:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T04:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037007176208965963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1519701623966031872",
+          "start": 0,
+          "username": "71AO_bunka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037007176208965963",
+    "in_reply_to_user_id": "1519701623966031872",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036706351108542912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@71AO_bunka D0🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2036706351108542912",
+        "created_at": "2026-03-26T03:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T04:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037007176208965963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1519701623966031872",
+              "start": 0,
+              "username": "71AO_bunka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037007176208965963",
+        "in_reply_to_user_id": "1519701623966031872",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036706351108542912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@71AO_bunka D0🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1519701623966031872",
+        "conversation_id": "2036706351108542912",
+        "created_at": "2026-03-25T07:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T08:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036706351108542912"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036706351108542912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 241,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不视奸，不关心，从今天做起🫡\nD1！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 07 ENFP-T 🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2031647286288060518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034078738712039424/MCUfN4n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 41,
+          "like_count": 550,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 692
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-28T15:34:57.000Z",
+        "description": "土豆教教主/地表最强嬷嬷/多梦多推多担花心女人/双面不粘锅/重度萌物收集癖/一点点代言人/黄金右脸/kitty帕恰小八的麻麻/不敬业的上班族/睡觉大王/毛茸茸爱好者/想养爬但怕虫🦋",
+        "id": "1519701623966031872",
+        "location": "404 NOT FOUND",
+        "name": "就想碎大觉！",
+        "pinned_tweet_id": "1985740813956157822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968604555090038784/BEk1Z3Kq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 1088,
+          "like_count": 11771,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 6444
+        },
+        "username": "71AO_bunka",
+        "verified": false
+      }
+    ]
+  }
+}

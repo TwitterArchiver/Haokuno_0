@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2035684356807897227",
+    "created_at": "2026-03-22T16:13:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T17:13:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035751712711999698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1647229461769891842",
+          "start": 0,
+          "username": "DrilL019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035751712711999698",
+    "in_reply_to_user_id": "1647229461769891842",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035684356807897227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrilL019 朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2035684356807897227",
+        "created_at": "2026-03-22T16:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T17:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035751712711999698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1647229461769891842",
+              "start": 0,
+              "username": "DrilL019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035751712711999698",
+        "in_reply_to_user_id": "1647229461769891842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035684356807897227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrilL019 朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647229461769891842",
+        "conversation_id": "2035684356807897227",
+        "created_at": "2026-03-22T11:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T12:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035684356807897227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_ropu/status/2…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/_ropu/status/2035665783632904362",
+              "start": 10,
+              "url": "https://t.co/P29kl2baRw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035684356807897227",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035665783632904362",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想和大家做朋友。 https://t.co/P29kl2baRw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 07 ENFP-T 🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2031647286288060518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034078738712039424/MCUfN4n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 39,
+          "like_count": 472,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 628
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T13:25:23.000Z",
+        "description": "安得此身脫拘攣 舟載諸友長周旋｜为自我的存在向世界赎罪｜Student 🇨🇳 鉴政禁止 发推不定 日常音游碎碎念",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/drill019",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/drill019",
+                "start": 0,
+                "url": "https://t.co/2G0EsDCv8q"
+              }
+            ]
+          }
+        },
+        "id": "1647229461769891842",
+        "location": "懷谷齋",
+        "name": "DrilL019",
+        "pinned_tweet_id": "2032440558011203726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011804418208063488/uOZ4kFzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 796,
+          "like_count": 10574,
+          "listed_count": 1,
+          "media_count": 494,
+          "tweet_count": 3734
+        },
+        "url": "https://t.co/2G0EsDCv8q",
+        "username": "DrilL019",
+        "verified": true
+      }
+    ]
+  }
+}

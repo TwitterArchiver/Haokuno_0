@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2034755502077559103",
+    "created_at": "2026-03-20T00:58:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T01:58:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034796768664195540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1940963560202686467",
+          "start": 0,
+          "username": "aimm8899"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034796768664195540",
+    "in_reply_to_user_id": "1940963560202686467",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034796679409623439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aimm8899 我也想…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2034755502077559103",
+        "created_at": "2026-03-20T00:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T01:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034796768664195540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1940963560202686467",
+              "start": 0,
+              "username": "aimm8899"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034796768664195540",
+        "in_reply_to_user_id": "1940963560202686467",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034796679409623439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aimm8899 我也想…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940963560202686467",
+        "conversation_id": "2034755502077559103",
+        "created_at": "2026-03-20T00:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T01:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034796679409623439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1276148275175755776",
+              "start": 0,
+              "username": "Haokuno_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034796679409623439",
+        "in_reply_to_user_id": "1276148275175755776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034796472340775160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haokuno_0 找个人按时把你打晕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 07 ENFP-T 🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2031647286288060518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034078738712039424/MCUfN4n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 35,
+          "like_count": 429,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 541
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-04T02:39:21.000Z",
+        "description": "或许我们可以一起喵喵天https://t.co/9YtSCmHt3D",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aimm8899",
+                "end": 34,
+                "expanded_url": "https://ngl.link/aimm8899",
+                "start": 11,
+                "url": "https://t.co/9YtSCmHt3D"
+              }
+            ]
+          }
+        },
+        "id": "1940963560202686467",
+        "location": "🍔",
+        "name": "熊不熊为了俺对所有人都坏",
+        "pinned_tweet_id": "2021463562640818503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018505207773360128/3CTeMA72_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 116,
+          "like_count": 11415,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 4788
+        },
+        "username": "aimm8899",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034060222377889792"
+      ]
+    },
+    "author_id": "1276148275175755776",
+    "conversation_id": "2033931853703307773",
+    "created_at": "2026-03-18T00:12:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T01:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034060234575036836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1940963560202686467",
+          "start": 0,
+          "username": "aimm8899"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IhR8DMztxp",
+          "end": 52,
+          "expanded_url": "https://x.com/Haokuno_0/status/2034060234575036836/photo/1",
+          "media_key": "3_2034060222377889792",
+          "start": 29,
+          "url": "https://t.co/IhR8DMztxp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034060234575036836",
+    "in_reply_to_user_id": "1940963560202686467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034058139537203575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aimm8899 谁懂没有早八被这只小熊吵醒的救赎感🥺 https://t.co/IhR8DMztxp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1603,
+        "media_key": "3_2034060222377889792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDpu_s6WEAA0ax0.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034060222377889792"
+          ]
+        },
+        "author_id": "1276148275175755776",
+        "conversation_id": "2033931853703307773",
+        "created_at": "2026-03-18T00:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T01:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034060234575036836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1940963560202686467",
+              "start": 0,
+              "username": "aimm8899"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IhR8DMztxp",
+              "end": 52,
+              "expanded_url": "https://x.com/Haokuno_0/status/2034060234575036836/photo/1",
+              "media_key": "3_2034060222377889792",
+              "start": 29,
+              "url": "https://t.co/IhR8DMztxp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034060234575036836",
+        "in_reply_to_user_id": "1940963560202686467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034058139537203575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aimm8899 谁懂没有早八被这只小熊吵醒的救赎感🥺 https://t.co/IhR8DMztxp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940963560202686467",
+        "conversation_id": "2033931853703307773",
+        "created_at": "2026-03-18T00:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T01:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034058139537203575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1276148275175755776",
+              "start": 0,
+              "username": "Haokuno_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034058139537203575",
+        "in_reply_to_user_id": "1276148275175755776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033931853703307773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haokuno_0 唉小宝宝🫂🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 07 ENFP-T 🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2031647286288060518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789938754444292096/FMmDDz1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 36,
+          "like_count": 345,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 480
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-04T02:39:21.000Z",
+        "description": "或许我们可以一起喵喵天https://t.co/9YtSCmHt3D",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aimm8899",
+                "end": 34,
+                "expanded_url": "https://ngl.link/aimm8899",
+                "start": 11,
+                "url": "https://t.co/9YtSCmHt3D"
+              }
+            ]
+          }
+        },
+        "id": "1940963560202686467",
+        "location": "🍔",
+        "name": "熊不熊为了俺对所有人都坏",
+        "pinned_tweet_id": "2021463562640818503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018505207773360128/3CTeMA72_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 109,
+          "like_count": 10712,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 4435
+        },
+        "username": "aimm8899",
+        "verified": false
+      }
+    ]
+  }
+}

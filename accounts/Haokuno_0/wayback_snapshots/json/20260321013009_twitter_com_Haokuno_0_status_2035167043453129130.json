@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2035167043453129130",
+    "created_at": "2026-03-21T01:30:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T02:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035167043453129130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1936692679020281856",
+          "start": 3,
+          "username": "sukiicatts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035167043453129130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035016954457858386",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sukiicatts: 不知道，经常间歇性地想斩断所有关系丢掉所有人，怠惰的，懒得经营任何关系，懒得活着，剔除所有感觉是为了毫无负担的离开。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2035167043453129130",
+        "created_at": "2026-03-21T01:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T02:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035167043453129130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1936692679020281856",
+              "start": 3,
+              "username": "sukiicatts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035167043453129130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035016954457858386",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sukiicatts: 不知道，经常间歇性地想斩断所有关系丢掉所有人，怠惰的，懒得经营任何关系，懒得活着，剔除所有感觉是为了毫无负担的离开。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936692679020281856",
+        "conversation_id": "2035016954457858386",
+        "created_at": "2026-03-20T15:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T16:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035016954457858386"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035016954457858386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 952,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不知道，经常间歇性地想斩断所有关系丢掉所有人，怠惰的，懒得经营任何关系，懒得活着，剔除所有感觉是为了毫无负担的离开。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 07 ENFP-T 🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2031647286288060518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034078738712039424/MCUfN4n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 38,
+          "like_count": 457,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 592
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-22T07:48:37.000Z",
+        "description": "与阿佛洛狄忒说｜此地有此女的每一面，是一个包容性很强的人，不会审判任何人，也请不要来审判我。@LakeOfFireoo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 46,
+                "username": "LakeOfFireoo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fforeternity2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fforeternity2",
+                "start": 0,
+                "url": "https://t.co/TmvpnSK3Td"
+              }
+            ]
+          }
+        },
+        "id": "1936692679020281856",
+        "location": "0.01km",
+        "name": "口米",
+        "pinned_tweet_id": "1950413908893929772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949663476449935360/rOC7FnPK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 243,
+          "like_count": 14253,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 3395
+        },
+        "url": "https://t.co/TmvpnSK3Td",
+        "username": "sukiicatts",
+        "verified": false
+      }
+    ]
+  }
+}

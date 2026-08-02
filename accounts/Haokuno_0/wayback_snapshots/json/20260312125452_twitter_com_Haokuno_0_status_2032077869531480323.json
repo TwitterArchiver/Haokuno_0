@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2032075817417896264",
+    "created_at": "2026-03-12T12:54:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T13:54:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032077869531480323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1890885092329074688",
+          "start": 0,
+          "username": "xiaxia1396128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032077869531480323",
+    "in_reply_to_user_id": "1890885092329074688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032075817417896264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaxia1396128 打游戏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2032075817417896264",
+        "created_at": "2026-03-12T12:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T13:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032077869531480323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1890885092329074688",
+              "start": 0,
+              "username": "xiaxia1396128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032077869531480323",
+        "in_reply_to_user_id": "1890885092329074688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032075817417896264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaxia1396128 打游戏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890885092329074688",
+        "conversation_id": "2032075817417896264",
+        "created_at": "2026-03-12T12:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T13:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032075817417896264"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032075817417896264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无聊爆了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 07 ENFP-T 🦁",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yeyixiao_0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yeyixiao_0",
+                "start": 0,
+                "url": "https://t.co/0wNeow41sl"
+              }
+            ]
+          }
+        },
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2031647286288060518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789938754444292096/FMmDDz1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 245,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 287
+        },
+        "url": "https://t.co/0wNeow41sl",
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T22:05:21.000Z",
+        "description": "藤井树，你好吗，我不好",
+        "id": "1890885092329074688",
+        "location": "(｡•̀ᴗ-)✧",
+        "name": "没在线",
+        "pinned_tweet_id": "2025117104488546355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018268312795512832/4n2djlCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 40,
+          "like_count": 10224,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 463
+        },
+        "username": "xiaxia1396128",
+        "verified": false
+      }
+    ]
+  }
+}

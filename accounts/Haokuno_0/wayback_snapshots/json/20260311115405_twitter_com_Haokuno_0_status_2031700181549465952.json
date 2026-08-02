@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2031593183386407131",
+    "created_at": "2026-03-11T11:54:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T12:54:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031700181549465952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1893580687200157696",
+          "start": 0,
+          "username": "kittsayes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031700181549465952",
+    "in_reply_to_user_id": "1893580687200157696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031699827843797306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kittsayes 萌哥子😗😗😗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2031593183386407131",
+        "created_at": "2026-03-11T11:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T12:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031700181549465952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1893580687200157696",
+              "start": 0,
+              "username": "kittsayes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031700181549465952",
+        "in_reply_to_user_id": "1893580687200157696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031699827843797306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kittsayes 萌哥子😗😗😗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893580687200157696",
+        "conversation_id": "2031593183386407131",
+        "created_at": "2026-03-11T11:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T12:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031699827843797306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1276148275175755776",
+              "start": 0,
+              "username": "Haokuno_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031699827843797306",
+        "in_reply_to_user_id": "1276148275175755776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031649237490876446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haokuno_0 🌚萌妹子的近义词"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 07 ENFP-T 🦁",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yeyixiao_0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yeyixiao_0",
+                "start": 0,
+                "url": "https://t.co/0wNeow41sl"
+              }
+            ]
+          }
+        },
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2031647286288060518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789938754444292096/FMmDDz1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 240,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 205
+        },
+        "url": "https://t.co/0wNeow41sl",
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T08:36:54.000Z",
+        "description": "我就随便发发\n萌妹子能不能跟我互fo。。。\n（萌弟子也可以。。。）",
+        "id": "1893580687200157696",
+        "name": "Croissant",
+        "pinned_tweet_id": "2031061052646109493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030706865601122304/j7M7aVEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 193,
+          "like_count": 781,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 232
+        },
+        "username": "kittsayes",
+        "verified": false
+      }
+    ]
+  }
+}

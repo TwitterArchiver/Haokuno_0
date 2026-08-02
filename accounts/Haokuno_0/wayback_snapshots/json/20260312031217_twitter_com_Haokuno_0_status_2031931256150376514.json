@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2031797422972944555",
+    "created_at": "2026-03-12T03:12:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T04:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031931256150376514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1484077799678050305",
+          "start": 0,
+          "username": "soaweerl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031931256150376514",
+    "in_reply_to_user_id": "1484077799678050305",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031797422972944555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@soaweerl 累次狗🔝"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17200,
+        "height": 720,
+        "media_key": "13_2031797309189865475",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2031797309189865475/img/cBRk_UzYa57TnPKw.jpg",
+        "public_metrics": {
+          "view_count": 15
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031797309189865475/vid/avc1/480x270/-V7hiEZT2buG9Fz-.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031797309189865475/vid/avc1/640x360/W0A-b4zbztbPR3Bg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031797309189865475/vid/avc1/1280x720/vt8y9YAUgUQRaTF8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2031797309189865475/pl/xpDG3bXJH9OWDRRk.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 27740,
+        "height": 720,
+        "media_key": "13_2031797309558964225",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2031797309558964225/img/h0QYriZXuy5KjFOe.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031797309558964225/vid/avc1/480x270/m6NJ9ppSnUX88dvD.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031797309558964225/vid/avc1/640x360/Jcw-nM_15-Vibgc_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031797309558964225/vid/avc1/1280x720/gcCSWVgpxOK-ZpKB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2031797309558964225/pl/E6wFijqIIG5jnkGL.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2031797422972944555",
+        "created_at": "2026-03-12T03:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T04:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031931256150376514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1484077799678050305",
+              "start": 0,
+              "username": "soaweerl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031931256150376514",
+        "in_reply_to_user_id": "1484077799678050305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031797422972944555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@soaweerl 累次狗🔝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2031797309189865475",
+            "13_2031797309558964225"
+          ]
+        },
+        "author_id": "1484077799678050305",
+        "conversation_id": "2031797422972944555",
+        "created_at": "2026-03-11T18:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T19:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031797422972944555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zq2v6GcXoR",
+              "end": 33,
+              "expanded_url": "https://x.com/soaweerl/status/2031797422972944555/video/1",
+              "media_key": "13_2031797309189865475",
+              "start": 10,
+              "url": "https://t.co/Zq2v6GcXoR"
+            },
+            {
+              "display_url": "pic.x.com/Zq2v6GcXoR",
+              "end": 33,
+              "expanded_url": "https://x.com/soaweerl/status/2031797422972944555/video/1",
+              "media_key": "13_2031797309558964225",
+              "start": 10,
+              "url": "https://t.co/Zq2v6GcXoR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031797422972944555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我脸都笑酸了一晚上 https://t.co/Zq2v6GcXoR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 07 ENFP-T 🦁",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yeyixiao_0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yeyixiao_0",
+                "start": 0,
+                "url": "https://t.co/0wNeow41sl"
+              }
+            ]
+          }
+        },
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2031647286288060518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789938754444292096/FMmDDz1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 242,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 249
+        },
+        "url": "https://t.co/0wNeow41sl",
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T08:18:22.000Z",
+        "description": "愿某天舒适长眠",
+        "id": "1484077799678050305",
+        "name": "衣姨",
+        "pinned_tweet_id": "2031445254122123273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994131038344511489/HBES4zLL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 179,
+          "like_count": 4745,
+          "listed_count": 0,
+          "media_count": 1370,
+          "tweet_count": 6773
+        },
+        "username": "soaweerl",
+        "verified": false
+      }
+    ]
+  }
+}

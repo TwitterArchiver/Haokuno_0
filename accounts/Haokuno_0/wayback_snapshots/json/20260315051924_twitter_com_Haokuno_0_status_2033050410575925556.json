@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2033050410575925556",
+    "created_at": "2026-03-15T05:19:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T06:19:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033050410575925556"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wgylly2/status…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/wgylly2/status/2032873361475514420",
+          "start": 10,
+          "url": "https://t.co/qMtz6soGI4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033050410575925556",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032873361475514420",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "早熟的人通常跟晚熟 https://t.co/qMtz6soGI4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2033050410575925556",
+        "created_at": "2026-03-15T05:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T06:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033050410575925556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wgylly2/status…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/wgylly2/status/2032873361475514420",
+              "start": 10,
+              "url": "https://t.co/qMtz6soGI4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033050410575925556",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032873361475514420",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "早熟的人通常跟晚熟 https://t.co/qMtz6soGI4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014214501416284160",
+        "conversation_id": "2032873361475514420",
+        "created_at": "2026-03-14T17:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T18:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032873361475514420"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032873361475514420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1759,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实未成年的我比现在玩的还花哨 果然人得按部就班来 要不然会早早对一切都祛魅 了 反而让生活失去了乐趣 唉 果然早熟的人通常都很晚熟 骄傲的人又通常很急性"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 07 ENFP-T 🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2031647286288060518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789938754444292096/FMmDDz1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 34,
+          "like_count": 249,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 358
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-22T05:52:30.000Z",
+        "description": "人是一根能思想的苇草",
+        "id": "2014214501416284160",
+        "name": "Xixi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014222087808765952/hzvf-9Rm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 6,
+          "like_count": 140,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 460
+        },
+        "username": "wgylly2",
+        "verified": false
+      }
+    ]
+  }
+}

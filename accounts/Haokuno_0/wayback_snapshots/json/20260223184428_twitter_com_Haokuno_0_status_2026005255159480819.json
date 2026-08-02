@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2025921922274648498",
+    "created_at": "2026-02-23T18:44:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T19:44:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026005255159480819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1273493669954248707",
+          "start": 0,
+          "username": "Xin6679"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026005255159480819",
+    "in_reply_to_user_id": "1273493669954248707",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025922008308130250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xin6679 121"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2025921922274648498",
+        "created_at": "2026-02-23T18:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T19:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026005255159480819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1273493669954248707",
+              "start": 0,
+              "username": "Xin6679"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026005255159480819",
+        "in_reply_to_user_id": "1273493669954248707",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025922008308130250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xin6679 121"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1273493669954248707",
+        "conversation_id": "2025921922274648498",
+        "created_at": "2026-02-23T13:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T14:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025922008308130250"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025922008308130250",
+        "in_reply_to_user_id": "1273493669954248707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7590,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025921922274648498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来，点赞看🐻   现在发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "",
+        "id": "1276148275175755776",
+        "name": "潇潇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789938754444292096/FMmDDz1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 221,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 108
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-18T05:52:17.000Z",
+        "description": "不聊骚，只想做你的心上人🌸",
+        "id": "1273493669954248707",
+        "location": "距离11.2km",
+        "name": "Ｍ",
+        "pinned_tweet_id": "2025971890746220619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011821584462622720/AoKvsWBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7491,
+          "following_count": 6,
+          "like_count": 139,
+          "listed_count": 4,
+          "media_count": 37,
+          "tweet_count": 321
+        },
+        "username": "Xin6679",
+        "verified": false
+      }
+    ]
+  }
+}

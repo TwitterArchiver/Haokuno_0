@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2036202408209162448",
+    "created_at": "2026-03-24T00:32:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T01:32:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036239741532672383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1960704294396813316",
+          "start": 0,
+          "username": "jing7141"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036239741532672383",
+    "in_reply_to_user_id": "1960704294396813316",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036202408209162448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jing7141 还原美貌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036202396716810240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEILSqMawAAznVA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2036202408209162448",
+        "created_at": "2026-03-24T00:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T01:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036239741532672383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1960704294396813316",
+              "start": 0,
+              "username": "jing7141"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036239741532672383",
+        "in_reply_to_user_id": "1960704294396813316",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036202408209162448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jing7141 还原美貌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036202396716810240"
+          ]
+        },
+        "author_id": "1960704294396813316",
+        "conversation_id": "2036202408209162448",
+        "created_at": "2026-03-23T22:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T23:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036202408209162448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/42EhFGZ2eZ",
+              "end": 37,
+              "expanded_url": "https://x.com/jing7141/status/2036202408209162448/photo/1",
+              "media_key": "3_2036202396716810240",
+              "start": 14,
+              "url": "https://t.co/42EhFGZ2eZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036202408209162448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ai修图太牛福了hhhhh https://t.co/42EhFGZ2eZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 07 ENFP-T 🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2031647286288060518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034078738712039424/MCUfN4n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 39,
+          "like_count": 512,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 657
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-27T14:01:56.000Z",
+        "description": "京田就是得过且过的京田",
+        "id": "1960704294396813316",
+        "name": "京田",
+        "pinned_tweet_id": "1998474378577932648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026032742203584513/EjQyBLoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 171,
+          "like_count": 6649,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 1496
+        },
+        "username": "jing7141",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2038278231640682713",
+    "created_at": "2026-03-29T15:32:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T16:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038278231640682713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2363856960",
+          "start": 3,
+          "username": "NGNGVXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038278231640682713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 225
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037753552609988822",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NGNGVXX: 一个冷知识：根本没有完美的性格啊，细腻的性格就会敏感记仇，大大咧咧的性格就容易冒犯，情绪稳定的容易冷暴力，喜怒哀乐都摆在脸上的人就会阴晴不定。人不能既要又要，养狗还得帮狗捡屎呢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2038278231640682713",
+        "created_at": "2026-03-29T15:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T16:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038278231640682713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2363856960",
+              "start": 3,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038278231640682713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 225
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037753552609988822",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NGNGVXX: 一个冷知识：根本没有完美的性格啊，细腻的性格就会敏感记仇，大大咧咧的性格就容易冒犯，情绪稳定的容易冷暴力，喜怒哀乐都摆在脸上的人就会阴晴不定。人不能既要又要，养狗还得帮狗捡屎呢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2037753552609988822",
+        "created_at": "2026-03-28T04:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T05:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037753552609988822"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037753552609988822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 228,
+          "impression_count": 81131,
+          "like_count": 2372,
+          "quote_count": 18,
+          "reply_count": 28,
+          "retweet_count": 225
+        },
+        "reply_settings": "everyone",
+        "text": "一个冷知识：根本没有完美的性格啊，细腻的性格就会敏感记仇，大大咧咧的性格就容易冒犯，情绪稳定的容易冷暴力，喜怒哀乐都摆在脸上的人就会阴晴不定。人不能既要又要，养狗还得帮狗捡屎呢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 07 ENFP-T 🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2031647286288060518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034078738712039424/MCUfN4n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 42,
+          "like_count": 559,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 717
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8100,
+          "following_count": 5,
+          "like_count": 984,
+          "listed_count": 23,
+          "media_count": 98,
+          "tweet_count": 1719
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

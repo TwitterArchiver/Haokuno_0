@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2033192628221874253",
+    "created_at": "2026-03-15T14:49:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T15:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033193862760432122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1947816343559979009",
+          "start": 0,
+          "username": "ying040507ying"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033193862760432122",
+    "in_reply_to_user_id": "1947816343559979009",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033192628221874253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ying040507ying 本质性压抑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2033192628221874253",
+        "created_at": "2026-03-15T14:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T15:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033193862760432122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1947816343559979009",
+              "start": 0,
+              "username": "ying040507ying"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033193862760432122",
+        "in_reply_to_user_id": "1947816343559979009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033192628221874253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ying040507ying 本质性压抑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947816343559979009",
+        "conversation_id": "2033192628221874253",
+        "created_at": "2026-03-15T14:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T15:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033192628221874253"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033192628221874253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时候觉得太有礼貌也有很多麻烦 有没有可能我并没有陪x上的人聊天的义务？你想认识我不代表我一定想认识你 我回复你了也不代表我就愿意跟你做朋友 大家不要自作多情好吗……尤其是一开始聊的好好的突然开始问涩图相关的事的 真不知道说什么 这样的人能赔我点钱吗……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 07 ENFP-T 🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2031647286288060518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789938754444292096/FMmDDz1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 34,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 381
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T00:29:49.000Z",
+        "description": "ISFJ｜2004.05.07｜175cm200斤⼁二次元游戏宅｜FPS糕手⼁某不知名美食家⼁野生巨型肖茂密🐱",
+        "id": "1947816343559979009",
+        "location": "中城",
+        "name": "小笼灌汤包",
+        "pinned_tweet_id": "2029157959058768122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985648871691993089/Z5rJy1O9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 90,
+          "like_count": 419,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 172
+        },
+        "username": "ying040507ying",
+        "verified": false
+      }
+    ]
+  }
+}

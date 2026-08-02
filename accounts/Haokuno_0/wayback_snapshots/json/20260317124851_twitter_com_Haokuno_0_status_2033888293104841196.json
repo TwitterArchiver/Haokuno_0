@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2031647286288060518",
+    "created_at": "2026-03-17T12:48:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T13:48:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033888293104841196"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033888293104841196",
+    "in_reply_to_user_id": "1276148275175755776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031647286288060518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "互fo记得私信我，我不怎么看关注者"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2031647286288060518",
+        "created_at": "2026-03-17T12:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T13:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033888293104841196"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033888293104841196",
+        "in_reply_to_user_id": "1276148275175755776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031647286288060518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "互fo记得私信我，我不怎么看关注者"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2031647286288060518",
+        "created_at": "2026-03-11T08:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T09:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031647286288060518"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031647286288060518",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 355,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和我交朋友🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 07 ENFP-T 🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2031647286288060518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789938754444292096/FMmDDz1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 35,
+          "like_count": 337,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 460
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      }
+    ]
+  }
+}

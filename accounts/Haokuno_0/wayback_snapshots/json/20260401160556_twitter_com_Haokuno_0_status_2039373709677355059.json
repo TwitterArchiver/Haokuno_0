@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2039373709677355059",
+    "created_at": "2026-04-01T16:05:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T17:05:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039373709677355059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1979627040157667328",
+          "start": 3,
+          "username": "Not0wned_zhao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039373709677355059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039256501853028643",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Not0wned_zhao: 我攻略你，我亲密度有没有往上涨啊?根本没有，我血条一直往下掉啊!你这不是被攻略，你这是攻击我!跟你正常聊天你也是时回时不回的，你还会快慢刀啊。你把我当什么boss在刷是不是啊，我根本不会掉掉落物，而且我就这一条命!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2039373709677355059",
+        "created_at": "2026-04-01T16:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039373709677355059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1979627040157667328",
+              "start": 3,
+              "username": "Not0wned_zhao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039373709677355059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039256501853028643",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Not0wned_zhao: 我攻略你，我亲密度有没有往上涨啊?根本没有，我血条一直往下掉啊!你这不是被攻略，你这是攻击我!跟你正常聊天你也是时回时不回的，你还会快慢刀啊。你把我当什么boss在刷是不是啊，我根本不会掉掉落物，而且我就这一条命!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979627040157667328",
+        "conversation_id": "2039256501853028643",
+        "created_at": "2026-04-01T08:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T09:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039256501853028643"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039256501853028643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7817,
+          "like_count": 109,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "我攻略你，我亲密度有没有往上涨啊?根本没有，我血条一直往下掉啊!你这不是被攻略，你这是攻击我!跟你正常聊天你也是时回时不回的，你还会快慢刀啊。你把我当什么boss在刷是不是啊，我根本不会掉掉落物，而且我就这一条命!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 07 ENFP-T 🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2031647286288060518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034078738712039424/MCUfN4n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 45,
+          "like_count": 582,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 764
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-18T19:14:52.000Z",
+        "description": "我叫昭昭｜♒️05/173/50 ｜发自己爱看的(o^^o) ｜只看高壮帅男｜不聊骚不线下不约无门不加v｜不闲聊没有义务回答别骚扰🙏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pilot.damoplane.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://pilot.damoplane.com/#/register?code=xiadQvfC",
+                "start": 0,
+                "url": "https://t.co/SlnWdFFnZT"
+              }
+            ]
+          }
+        },
+        "id": "1979627040157667328",
+        "location": "玩x只为黄和放松 没义务陪聊谢谢 没回就是不想回",
+        "name": "魅魔村村长",
+        "pinned_tweet_id": "2023800898447904980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018701608016830464/R7efrGA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1694,
+          "following_count": 15,
+          "like_count": 212,
+          "listed_count": 5,
+          "media_count": 221,
+          "tweet_count": 2009
+        },
+        "url": "https://t.co/SlnWdFFnZT",
+        "username": "Not0wned_zhao",
+        "verified": false
+      }
+    ]
+  }
+}

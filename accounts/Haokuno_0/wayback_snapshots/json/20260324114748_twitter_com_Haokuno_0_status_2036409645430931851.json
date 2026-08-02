@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2036403716543356978",
+    "created_at": "2026-03-24T11:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T12:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036409645430931851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1555622253806493696",
+          "start": 0,
+          "username": "Kaed3_tachibanA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036409645430931851",
+    "in_reply_to_user_id": "1555622253806493696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036403716543356978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kaed3_tachibanA 陪一坨🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2036403716543356978",
+        "created_at": "2026-03-24T11:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T12:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036409645430931851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1555622253806493696",
+              "start": 0,
+              "username": "Kaed3_tachibanA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036409645430931851",
+        "in_reply_to_user_id": "1555622253806493696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036403716543356978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kaed3_tachibanA 陪一坨🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555622253806493696",
+        "conversation_id": "2036403716543356978",
+        "created_at": "2026-03-24T11:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T12:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036403716543356978"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036403716543356978",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "报告我要拉屎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 07 ENFP-T 🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2031647286288060518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034078738712039424/MCUfN4n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 40,
+          "like_count": 519,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 665
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-05T18:30:29.000Z",
+        "description": "==橘楓/楓橘｜本垢｜精神障害⚠️⚠️(治療中)｜CAN / MAN / EN / 簡単な日本語｜挨拶不要｜Pansexual 🩷💛🩵｜💊＆🩸注意‼️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Kaed3_tachibanA",
+                "end": 23,
+                "expanded_url": "https://lit.link/Kaed3_tachibanA",
+                "start": 0,
+                "url": "https://t.co/YvOv7ErSJK"
+              }
+            ]
+          }
+        },
+        "id": "1555622253806493696",
+        "location": "天国",
+        "name": "ᐕ)ﾉ",
+        "pinned_tweet_id": "2034268070873899299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894256078331727872/WBB_Tgde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 136,
+          "like_count": 40248,
+          "listed_count": 0,
+          "media_count": 1795,
+          "tweet_count": 20022
+        },
+        "url": "https://t.co/YvOv7ErSJK",
+        "username": "Kaed3_tachibanA",
+        "verified": false
+      }
+    ]
+  }
+}

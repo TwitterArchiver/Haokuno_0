@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2028522000306647180",
+    "created_at": "2026-03-03T08:45:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T09:45:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028753565980692508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1984460148338044928",
+          "start": 0,
+          "username": "FovoeY_0822"
+        },
+        {
+          "end": 26,
+          "id": "1855647297084043265",
+          "start": 13,
+          "username": "AugustJos_22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028753565980692508",
+    "in_reply_to_user_id": "1984460148338044928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028522000306647180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FovoeY_0822 @AugustJos_22 怎么脱的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 566,
+        "media_key": "3_2028521995894177792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCbCAfhWwAA_5e2.jpg",
+        "width": 537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2028522000306647180",
+        "created_at": "2026-03-03T08:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T09:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028753565980692508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1984460148338044928",
+              "start": 0,
+              "username": "FovoeY_0822"
+            },
+            {
+              "end": 26,
+              "id": "1855647297084043265",
+              "start": 13,
+              "username": "AugustJos_22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028753565980692508",
+        "in_reply_to_user_id": "1984460148338044928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028522000306647180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FovoeY_0822 @AugustJos_22 怎么脱的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028521995894177792"
+          ]
+        },
+        "author_id": "1984460148338044928",
+        "conversation_id": "2028522000306647180",
+        "created_at": "2026-03-02T17:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T18:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028522000306647180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MfQhw9XL01",
+              "end": 34,
+              "expanded_url": "https://x.com/FovoeY_0822/status/2028522000306647180/photo/1",
+              "media_key": "3_2028521995894177792",
+              "start": 11,
+              "url": "https://t.co/MfQhw9XL01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028522000306647180",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 42710,
+          "like_count": 451,
+          "quote_count": 3,
+          "reply_count": 41,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "脱完毛牛牛摸着好酥胡 https://t.co/MfQhw9XL01"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面",
+        "id": "1276148275175755776",
+        "name": "潇潇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789938754444292096/FMmDDz1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 225,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 134
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-01T03:19:10.000Z",
+        "description": "大号@AugustJos_22 直男 07 🇬🇧留子 坐标江苏 小号清水推 记录日常和碎碎念",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "AugustJos_22"
+              }
+            ]
+          }
+        },
+        "id": "1984460148338044928",
+        "location": "Manchester, England",
+        "name": "藤原拓海",
+        "pinned_tweet_id": "2021570185522499634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984460313849196544/uM-2b7t3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1819,
+          "following_count": 112,
+          "like_count": 612,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 697
+        },
+        "username": "FovoeY_0822",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-10T16:22:55.000Z",
+        "description": "@FovoeY_0822小号｜直男｜07｜🇬🇧英留｜江苏｜switch｜颜控｜🎮农铲瓦等等等等｜twice重度依赖 kpop博爱｜🚪128/288（没啥别的只是想多圈点 互关可以直接加）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "FovoeY_0822"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/august_jos0822",
+                "end": 23,
+                "expanded_url": "https://ngl.link/august_jos0822",
+                "start": 0,
+                "url": "https://t.co/HOncCtVYfl"
+              }
+            ]
+          }
+        },
+        "id": "1855647297084043265",
+        "location": "在想你",
+        "name": "枫",
+        "pinned_tweet_id": "1959988037989060954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855647466374459393/yGBBTLFY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14709,
+          "following_count": 375,
+          "like_count": 2913,
+          "listed_count": 22,
+          "media_count": 68,
+          "tweet_count": 1917
+        },
+        "url": "https://t.co/HOncCtVYfl",
+        "username": "AugustJos_22",
+        "verified": false
+      }
+    ]
+  }
+}

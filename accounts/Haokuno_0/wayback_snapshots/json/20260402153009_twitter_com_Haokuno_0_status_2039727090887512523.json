@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2039201108502147221",
+    "created_at": "2026-04-02T15:30:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T16:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039727090887512523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1757105459356704768",
+          "start": 0,
+          "username": "lingopark21"
+        },
+        {
+          "end": 29,
+          "id": "1771243501583495168",
+          "start": 13,
+          "username": "Lee641564251936"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039727090887512523",
+    "in_reply_to_user_id": "1757105459356704768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039603084419301735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingopark21 @Lee641564251936 可是我表达喜欢一个人的方式就是给她买好吃的买好玩的买好看的🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2039201108502147221",
+        "created_at": "2026-04-02T15:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039727090887512523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1757105459356704768",
+              "start": 0,
+              "username": "lingopark21"
+            },
+            {
+              "end": 29,
+              "id": "1771243501583495168",
+              "start": 13,
+              "username": "Lee641564251936"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039727090887512523",
+        "in_reply_to_user_id": "1757105459356704768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039603084419301735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingopark21 @Lee641564251936 可是我表达喜欢一个人的方式就是给她买好吃的买好玩的买好看的🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757105459356704768",
+        "conversation_id": "2039201108502147221",
+        "created_at": "2026-04-02T07:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T08:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039603084419301735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1771243501583495168",
+              "start": 0,
+              "username": "Lee641564251936"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039603084419301735",
+        "in_reply_to_user_id": "1771243501583495168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039201108502147221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lee641564251936 有点b钱先花给自己不爽吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 07 ENFP-T 🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2031647286288060518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034078738712039424/MCUfN4n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 44,
+          "like_count": 594,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 780
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T18:12:54.000Z",
+        "description": "设定是一只碎嘴且成分复杂的麻雀 ｜ all of love \n家有二孩 英短叫十一 三花叫七七\n尽量平和 ｜ 直男 ｜ 互关可扩联系 :P",
+        "id": "1757105459356704768",
+        "location": "浙江",
+        "name": "合翼卫",
+        "pinned_tweet_id": "1999408311322706210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018275517951315968/YoTBtZ9i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 130,
+          "like_count": 2447,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 3864
+        },
+        "username": "lingopark21",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T18:33:08.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lee64156425193…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lee6415642519361",
+                "start": 0,
+                "url": "https://t.co/XYjkqN4f7Y"
+              }
+            ]
+          }
+        },
+        "id": "1771243501583495168",
+        "name": "池亓",
+        "pinned_tweet_id": "2012179111960322354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771528717019553792/Y4K8Gvgc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 660,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 2284
+        },
+        "url": "https://t.co/XYjkqN4f7Y",
+        "username": "Lee641564251936",
+        "verified": false
+      }
+    ]
+  }
+}

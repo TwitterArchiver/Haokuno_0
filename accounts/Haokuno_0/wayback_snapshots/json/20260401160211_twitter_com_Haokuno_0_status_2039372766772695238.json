@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2039372766772695238",
+    "created_at": "2026-04-01T16:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T17:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039372766772695238"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ngngvxx/status…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/ngngvxx/status/2039208140009595069",
+          "start": 17,
+          "url": "https://t.co/8bonsIEziw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039372766772695238",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039208140009595069",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可我好像从来没有遇到过这样的关系 https://t.co/8bonsIEziw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2039372766772695238",
+        "created_at": "2026-04-01T16:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039372766772695238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ngngvxx/status…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/ngngvxx/status/2039208140009595069",
+              "start": 17,
+              "url": "https://t.co/8bonsIEziw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039372766772695238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039208140009595069",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可我好像从来没有遇到过这样的关系 https://t.co/8bonsIEziw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2039208140009595069",
+        "created_at": "2026-04-01T05:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T06:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039208140009595069"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039208140009595069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3013,
+          "like_count": 78,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "好的关系从不费劲，无论和谁。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 07 ENFP-T 🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2031647286288060518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034078738712039424/MCUfN4n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 45,
+          "like_count": 582,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 763
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8134,
+          "following_count": 5,
+          "like_count": 986,
+          "listed_count": 23,
+          "media_count": 99,
+          "tweet_count": 1759
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2031264465061355738",
+    "created_at": "2026-03-10T10:00:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T11:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031309229403910235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1653816061698138113",
+          "start": 0,
+          "username": "bhhdb520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031309229403910235",
+    "in_reply_to_user_id": "1653816061698138113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031264465061355738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bhhdb520 没招了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2031264465061355738",
+        "created_at": "2026-03-10T10:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T11:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031309229403910235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1653816061698138113",
+              "start": 0,
+              "username": "bhhdb520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031309229403910235",
+        "in_reply_to_user_id": "1653816061698138113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031264465061355738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bhhdb520 没招了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653816061698138113",
+        "conversation_id": "2031264465061355738",
+        "created_at": "2026-03-10T07:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T08:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031264465061355738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hgds0/status/2…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/hgds0/status/2031180750767403328",
+              "start": 55,
+              "url": "https://t.co/x8YcvBrgVK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031264465061355738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031180750767403328",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "手机离地面5cm摔下来屏幕碎了，错过2堂私教，没睡好觉，差点没拿到快递，吃到了一个难吃的煎饼…好糟糕的两天。 https://t.co/x8YcvBrgVK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 ENFP-T 🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789938754444292096/FMmDDz1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 236,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 177
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-03T17:37:41.000Z",
+        "description": "如果有一天下雨路滑我不小心摔倒还不小心脱掉了你的裤子你会先扶我还是先提裤子",
+        "id": "1653816061698138113",
+        "name": "该用户不存在=)",
+        "pinned_tweet_id": "2029545340375076918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987881703248113664/8pbdCxVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 72,
+          "like_count": 626,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 96
+        },
+        "username": "bhhdb520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2032685165017964955",
+    "created_at": "2026-03-14T10:03:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T11:03:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032759506535387439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1947816343559979009",
+          "start": 0,
+          "username": "ying040507ying"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032759506535387439",
+    "in_reply_to_user_id": "1947816343559979009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032685165017964955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ying040507ying 说到底在推特🈷️是怎么想的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2032685165017964955",
+        "created_at": "2026-03-14T10:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T11:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032759506535387439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1947816343559979009",
+              "start": 0,
+              "username": "ying040507ying"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032759506535387439",
+        "in_reply_to_user_id": "1947816343559979009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032685165017964955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ying040507ying 说到底在推特🈷️是怎么想的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947816343559979009",
+        "conversation_id": "2032685165017964955",
+        "created_at": "2026-03-14T05:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T06:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032685165017964955"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032685165017964955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 445,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近我的主页咋了……怎么那么多吐槽🚪姐的男的 这些男的不是要本地的就是要能线下的 我说白了 目的性这么强不被骗就怪了 男人最懂男人 有时候你都无法确认对方是不是真的女人 仅仅用下半身思考然后被骗你就受着 真实细心温柔的妹子你看不到 就逮着自称母狗骚货的薅 真的很蠢 见一个拉黑一个🐱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 07 ENFP-T 🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2031647286288060518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789938754444292096/FMmDDz1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 251,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 331
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T00:29:49.000Z",
+        "description": "ISFJ｜2004.05.07｜175cm200斤⼁二次元游戏宅｜FPS糕手⼁某不知名美食家⼁野生巨型肖茂密🐱",
+        "id": "1947816343559979009",
+        "location": "中城",
+        "name": "小笼灌汤包",
+        "pinned_tweet_id": "2029157959058768122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985648871691993089/Z5rJy1O9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 89,
+          "like_count": 418,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 168
+        },
+        "username": "ying040507ying",
+        "verified": false
+      }
+    ]
+  }
+}

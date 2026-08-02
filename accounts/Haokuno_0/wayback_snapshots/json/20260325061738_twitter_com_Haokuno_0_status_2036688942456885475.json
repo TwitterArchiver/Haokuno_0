@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2036634510687932711",
+    "created_at": "2026-03-25T06:17:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T07:17:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036688942456885475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1705662085793976320",
+          "start": 0,
+          "username": "Stupidest_Lover"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036688942456885475",
+    "in_reply_to_user_id": "1705662085793976320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036634510687932711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stupidest_Lover 强的可怕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2036634510687932711",
+        "created_at": "2026-03-25T06:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T07:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036688942456885475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1705662085793976320",
+              "start": 0,
+              "username": "Stupidest_Lover"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036688942456885475",
+        "in_reply_to_user_id": "1705662085793976320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036634510687932711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stupidest_Lover 强的可怕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705662085793976320",
+        "conversation_id": "2036634510687932711",
+        "created_at": "2026-03-25T02:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T03:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036634510687932711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/stupidest_love…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/stupidest_lover/status/2036448398556180670",
+              "start": 8,
+              "url": "https://t.co/Hg7q01RxDu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036634510687932711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036448398556180670",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯对，真过了🚬 https://t.co/Hg7q01RxDu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 07 ENFP-T 🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2031647286288060518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034078738712039424/MCUfN4n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 40,
+          "like_count": 546,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 681
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T19:15:36.000Z",
+        "description": "主页话唠 偶尔清空 没有陪聊的义务 忧郁 抽象 发骚ing\nhttps://t.co/6xImHWEsX5（欢迎礼貌提问）infp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bubu979541",
+                "end": 53,
+                "expanded_url": "https://ngl.link/bubu979541",
+                "start": 30,
+                "url": "https://t.co/6xImHWEsX5"
+              }
+            ]
+          }
+        },
+        "id": "1705662085793976320",
+        "location": "有🚪 5200 纯绿（不会真有人发吧",
+        "name": "喜欢睡觉",
+        "pinned_tweet_id": "1981069591850996065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015409947606126592/8PvW4tVk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 85,
+          "like_count": 7236,
+          "listed_count": 3,
+          "media_count": 35,
+          "tweet_count": 177
+        },
+        "username": "Stupidest_Lover",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2032649523135393990",
+    "created_at": "2026-03-14T04:29:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T05:29:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032675377890603061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1883854964772175872",
+          "start": 0,
+          "username": "kocatia_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032675377890603061",
+    "in_reply_to_user_id": "1883854964772175872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032649523135393990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kocatia_ 到底是谁说的操你妈的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2032649523135393990",
+        "created_at": "2026-03-14T04:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T05:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032675377890603061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883854964772175872",
+              "start": 0,
+              "username": "kocatia_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032675377890603061",
+        "in_reply_to_user_id": "1883854964772175872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032649523135393990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kocatia_ 到底是谁说的操你妈的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883854964772175872",
+        "conversation_id": "2032649523135393990",
+        "created_at": "2026-03-14T02:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T03:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032649523135393990"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032649523135393990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底谁说的上了大学就轻松了操你妈的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 07 ENFP-T 🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2031647286288060518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789938754444292096/FMmDDz1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 251,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 327
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T12:30:09.000Z",
+        "description": "プロセカ真皆500↑Master30↓全AP/maimai辉雪樱将/详见置顶/你喜欢我我就喜欢你/话多的时候代表精神不正常/会回fo成分相似/推文内容请对墙内熟人保密感谢配合/提问箱https://t.co/LvgztTx1QC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kocatia",
+                "end": 114,
+                "expanded_url": "https://ngl.link/kocatia",
+                "start": 91,
+                "url": "https://t.co/LvgztTx1QC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/391274456",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/391274456",
+                "start": 0,
+                "url": "https://t.co/w4fZD1XN8z"
+              }
+            ]
+          }
+        },
+        "id": "1883854964772175872",
+        "location": "秘封俱乐部",
+        "name": "Anaphylaxie???",
+        "pinned_tweet_id": "1993352489262108795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024281813410316288/lEMIcIyd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 139,
+          "like_count": 3224,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 889
+        },
+        "url": "https://t.co/w4fZD1XN8z",
+        "username": "kocatia_",
+        "verified": false
+      }
+    ]
+  }
+}

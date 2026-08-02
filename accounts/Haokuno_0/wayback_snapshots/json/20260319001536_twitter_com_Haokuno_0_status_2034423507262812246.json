@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2034240648401018945",
+    "created_at": "2026-03-19T00:15:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T01:15:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034423507262812246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1940963560202686467",
+          "start": 0,
+          "username": "aimm8899"
+        },
+        {
+          "end": 26,
+          "id": "1705662085793976320",
+          "start": 10,
+          "username": "Stupidest_Lover"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034423507262812246",
+    "in_reply_to_user_id": "1940963560202686467",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034309851422359651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aimm8899 @Stupidest_Lover 不是中道崩殂了嘛哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2034240648401018945",
+        "created_at": "2026-03-19T00:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T01:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034423507262812246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1940963560202686467",
+              "start": 0,
+              "username": "aimm8899"
+            },
+            {
+              "end": 26,
+              "id": "1705662085793976320",
+              "start": 10,
+              "username": "Stupidest_Lover"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034423507262812246",
+        "in_reply_to_user_id": "1940963560202686467",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034309851422359651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aimm8899 @Stupidest_Lover 不是中道崩殂了嘛哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940963560202686467",
+        "conversation_id": "2034240648401018945",
+        "created_at": "2026-03-18T16:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T17:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034309851422359651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1705662085793976320",
+              "start": 0,
+              "username": "Stupidest_Lover"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034309851422359651",
+        "in_reply_to_user_id": "1705662085793976320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034240648401018945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stupidest_Lover 我也day0🚬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 07 ENFP-T 🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2031647286288060518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034078738712039424/MCUfN4n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 36,
+          "like_count": 389,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 506
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-04T02:39:21.000Z",
+        "description": "或许我们可以一起喵喵天https://t.co/9YtSCmHt3D",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aimm8899",
+                "end": 34,
+                "expanded_url": "https://ngl.link/aimm8899",
+                "start": 11,
+                "url": "https://t.co/9YtSCmHt3D"
+              }
+            ]
+          }
+        },
+        "id": "1940963560202686467",
+        "location": "🍔",
+        "name": "熊不熊为了俺对所有人都坏",
+        "pinned_tweet_id": "2021463562640818503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018505207773360128/3CTeMA72_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 115,
+          "like_count": 11138,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 4635
+        },
+        "username": "aimm8899",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T19:15:36.000Z",
+        "description": "主页话唠 偶尔清空 没有陪聊的义务 忧郁 抽象 发骚ing\nhttps://t.co/6xImHWEsX5（欢迎礼貌提问）infp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bubu979541",
+                "end": 53,
+                "expanded_url": "https://ngl.link/bubu979541",
+                "start": 30,
+                "url": "https://t.co/6xImHWEsX5"
+              }
+            ]
+          }
+        },
+        "id": "1705662085793976320",
+        "location": "有🚪 5200 纯绿（不会真有人发吧",
+        "name": "喜欢睡觉",
+        "pinned_tweet_id": "1981069591850996065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015409947606126592/8PvW4tVk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 86,
+          "like_count": 6311,
+          "listed_count": 3,
+          "media_count": 30,
+          "tweet_count": 122
+        },
+        "username": "Stupidest_Lover",
+        "verified": false
+      }
+    ]
+  }
+}
