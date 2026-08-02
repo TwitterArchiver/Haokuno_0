@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2044358332597895313",
+    "created_at": "2026-04-15T11:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T12:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044373630151442933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1947816343559979009",
+          "start": 0,
+          "username": "ying040507ying"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044373630151442933",
+    "in_reply_to_user_id": "1947816343559979009",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044358332597895313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ying040507ying 拉黑呗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2044358332597895313",
+        "created_at": "2026-04-15T11:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T12:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044373630151442933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1947816343559979009",
+              "start": 0,
+              "username": "ying040507ying"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044373630151442933",
+        "in_reply_to_user_id": "1947816343559979009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044358332597895313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ying040507ying 拉黑呗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947816343559979009",
+        "conversation_id": "2044358332597895313",
+        "created_at": "2026-04-15T10:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T11:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044358332597895313"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044358332597895313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 219,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有什么办法让取关的人不要再出现在我主页了🚬\n\n长得再美再帅身材再好 发现ta三观感人的一瞬间就下头了😐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040446372651155456/38-H0Dtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 43,
+          "like_count": 684,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 523
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T00:29:49.000Z",
+        "description": "ISFJ｜175cm200斤⼁野生巨型肖茂密🐱｜顶级游戏宅在线接陪🥣｜希望大家能理性看待我的“碎碎念”",
+        "id": "1947816343559979009",
+        "location": "中城",
+        "name": "小笼灌汤包",
+        "pinned_tweet_id": "2038330065751322878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033840750241452037/ICJdDIcz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1631,
+          "following_count": 115,
+          "like_count": 1077,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 308
+        },
+        "username": "ying040507ying",
+        "verified": false
+      }
+    ]
+  }
+}

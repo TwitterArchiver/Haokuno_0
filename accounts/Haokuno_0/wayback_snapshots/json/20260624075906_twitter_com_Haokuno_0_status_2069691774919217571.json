@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2069691774919217571",
+    "created_at": "2026-06-24T07:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T08:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069691774919217571"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yumi320521/sta…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/yumi320521/status/2069379854651539688",
+          "start": 22,
+          "url": "https://t.co/LidFw1iPcT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069691774919217571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069379854651539688",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "出门看到别人有这样的痕迹的话我是觉得没什么 https://t.co/LidFw1iPcT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2069691774919217571",
+        "created_at": "2026-06-24T07:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T08:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069691774919217571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yumi320521/sta…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/yumi320521/status/2069379854651539688",
+              "start": 22,
+              "url": "https://t.co/LidFw1iPcT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069691774919217571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069379854651539688",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "出门看到别人有这样的痕迹的话我是觉得没什么 https://t.co/LidFw1iPcT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2069379854651539688",
+        "created_at": "2026-06-23T11:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069379854651539688"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069379854651539688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4288,
+          "like_count": 36,
+          "quote_count": 4,
+          "reply_count": 44,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出门别人看见手臂你们会自卑吗 每次我都会小心挡着…（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n死亡不是终点\n祝大家天天开心\n看到喜欢的会回fo",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 99,
+          "like_count": 1057,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1193
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= 茶柚/Yumi 🐼\n桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 142,
+          "like_count": 4425,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 821
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

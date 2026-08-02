@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2066784362998145198",
+    "created_at": "2026-06-16T07:43:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T08:43:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066788777155322155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2012048367845822464",
+          "start": 0,
+          "username": "souomaoxo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066788777155322155",
+    "in_reply_to_user_id": "2012048367845822464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066784362998145198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@souomaoxo 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2066784362998145198",
+        "created_at": "2026-06-16T07:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T08:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066788777155322155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2012048367845822464",
+              "start": 0,
+              "username": "souomaoxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066788777155322155",
+        "in_reply_to_user_id": "2012048367845822464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066784362998145198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@souomaoxo 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012048367845822464",
+        "conversation_id": "2066784362998145198",
+        "created_at": "2026-06-16T07:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T08:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066784362998145198"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066784362998145198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈又掉了五个粉丝 顺直男看见我不发福利终于取关我了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 98,
+          "like_count": 941,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 979
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-16T06:24:57.000Z",
+        "description": "💕@王馬小吉\n🇨🇳|精神不穩定|OD |自傷\n想和各種各樣的人們友好互動",
+        "id": "2012048367845822464",
+        "location": "🚪52",
+        "name": "所有人都死了",
+        "pinned_tweet_id": "2057266630741143696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064016601490305024/Mb6TDe3W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 115,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 215
+        },
+        "username": "souomaoxo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2045248851867770979",
+    "created_at": "2026-04-18T04:13:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T05:13:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045355067931312371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1752693029096599552",
+          "start": 0,
+          "username": "diyi77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045355067931312371",
+    "in_reply_to_user_id": "1752693029096599552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045248851867770979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@diyi77 换头像了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2045248851867770979",
+        "created_at": "2026-04-18T04:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T05:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045355067931312371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1752693029096599552",
+              "start": 0,
+              "username": "diyi77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045355067931312371",
+        "in_reply_to_user_id": "1752693029096599552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045248851867770979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@diyi77 换头像了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752693029096599552",
+        "conversation_id": "2045248851867770979",
+        "created_at": "2026-04-17T21:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T22:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045248851867770979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045248851867770979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "额我好想要啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040446372651155456/38-H0Dtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 41,
+          "like_count": 695,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 537
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T13:59:34.000Z",
+        "description": "一具孤独冰冷的尸体｜如果你认识我请装作没看见｜当朋友圈发｜不要離開我",
+        "id": "1752693029096599552",
+        "name": "過期眼淚存檔",
+        "pinned_tweet_id": "1902227340228190455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045290886519738368/fd48GAgf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 141,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 436
+        },
+        "username": "diyi77",
+        "verified": false
+      }
+    ]
+  }
+}

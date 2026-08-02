@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2055582651780927538",
+    "created_at": "2026-05-16T12:08:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T13:08:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055621520605511865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2040445355184009216",
+          "start": 0,
+          "username": "seeinMillennium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055621520605511865",
+    "in_reply_to_user_id": "2040445355184009216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055582651780927538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seeinMillennium 不抽烟"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2055582646944886784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIblhsWbcAAGUH6.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2055582651780927538",
+        "created_at": "2026-05-16T12:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055621520605511865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2040445355184009216",
+              "start": 0,
+              "username": "seeinMillennium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055621520605511865",
+        "in_reply_to_user_id": "2040445355184009216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055582651780927538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeinMillennium 不抽烟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055582646944886784"
+          ]
+        },
+        "author_id": "2040445355184009216",
+        "conversation_id": "2055582651780927538",
+        "created_at": "2026-05-16T09:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055582651780927538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/imeroN2dmQ",
+              "end": 37,
+              "expanded_url": "https://x.com/seeinMillennium/status/2055582651780927538/photo/1",
+              "media_key": "3_2055582646944886784",
+              "start": 14,
+              "url": "https://t.co/imeroN2dmQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055582651780927538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 461,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有人完成今天的抽烟任务。 https://t.co/imeroN2dmQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040446372651155456/38-H0Dtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 50,
+          "like_count": 747,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 631
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T15:04:33.000Z",
+        "description": "15岁高中生 oder💊MTF 已炸柜父母威胁党抑郁/焦虑/c-ptsd\n喜欢听摇滚 割🔪重返未来1999 偶尔发一些意识流诗文\n只要有手机耳机我就在听歌睡觉也在\n被pr80空腹逼疯的胃病患者",
+        "id": "2040445355184009216",
+        "name": "🍥马库斯爱吃蛋糕​💊🏳️‍⚧️(二代目)",
+        "pinned_tweet_id": "2054812970241425432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054809917853466624/fkXS2D8U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 252,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 43
+        },
+        "username": "seeinMillennium",
+        "verified": false
+      }
+    ]
+  }
+}

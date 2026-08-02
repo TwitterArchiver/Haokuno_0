@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2066154418408497408",
+    "created_at": "2026-06-14T14:18:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T15:18:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066163390155002290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1927018923649564674",
+          "start": 0,
+          "username": "dddddd10792941"
+        },
+        {
+          "end": 28,
+          "id": "1975129821111074816",
+          "start": 16,
+          "username": "woaiuai0721"
+        },
+        {
+          "end": 38,
+          "id": "1859058867352858625",
+          "start": 29,
+          "username": "lgdlaika"
+        },
+        {
+          "end": 50,
+          "id": "1873352140246466560",
+          "start": 39,
+          "username": "Fafa881869"
+        },
+        {
+          "end": 64,
+          "id": "1545782617240653825",
+          "start": 51,
+          "username": "Orange_Chr1s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066163390155002290",
+    "in_reply_to_user_id": "1927018923649564674",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066154418408497408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dddddd10792941 @woaiuai0721 @lgdlaika @Fafa881869 @Orange_Chr1s 我去，最符合头像的一集"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2066154415141138433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKx0fl2XsAE9qrc.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2066154418408497408",
+        "created_at": "2026-06-14T14:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066163390155002290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1927018923649564674",
+              "start": 0,
+              "username": "dddddd10792941"
+            },
+            {
+              "end": 28,
+              "id": "1975129821111074816",
+              "start": 16,
+              "username": "woaiuai0721"
+            },
+            {
+              "end": 38,
+              "id": "1859058867352858625",
+              "start": 29,
+              "username": "lgdlaika"
+            },
+            {
+              "end": 50,
+              "id": "1873352140246466560",
+              "start": 39,
+              "username": "Fafa881869"
+            },
+            {
+              "end": 64,
+              "id": "1545782617240653825",
+              "start": 51,
+              "username": "Orange_Chr1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066163390155002290",
+        "in_reply_to_user_id": "1927018923649564674",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066154418408497408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dddddd10792941 @woaiuai0721 @lgdlaika @Fafa881869 @Orange_Chr1s 我去，最符合头像的一集"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066154415141138433"
+          ]
+        },
+        "author_id": "1927018923649564674",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2066154418408497408",
+        "created_at": "2026-06-14T13:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066154418408497408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 37,
+              "id": "1975129821111074816",
+              "start": 25,
+              "username": "woaiuai0721"
+            },
+            {
+              "end": 47,
+              "id": "1859058867352858625",
+              "start": 38,
+              "username": "lgdlaika"
+            },
+            {
+              "end": 66,
+              "id": "1873352140246466560",
+              "start": 55,
+              "username": "Fafa881869"
+            },
+            {
+              "end": 83,
+              "id": "1276148275175755776",
+              "start": 73,
+              "username": "Haokuno_0"
+            },
+            {
+              "end": 97,
+              "id": "1545782617240653825",
+              "start": 84,
+              "username": "Orange_Chr1s"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 125,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=ko",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2064149432980131840/y6JJI0qX?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2064149432980131840/y6JJI0qX?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 102,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=ko",
+              "url": "https://t.co/RA1L2aTzUJ"
+            },
+            {
+              "display_url": "pic.x.com/x8A3BZTSES",
+              "end": 149,
+              "expanded_url": "https://x.com/dddddd10792941/status/2066154418408497408/photo/1",
+              "media_key": "3_2066154415141138433",
+              "start": 126,
+              "url": "https://t.co/x8A3BZTSES"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066154418408497408",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 내 트위터 가족:\n👫 부모님: @woaiuai0721 @lgdlaika\n👰 배우자: @Fafa881869\n👶 자녀: @Haokuno_0 @Orange_Chr1s\n\n➡️ https://t.co/RA1L2aTzUJ https://t.co/x8A3BZTSES"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n爱压抑\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 92,
+          "like_count": 892,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 915
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T15:08:23.000Z",
+        "description": "一个无建模，无经济，无背景的外道魔像一枚捏\n如果看到哪位宝宝关注我我都会回关的\n想去死想去死想去死\n很缺爱的一个入，很希望有个依靠，但想起自己那丑陋的皮囊还是算了吧\n梦想就是下辈子变成腿白，身材不胖建模好，声音中性的男生然后穿上女装当男娘发好看的白丝黑丝和cos服给推友们看豪堪的喵\n希望两年后会倒在自己的血泊中无人在意",
+        "id": "1927018923649564674",
+        "location": "躺上去肯定会舒服的地方",
+        "name": "缺爱哥布林想要重生为建模优美男娘",
+        "pinned_tweet_id": "2063468670790291840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062963140418310144/9zuI0VwU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 162,
+          "like_count": 810,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 716
+        },
+        "username": "dddddd10792941",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T09:24:02.000Z",
+        "description": "11年初二生，大家可以叫我朱雨辰，想要交朋友，无奈之人，欧弟歌手啥的多多少少沾一点，对人类很友善，只是不要骂我，顺男\nip：浙江",
+        "id": "1975129821111074816",
+        "location": "明天",
+        "name": "朱雨辰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063519665939513344/boBh1bgH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 163,
+          "like_count": 7884,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1884
+        },
+        "username": "woaiuai0721",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-20T02:19:44.000Z",
+        "description": "10年的一个普通南孩纸 (認知是非二元喵\n会画画但很烂\n想是成爲一名游戲程序員？\n不长玩游戏打游戏很菜的歇（喜歡mc\n用网抑郁音乐，同时也是术批（最喜欢张丽丽小入机啦！！\n在线时间：早八到晚6随机上线；周末不在线\n欢迎私信骚扰喵\n请理性玩梗！！！！",
+        "id": "1859058867352858625",
+        "name": "諾亞_lgdlaika🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059478017093894144/F7g9Bo3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 114,
+          "like_count": 11274,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 517
+        },
+        "username": "lgdlaika",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-29T12:55:40.000Z",
+        "description": "(｡･∀･)ﾉﾞ你好，叫我fafa就行啦\n独游爱好者，平时爱玩OW或者VRC\n有双相情感障碍，窝是泛性恋\n喜欢收集各种梗图和逆天图（收集癖）\n喜欢各种各样可爱的小东西=w=\n什么圈子都知道一些（成分超级复杂）超喜欢纯爱！对所有人保持善意OwO\n希望每个人都可以好好的活下去…\n\n还有！祝大家每天都开开心心顺顺利利的呀！",
+        "id": "1873352140246466560",
+        "location": "沃尔库塔-5",
+        "name": "Fafa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000434774960377856/hYn7tsN0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 367,
+          "like_count": 2609,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1000
+        },
+        "username": "Fafa881869",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 130,
+          "like_count": 3508,
+          "listed_count": 0,
+          "media_count": 211,
+          "tweet_count": 1563
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      }
+    ]
+  }
+}

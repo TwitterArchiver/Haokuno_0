@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2066550304766890145",
+    "created_at": "2026-06-15T15:56:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:56:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066550304766890145"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kana_satsushou…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/kana_satsushou/status/2066548738152443972",
+          "start": 5,
+          "url": "https://t.co/NipFusJo6x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066550304766890145",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066548738152443972",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "教教我呗 https://t.co/NipFusJo6x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2066550304766890145",
+        "created_at": "2026-06-15T15:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066550304766890145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kana_satsushou…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/kana_satsushou/status/2066548738152443972",
+              "start": 5,
+              "url": "https://t.co/NipFusJo6x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066550304766890145",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066548738152443972",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "教教我呗 https://t.co/NipFusJo6x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794131217463615488",
+        "conversation_id": "2066548738152443972",
+        "created_at": "2026-06-15T15:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066548738152443972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/syxwoaini/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/syxwoaini/status/2065468224037392703",
+              "start": 16,
+              "url": "https://t.co/HpRl3OXoZ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066548738152443972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065468224037392703",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们到底咋谈上恋爱的\n教教我呗 https://t.co/HpRl3OXoZ8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 95,
+          "like_count": 932,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 963
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T22:20:05.000Z",
+        "description": "现实生活败北组",
+        "id": "1794131217463615488",
+        "location": "中华人民共和国",
+        "name": "柠洛笙箫",
+        "pinned_tweet_id": "2010024232970031360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062750457530036224/OF_K2cO8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3463,
+          "following_count": 4905,
+          "like_count": 1818,
+          "listed_count": 10,
+          "media_count": 433,
+          "tweet_count": 6620
+        },
+        "username": "kana_satsushou",
+        "verified": false
+      }
+    ]
+  }
+}

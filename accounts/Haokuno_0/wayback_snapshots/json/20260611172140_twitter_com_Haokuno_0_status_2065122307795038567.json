@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065122298638786560"
+      ]
+    },
+    "author_id": "1276148275175755776",
+    "conversation_id": "2065122307795038567",
+    "created_at": "2026-06-11T17:21:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T18:21:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065122307795038567"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oCwENkgvaQ",
+          "end": 34,
+          "expanded_url": "https://x.com/Haokuno_0/status/2065122307795038567/photo/1",
+          "media_key": "3_2065122298638786560",
+          "start": 11,
+          "url": "https://t.co/oCwENkgvaQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065122307795038567",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的很像女生么…. https://t.co/oCwENkgvaQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1843,
+        "media_key": "3_2065122298638786560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKjJygQaYAAwJtS.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065122298638786560"
+          ]
+        },
+        "author_id": "1276148275175755776",
+        "conversation_id": "2065122307795038567",
+        "created_at": "2026-06-11T17:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T18:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065122307795038567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oCwENkgvaQ",
+              "end": 34,
+              "expanded_url": "https://x.com/Haokuno_0/status/2065122307795038567/photo/1",
+              "media_key": "3_2065122298638786560",
+              "start": 11,
+              "url": "https://t.co/oCwENkgvaQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065122307795038567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很像女生么…. https://t.co/oCwENkgvaQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n爱压抑\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055630473590640640/aiv2NKqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 81,
+          "like_count": 832,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 819
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      }
+    ]
+  }
+}

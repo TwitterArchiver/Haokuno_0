@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2046039312752599490",
+    "created_at": "2026-04-20T01:38:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T02:38:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046040820243923024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1947816343559979009",
+          "start": 0,
+          "username": "ying040507ying"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046040820243923024",
+    "in_reply_to_user_id": "1947816343559979009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046039312752599490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ying040507ying 确实好久没看见了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2046039312752599490",
+        "created_at": "2026-04-20T01:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T02:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046040820243923024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1947816343559979009",
+              "start": 0,
+              "username": "ying040507ying"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046040820243923024",
+        "in_reply_to_user_id": "1947816343559979009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046039312752599490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ying040507ying 确实好久没看见了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947816343559979009",
+        "conversation_id": "2046039312752599490",
+        "created_at": "2026-04-20T01:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T02:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046039312752599490"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046039312752599490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么现在的甜品店看不到甜甜圈🍩了 昨天🐷瘾犯了想吃甜甜圈 发现周围没有一家店卖的 网上也只能搜到打着甜甜圈幌子的圈形面包 难道说甜甜圈已经被淘汰了吗……？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040446372651155456/38-H0Dtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 43,
+          "like_count": 709,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 561
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T00:29:49.000Z",
+        "description": "ISFJ｜175cm200斤⼁野生巨型肖茂密🐱｜顶级游戏宅在线接陪🥣｜希望大家能理性看待我的“碎碎念”",
+        "id": "1947816343559979009",
+        "location": "中城",
+        "name": "小笼灌汤包",
+        "pinned_tweet_id": "2038330065751322878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033840750241452037/ICJdDIcz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1742,
+          "following_count": 119,
+          "like_count": 1250,
+          "listed_count": 3,
+          "media_count": 118,
+          "tweet_count": 324
+        },
+        "username": "ying040507ying",
+        "verified": false
+      }
+    ]
+  }
+}

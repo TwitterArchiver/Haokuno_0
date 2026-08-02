@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2051555255423320065",
+        "3_2051555255616184323",
+        "3_2051555255406469127"
+      ]
+    },
+    "author_id": "1276148275175755776",
+    "conversation_id": "2051555556922441897",
+    "created_at": "2026-05-05T06:52:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T07:52:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051555556922441897"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sDUfPIMqy7",
+          "end": 50,
+          "expanded_url": "https://x.com/Haokuno_0/status/2051555556922441897/video/1",
+          "media_key": "13_2051555255423320065",
+          "start": 27,
+          "url": "https://t.co/sDUfPIMqy7"
+        },
+        {
+          "display_url": "pic.x.com/sDUfPIMqy7",
+          "end": 50,
+          "expanded_url": "https://x.com/Haokuno_0/status/2051555556922441897/video/1",
+          "media_key": "3_2051555255616184323",
+          "start": 27,
+          "url": "https://t.co/sDUfPIMqy7"
+        },
+        {
+          "display_url": "pic.x.com/sDUfPIMqy7",
+          "end": 50,
+          "expanded_url": "https://x.com/Haokuno_0/status/2051555556922441897/video/1",
+          "media_key": "3_2051555255406469127",
+          "start": 27,
+          "url": "https://t.co/sDUfPIMqy7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051555556922441897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "月亮好像知道我要走一样，在我走前的半个小时来找我玩了 https://t.co/sDUfPIMqy7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6633,
+        "height": 1280,
+        "media_key": "13_2051555255423320065",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051555255423320065/img/DMwzpnj_dQLw5fDj.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051555255423320065/vid/avc1/320x568/H0-37YSdEKHzMOsz.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051555255423320065/vid/avc1/480x852/y_bFyTDTwp4MwUgJ.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051555255423320065/vid/avc1/720x1280/lwYhuxgl-7Ph19Uh.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051555255423320065/pl/Urq81DO_sd8wLXup.m3u8?tag=27"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2051555255616184323",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHiWoqgWoAMo-80.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051555255406469127",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHiWopuWoAcWSKZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051555255423320065",
+            "3_2051555255616184323",
+            "3_2051555255406469127"
+          ]
+        },
+        "author_id": "1276148275175755776",
+        "conversation_id": "2051555556922441897",
+        "created_at": "2026-05-05T06:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T07:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051555556922441897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sDUfPIMqy7",
+              "end": 50,
+              "expanded_url": "https://x.com/Haokuno_0/status/2051555556922441897/video/1",
+              "media_key": "13_2051555255423320065",
+              "start": 27,
+              "url": "https://t.co/sDUfPIMqy7"
+            },
+            {
+              "display_url": "pic.x.com/sDUfPIMqy7",
+              "end": 50,
+              "expanded_url": "https://x.com/Haokuno_0/status/2051555556922441897/video/1",
+              "media_key": "3_2051555255616184323",
+              "start": 27,
+              "url": "https://t.co/sDUfPIMqy7"
+            },
+            {
+              "display_url": "pic.x.com/sDUfPIMqy7",
+              "end": 50,
+              "expanded_url": "https://x.com/Haokuno_0/status/2051555556922441897/video/1",
+              "media_key": "3_2051555255406469127",
+              "start": 27,
+              "url": "https://t.co/sDUfPIMqy7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051555556922441897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "月亮好像知道我要走一样，在我走前的半个小时来找我玩了 https://t.co/sDUfPIMqy7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040446372651155456/38-H0Dtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 46,
+          "like_count": 740,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 597
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      }
+    ]
+  }
+}

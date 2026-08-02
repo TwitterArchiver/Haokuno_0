@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2076326927183573427",
+    "created_at": "2026-07-12T15:42:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T16:42:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076331255805988989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2074270585396531200",
+          "start": 0,
+          "username": "Chenpui2"
+        },
+        {
+          "end": 22,
+          "id": "2069131894957191168",
+          "start": 10,
+          "username": "Hemlock_114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076331255805988989",
+    "in_reply_to_user_id": "2074270585396531200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076330424654246085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chenpui2 @Hemlock_114 这是好事啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2076326927183573427",
+        "created_at": "2026-07-12T15:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076331255805988989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2074270585396531200",
+              "start": 0,
+              "username": "Chenpui2"
+            },
+            {
+              "end": 22,
+              "id": "2069131894957191168",
+              "start": 10,
+              "username": "Hemlock_114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076331255805988989",
+        "in_reply_to_user_id": "2074270585396531200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076330424654246085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chenpui2 @Hemlock_114 这是好事啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2074270585396531200",
+        "conversation_id": "2076326927183573427",
+        "created_at": "2026-07-12T15:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076330424654246085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2069131894957191168",
+              "start": 0,
+              "username": "Hemlock_114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076330424654246085",
+        "in_reply_to_user_id": "2069131894957191168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076326927183573427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hemlock_114 我也是 被良子附身了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T\n@Yeyuxiao_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Yeyuxiao_0"
+              }
+            ]
+          }
+        },
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 96,
+          "like_count": 1168,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1421
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-06T23:14:58.000Z",
+        "description": "小辰\n💊🩸🔪/LGBTQ友好/有fo就回 没回请私信我🥺/梦到什么发什么",
+        "id": "2074270585396531200",
+        "name": "辰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074271271358230528/h-KK1N-1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 85,
+          "like_count": 427,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "Chenpui2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-22T18:56:04.000Z",
+        "description": "🇭🇰 10 单机透明人🍋\noder｜🩸｜碎碎念｜小作文\n前世@Hemlock_113 (´；ω；｀)\n害怕社交 社交恐惧 只互fo同类",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Hemlock_113"
+              }
+            ]
+          }
+        },
+        "id": "2069131894957191168",
+        "name": "凝檬_☆2.0",
+        "pinned_tweet_id": "2069139098594611364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069134933218705408/DX0rO-YL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 107,
+          "like_count": 250,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 367
+        },
+        "url": "",
+        "username": "Hemlock_114",
+        "verified": true
+      }
+    ]
+  }
+}

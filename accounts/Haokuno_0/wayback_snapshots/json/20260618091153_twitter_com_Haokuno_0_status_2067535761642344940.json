@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2067530063420276879",
+    "created_at": "2026-06-18T09:11:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T10:11:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067535761642344940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1863482901670895616",
+          "start": 0,
+          "username": "osborn_11s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067535761642344940",
+    "in_reply_to_user_id": "1863482901670895616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067530063420276879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@osborn_11s 打电话去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2067530063420276879",
+        "created_at": "2026-06-18T09:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067535761642344940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1863482901670895616",
+              "start": 0,
+              "username": "osborn_11s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067535761642344940",
+        "in_reply_to_user_id": "1863482901670895616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067530063420276879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@osborn_11s 打电话去了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863482901670895616",
+        "conversation_id": "2067530063420276879",
+        "created_at": "2026-06-18T08:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067530063420276879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/spaces/1wxWj…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1wxWjjAWwomJQ",
+              "start": 0,
+              "status": 200,
+              "title": "X",
+              "unwound_url": "https://twitter.com/i/spaces/1wxWjjAWwomJQ/peek",
+              "url": "https://t.co/Ju6o3MpEGq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067530063420276879",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Ju6o3MpEGq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n祝大家天天开心\n看到喜欢的会回fo",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 100,
+          "like_count": 977,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1040
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T07:19:18.000Z",
+        "description": "上學中┊♀┊♑\n動漫┊漫畫┊小說┊風景┊恐怖電影\n經常胡思亂想。\n回過神來又在自言自語了。\nDM◎\n通話◎\n歡迎閒聊\n努力生活的乖小孩@plh1649513",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 67,
+                "username": "plh1649513"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/osborn_11s",
+                "end": 23,
+                "expanded_url": "https://ngl.link/osborn_11s",
+                "start": 0,
+                "url": "https://t.co/x32Q6DJj3g"
+              }
+            ]
+          }
+        },
+        "id": "1863482901670895616",
+        "name": "塩漬けの魚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067507211165995008/GOCqB3qF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 128,
+          "like_count": 3653,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 630
+        },
+        "url": "https://t.co/x32Q6DJj3g",
+        "username": "osborn_11s",
+        "verified": false
+      }
+    ]
+  }
+}

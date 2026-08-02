@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2076550688281346497",
+    "created_at": "2026-07-14T01:23:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T02:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076839945260704117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1913279084869844992",
+          "start": 0,
+          "username": "lengxi_i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076839945260704117",
+    "in_reply_to_user_id": "1913279084869844992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076550688281346497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lengxi_i 萌袖萌袖"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076550555632287744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFjunKaQAAd_Un.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2076550555464605696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFjumiboAAwXRr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2076550688281346497",
+        "created_at": "2026-07-14T01:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T02:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076839945260704117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913279084869844992",
+              "start": 0,
+              "username": "lengxi_i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076839945260704117",
+        "in_reply_to_user_id": "1913279084869844992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076550688281346497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lengxi_i 萌袖萌袖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076550555632287744",
+            "3_2076550555464605696"
+          ]
+        },
+        "author_id": "1913279084869844992",
+        "conversation_id": "2076550688281346497",
+        "created_at": "2026-07-13T06:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T07:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076550688281346497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6jTZXc9Fo8",
+              "end": 46,
+              "expanded_url": "https://x.com/lengxi_i/status/2076550688281346497/photo/1",
+              "media_key": "3_2076550555632287744",
+              "start": 23,
+              "url": "https://t.co/6jTZXc9Fo8"
+            },
+            {
+              "display_url": "pic.x.com/6jTZXc9Fo8",
+              "end": 46,
+              "expanded_url": "https://x.com/lengxi_i/status/2076550688281346497/photo/1",
+              "media_key": "3_2076550555464605696",
+              "start": 23,
+              "url": "https://t.co/6jTZXc9Fo8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076550688281346497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 10157,
+          "like_count": 141,
+          "quote_count": 0,
+          "reply_count": 83,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好喜欢大袖子。水袖看起来很萌！(=^ω^=) https://t.co/6jTZXc9Fo8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T\n@Yeyuxiao_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Yeyuxiao_0"
+              }
+            ]
+          }
+        },
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 96,
+          "like_count": 1184,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1440
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-18T17:11:07.000Z",
+        "description": "是个非常i的人（infp）大圈 手控 颜控 是淘气小猫brat 是射手座12.21，比较喜欢网上瞎聊，喜欢碎碎念，身高158/74斤，喜欢jk可爱的东西，有一只缅因猫🐱，可以找我聊天呀，拒绝没素质没礼貌精虫上脑的人，拒➕v",
+        "id": "1913279084869844992",
+        "location": "火星",
+        "name": "冷戏^ω^",
+        "pinned_tweet_id": "1964921328605278450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924386076526886912/FFhp9wEx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2731,
+          "following_count": 49,
+          "like_count": 1682,
+          "listed_count": 9,
+          "media_count": 235,
+          "tweet_count": 1010
+        },
+        "url": "",
+        "username": "lengxi_i",
+        "verified": false
+      }
+    ]
+  }
+}

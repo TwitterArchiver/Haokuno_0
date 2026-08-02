@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2078330384132317236",
+    "created_at": "2026-07-19T10:08:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T11:08:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078784063167762464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1927018923649564674",
+          "start": 0,
+          "username": "dddddd10792941"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078784063167762464",
+    "in_reply_to_user_id": "1927018923649564674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078782194353582145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dddddd10792941 我去，谢谢谢谢☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2078330384132317236",
+        "created_at": "2026-07-19T10:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T11:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078784063167762464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1927018923649564674",
+              "start": 0,
+              "username": "dddddd10792941"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078784063167762464",
+        "in_reply_to_user_id": "1927018923649564674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078782194353582145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dddddd10792941 我去，谢谢谢谢☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927018923649564674",
+        "conversation_id": "2078330384132317236",
+        "created_at": "2026-07-19T10:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T11:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078782194353582145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1276148275175755776",
+              "start": 0,
+              "username": "Haokuno_0"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Are you shadowbanned on Twitter?",
+              "display_url": "shadowban.yuzurisa.com",
+              "end": 44,
+              "expanded_url": "https://shadowban.yuzurisa.com/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2077650852060315648/LcjYYi_S?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2077650852060315648/LcjYYi_S?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 21,
+              "status": 200,
+              "title": "Twitter Shadowban Test",
+              "unwound_url": "https://shadowban.yuzurisa.com/",
+              "url": "https://t.co/KIwPjgZCaY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078782194353582145",
+        "in_reply_to_user_id": "1276148275175755776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078342464319238615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haokuno_0 有专门测这个的链接的https://t.co/KIwPjgZCaY\n复制你名字后面的id就可以了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T\n@Yeyuxiao_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Yeyuxiao_0"
+              }
+            ]
+          }
+        },
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 98,
+          "like_count": 1203,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 1509
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-26T15:08:23.000Z",
+        "description": "一个无建模，无经济，无背景的外道魔像\n马上就死了，互fo过的想取关的我不会拦着的\n不再渴求爱\n希望下辈子变成腿白，身材不胖建模好，声音中性的男生然后穿上女装当男娘\n希望之后会倒在自己的血泊中无人在意\n我讨厌谎言 我这辈子最他妈讨厌的就是他妈的谎言……\n我绝不会原谅背着爱人对外卖身的家伙，一辈子也不会…下辈子也不会原谅！",
+        "id": "1927018923649564674",
+        "location": "红色的“液体床”",
+        "name": "就以死亡来救赎哥布林那“绝望”的心灵吧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069259039045980160/IOwqW_y__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 194,
+          "like_count": 1357,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 695
+        },
+        "url": "",
+        "username": "dddddd10792941",
+        "verified": false
+      }
+    ]
+  }
+}

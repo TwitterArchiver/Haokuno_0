@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2072594250718466393",
+    "created_at": "2026-07-02T08:17:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T09:17:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072595527661957497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035873731441307648",
+          "start": 0,
+          "username": "Kirakirapicboss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072595527661957497",
+    "in_reply_to_user_id": "2035873731441307648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072594250718466393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirakirapicboss 改名字差点没认出来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072594222788571136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNVduzW8AAfHLQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2072594250718466393",
+        "created_at": "2026-07-02T08:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T09:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072595527661957497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035873731441307648",
+              "start": 0,
+              "username": "Kirakirapicboss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072595527661957497",
+        "in_reply_to_user_id": "2035873731441307648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072594250718466393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirakirapicboss 改名字差点没认出来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072594222788571136"
+          ]
+        },
+        "author_id": "2035873731441307648",
+        "conversation_id": "2072594250718466393",
+        "created_at": "2026-07-02T08:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T09:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072594250718466393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/soMeSE6JCc",
+              "end": 30,
+              "expanded_url": "https://x.com/Kirakirapicboss/status/2072594250718466393/photo/1",
+              "media_key": "3_2072594222788571136",
+              "start": 7,
+              "url": "https://t.co/soMeSE6JCc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072594250718466393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难喝的我想吐 https://t.co/soMeSE6JCc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 98,
+          "like_count": 1116,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1306
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T00:28:02.000Z",
+        "description": "ο(=·ω＜=)☆kira",
+        "id": "2035873731441307648",
+        "name": "MafiAnBOSS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072217723225206784/a3DQBXAE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 85,
+          "like_count": 488,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 329
+        },
+        "url": "",
+        "username": "Kirakirapicboss",
+        "verified": false
+      }
+    ]
+  }
+}

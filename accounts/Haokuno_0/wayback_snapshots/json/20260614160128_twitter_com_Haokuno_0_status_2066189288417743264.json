@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2066188493798129908",
+    "created_at": "2026-06-14T16:01:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T17:01:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066189288417743264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2012048367845822464",
+          "start": 0,
+          "username": "souomaoxo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066189288417743264",
+    "in_reply_to_user_id": "2012048367845822464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066188493798129908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@souomaoxo ！强强？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2066188479147417600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyTeYKWIAAXQA4.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2066188479130681344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyTeYGWwAAkaFr.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2066188493798129908",
+        "created_at": "2026-06-14T16:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066189288417743264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2012048367845822464",
+              "start": 0,
+              "username": "souomaoxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066189288417743264",
+        "in_reply_to_user_id": "2012048367845822464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066188493798129908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@souomaoxo ！强强？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066188479147417600",
+            "3_2066188479130681344"
+          ]
+        },
+        "author_id": "2012048367845822464",
+        "conversation_id": "2066188493798129908",
+        "created_at": "2026-06-14T15:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066188493798129908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lUgobwO1LT",
+              "end": 29,
+              "expanded_url": "https://x.com/souomaoxo/status/2066188493798129908/photo/1",
+              "media_key": "3_2066188479147417600",
+              "start": 6,
+              "url": "https://t.co/lUgobwO1LT"
+            },
+            {
+              "display_url": "pic.x.com/lUgobwO1LT",
+              "end": 29,
+              "expanded_url": "https://x.com/souomaoxo/status/2066188493798129908/photo/1",
+              "media_key": "3_2066188479130681344",
+              "start": 6,
+              "url": "https://t.co/lUgobwO1LT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066188493798129908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自设 初设 https://t.co/lUgobwO1LT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n爱压抑\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 96,
+          "like_count": 895,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 920
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-16T06:24:57.000Z",
+        "description": "💕@王馬小吉\n🇨🇳|精神不穩定|OD |自傷\n想和各種各樣的人們友好互動",
+        "id": "2012048367845822464",
+        "location": "🚪52",
+        "name": "所有人都死了",
+        "pinned_tweet_id": "2057266630741143696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064016601490305024/Mb6TDe3W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 113,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 205
+        },
+        "username": "souomaoxo",
+        "verified": false
+      }
+    ]
+  }
+}

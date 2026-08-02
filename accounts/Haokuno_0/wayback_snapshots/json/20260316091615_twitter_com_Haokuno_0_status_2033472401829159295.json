@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033472383122649088",
+        "3_2033472383118397440",
+        "3_2033472383659507712",
+        "3_2033472383118430208"
+      ]
+    },
+    "author_id": "1276148275175755776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2033472401829159295",
+    "created_at": "2026-03-16T09:16:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T10:16:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033472401829159295"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EAbiM0Gku5",
+          "end": 30,
+          "expanded_url": "https://x.com/Haokuno_0/status/2033472401829159295/photo/1",
+          "media_key": "3_2033472383122649088",
+          "start": 7,
+          "url": "https://t.co/EAbiM0Gku5"
+        },
+        {
+          "display_url": "pic.x.com/EAbiM0Gku5",
+          "end": 30,
+          "expanded_url": "https://x.com/Haokuno_0/status/2033472401829159295/photo/1",
+          "media_key": "3_2033472383118397440",
+          "start": 7,
+          "url": "https://t.co/EAbiM0Gku5"
+        },
+        {
+          "display_url": "pic.x.com/EAbiM0Gku5",
+          "end": 30,
+          "expanded_url": "https://x.com/Haokuno_0/status/2033472401829159295/photo/1",
+          "media_key": "3_2033472383659507712",
+          "start": 7,
+          "url": "https://t.co/EAbiM0Gku5"
+        },
+        {
+          "display_url": "pic.x.com/EAbiM0Gku5",
+          "end": 30,
+          "expanded_url": "https://x.com/Haokuno_0/status/2033472401829159295/photo/1",
+          "media_key": "3_2033472383118430208",
+          "start": 7,
+          "url": "https://t.co/EAbiM0Gku5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033472401829159295",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "放养猫的结果 https://t.co/EAbiM0Gku5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_2033472383122649088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDhYW9CXsAAzWwo.jpg",
+        "width": 1706
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2033472383118397440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDhYW9BW0AAyYIt.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2033472383659507712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDhYW_CXgAAqx64.jpg",
+        "width": 1279
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2033472383118430208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDhYW9BXUAAALPP.jpg",
+        "width": 807
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033472383122649088",
+            "3_2033472383118397440",
+            "3_2033472383659507712",
+            "3_2033472383118430208"
+          ]
+        },
+        "author_id": "1276148275175755776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033472401829159295",
+        "created_at": "2026-03-16T09:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T10:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033472401829159295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EAbiM0Gku5",
+              "end": 30,
+              "expanded_url": "https://x.com/Haokuno_0/status/2033472401829159295/photo/1",
+              "media_key": "3_2033472383122649088",
+              "start": 7,
+              "url": "https://t.co/EAbiM0Gku5"
+            },
+            {
+              "display_url": "pic.x.com/EAbiM0Gku5",
+              "end": 30,
+              "expanded_url": "https://x.com/Haokuno_0/status/2033472401829159295/photo/1",
+              "media_key": "3_2033472383118397440",
+              "start": 7,
+              "url": "https://t.co/EAbiM0Gku5"
+            },
+            {
+              "display_url": "pic.x.com/EAbiM0Gku5",
+              "end": 30,
+              "expanded_url": "https://x.com/Haokuno_0/status/2033472401829159295/photo/1",
+              "media_key": "3_2033472383659507712",
+              "start": 7,
+              "url": "https://t.co/EAbiM0Gku5"
+            },
+            {
+              "display_url": "pic.x.com/EAbiM0Gku5",
+              "end": 30,
+              "expanded_url": "https://x.com/Haokuno_0/status/2033472401829159295/photo/1",
+              "media_key": "3_2033472383118430208",
+              "start": 7,
+              "url": "https://t.co/EAbiM0Gku5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033472401829159295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "放养猫的结果 https://t.co/EAbiM0Gku5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 07 ENFP-T 🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2031647286288060518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789938754444292096/FMmDDz1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 34,
+          "like_count": 306,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 414
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      }
+    ]
+  }
+}

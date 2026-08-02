@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2037231968015048814",
+    "created_at": "2026-03-27T00:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T01:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037326198288662810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1653816061698138113",
+          "start": 0,
+          "username": "bhhdb520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037326198288662810",
+    "in_reply_to_user_id": "1653816061698138113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037231968015048814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bhhdb520 乌萨奇—————"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1572,
+        "media_key": "3_2037231962549866496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEWzrRzbUAAt16-.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2037231968015048814",
+        "created_at": "2026-03-27T00:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T01:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037326198288662810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1653816061698138113",
+              "start": 0,
+              "username": "bhhdb520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037326198288662810",
+        "in_reply_to_user_id": "1653816061698138113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037231968015048814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bhhdb520 乌萨奇—————"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037231962549866496"
+          ]
+        },
+        "author_id": "1653816061698138113",
+        "conversation_id": "2037231968015048814",
+        "created_at": "2026-03-26T18:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T19:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037231968015048814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JGLyl6NkBO",
+              "end": 42,
+              "expanded_url": "https://x.com/bhhdb520/status/2037231968015048814/photo/1",
+              "media_key": "3_2037231962549866496",
+              "start": 19,
+              "url": "https://t.co/JGLyl6NkBO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037231968015048814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一块姜切成4片会成什么样\n姜姜姜姜！ https://t.co/JGLyl6NkBO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 07 ENFP-T 🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2031647286288060518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034078738712039424/MCUfN4n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 41,
+          "like_count": 553,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 698
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-03T17:37:41.000Z",
+        "description": "如果有一天下雨路滑我不小心摔倒还不小心脱掉了你的裤子你会先扶我还是先提裤子",
+        "id": "1653816061698138113",
+        "location": "布吉岛",
+        "name": "单机:D",
+        "pinned_tweet_id": "2029545340375076918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037213661748670464/GmRfY7un_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 103,
+          "like_count": 1065,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 147
+        },
+        "username": "bhhdb520",
+        "verified": false
+      }
+    ]
+  }
+}

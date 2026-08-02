@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2042280792525594830",
+    "created_at": "2026-04-09T16:37:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T17:37:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042280792525594830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2002295029700964352",
+          "start": 3,
+          "username": "NNull1140737"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042280792525594830",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041965054715629914",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NNull1140737: 每天就是几个社交平台来回跳，基本没人找我，然后崩溃了就在推特扣字发发发，狂犬病发作了我也在推特扣字发发，要不然就是复制粘贴发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2042280792525594830",
+        "created_at": "2026-04-09T16:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042280792525594830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2002295029700964352",
+              "start": 3,
+              "username": "NNull1140737"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042280792525594830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041965054715629914",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NNull1140737: 每天就是几个社交平台来回跳，基本没人找我，然后崩溃了就在推特扣字发发发，狂犬病发作了我也在推特扣字发发，要不然就是复制粘贴发"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002295029700964352",
+        "conversation_id": "2041965054715629914",
+        "created_at": "2026-04-08T19:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T20:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041965054715629914"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041965054715629914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5123,
+          "like_count": 88,
+          "quote_count": 3,
+          "reply_count": 16,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "每天就是几个社交平台来回跳，基本没人找我，然后崩溃了就在推特扣字发发发，狂犬病发作了我也在推特扣字发发，要不然就是复制粘贴发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2041901858508136514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040446372651155456/38-H0Dtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 36,
+          "like_count": 623,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 454
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-20T08:28:42.000Z",
+        "description": "不加v也不约更不聊骚 只是个单纯善良的可爱女孩…",
+        "id": "2002295029700964352",
+        "name": "你别哭了",
+        "pinned_tweet_id": "2032375408382169312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033044253472174080/OGXP3NTN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 14,
+          "like_count": 13,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 191
+        },
+        "username": "NNull1140737",
+        "verified": false
+      }
+    ]
+  }
+}

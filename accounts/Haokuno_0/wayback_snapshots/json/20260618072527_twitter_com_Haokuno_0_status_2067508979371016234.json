@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2067508979371016234",
+    "created_at": "2026-06-18T07:25:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T08:25:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067508979371016234"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067508979371016234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是盗号的，我把这个人的号盗了，但是我看了这个人聊天记录跟朋友圈，发现她过得非常艰苦，她生活一直过得很烂。我看到这里的人都很有钱，我希望有人看见了能发她50去吃肯德基疯狂星期四，就这样吧，眼眶都湿润了，我下了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2067508979371016234",
+        "created_at": "2026-06-18T07:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067508979371016234"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067508979371016234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是盗号的，我把这个人的号盗了，但是我看了这个人聊天记录跟朋友圈，发现她过得非常艰苦，她生活一直过得很烂。我看到这里的人都很有钱，我希望有人看见了能发她50去吃肯德基疯狂星期四，就这样吧，眼眶都湿润了，我下了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n祝大家天天开心\n看到喜欢的会回fo",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 99,
+          "like_count": 976,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1036
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      }
+    ]
+  }
+}

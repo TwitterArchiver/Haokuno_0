@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043575954120081408"
+      ]
+    },
+    "author_id": "1276148275175755776",
+    "conversation_id": "2043575957018251272",
+    "created_at": "2026-04-13T06:24:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T07:24:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043575957018251272"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Ever wondered who lingers on your Twitter profile in the shadows? Prepare to discover your silent admirers or curious stalkers!",
+          "display_url": "infinitetweet.me/secret-stalker…",
+          "end": 47,
+          "expanded_url": "https://infinitetweet.me/secret-stalker?lang=zh",
+          "start": 24,
+          "status": 200,
+          "title": "Secret Stalkers • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/secret-stalker?lang=zh",
+          "url": "https://t.co/AXT3qJqphN"
+        },
+        {
+          "display_url": "pic.x.com/oDcbjwasv0",
+          "end": 71,
+          "expanded_url": "https://x.com/Haokuno_0/status/2043575957018251272/photo/1",
+          "media_key": "3_2043575954120081408",
+          "start": 48,
+          "url": "https://t.co/oDcbjwasv0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043575957018251272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我刚刚发现谁访问了我的推特个人资料！\n\n⠀➡️ https://t.co/AXT3qJqphN https://t.co/oDcbjwasv0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 661,
+        "media_key": "3_2043575954120081408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFw9gMDbgAAGSMv.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043575954120081408"
+          ]
+        },
+        "author_id": "1276148275175755776",
+        "conversation_id": "2043575957018251272",
+        "created_at": "2026-04-13T06:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043575957018251272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Ever wondered who lingers on your Twitter profile in the shadows? Prepare to discover your silent admirers or curious stalkers!",
+              "display_url": "infinitetweet.me/secret-stalker…",
+              "end": 47,
+              "expanded_url": "https://infinitetweet.me/secret-stalker?lang=zh",
+              "start": 24,
+              "status": 200,
+              "title": "Secret Stalkers • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/secret-stalker?lang=zh",
+              "url": "https://t.co/AXT3qJqphN"
+            },
+            {
+              "display_url": "pic.x.com/oDcbjwasv0",
+              "end": 71,
+              "expanded_url": "https://x.com/Haokuno_0/status/2043575957018251272/photo/1",
+              "media_key": "3_2043575954120081408",
+              "start": 48,
+              "url": "https://t.co/oDcbjwasv0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043575957018251272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚刚发现谁访问了我的推特个人资料！\n\n⠀➡️ https://t.co/AXT3qJqphN https://t.co/oDcbjwasv0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2041901858508136514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040446372651155456/38-H0Dtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 44,
+          "like_count": 639,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 479
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      }
+    ]
+  }
+}

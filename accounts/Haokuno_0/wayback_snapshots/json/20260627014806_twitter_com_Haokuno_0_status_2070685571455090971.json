@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2070651478788931661",
+    "created_at": "2026-06-27T01:48:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T02:48:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070685571455090971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1820986559694520320",
+          "start": 0,
+          "username": "n_ne373"
+        },
+        {
+          "end": 25,
+          "id": "1924464119996108801",
+          "start": 9,
+          "username": "sz1ErDzycx37382"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070685571455090971",
+    "in_reply_to_user_id": "1820986559694520320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070651478788931661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@n_ne373 @sz1ErDzycx37382 好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070651467648872448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLxuif7aMAAzYfO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2070651478788931661",
+        "created_at": "2026-06-27T01:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T02:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070685571455090971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1820986559694520320",
+              "start": 0,
+              "username": "n_ne373"
+            },
+            {
+              "end": 25,
+              "id": "1924464119996108801",
+              "start": 9,
+              "username": "sz1ErDzycx37382"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070685571455090971",
+        "in_reply_to_user_id": "1820986559694520320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070651478788931661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@n_ne373 @sz1ErDzycx37382 好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070651467648872448"
+          ]
+        },
+        "author_id": "1820986559694520320",
+        "conversation_id": "2070651478788931661",
+        "created_at": "2026-06-26T23:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T00:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070651478788931661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o9bo72lI9Z",
+              "end": 32,
+              "expanded_url": "https://x.com/n_ne373/status/2070651478788931661/photo/1",
+              "media_key": "3_2070651467648872448",
+              "start": 9,
+              "url": "https://t.co/o9bo72lI9Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070651478788931661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道是谁送的😙 https://t.co/o9bo72lI9Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 100,
+          "like_count": 1106,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1253
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T00:53:34.000Z",
+        "description": "我叫373｜这里好像只有碎碎念｜intp asd｜查成分互fo\n匿名问答：https://t.co/VRxGbV6kFb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/37381507",
+                "end": 60,
+                "expanded_url": "https://ngl.link/37381507",
+                "start": 37,
+                "url": "https://t.co/VRxGbV6kFb"
+              }
+            ]
+          }
+        },
+        "id": "1820986559694520320",
+        "name": "みず",
+        "pinned_tweet_id": "2064306561414283431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030056220367917056/2nll6Kpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 177,
+          "like_count": 5094,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 1655
+        },
+        "url": "",
+        "username": "n_ne373",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-19T13:56:26.000Z",
+        "description": "。o  O",
+        "id": "1924464119996108801",
+        "name": "kumi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031394516280967168/qPJJXTbZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 86,
+          "like_count": 10271,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 970
+        },
+        "url": "",
+        "username": "sz1ErDzycx37382",
+        "verified": false
+      }
+    ]
+  }
+}

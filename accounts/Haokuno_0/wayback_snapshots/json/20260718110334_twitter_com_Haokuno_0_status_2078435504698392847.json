@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078435491943518208"
+      ]
+    },
+    "author_id": "1276148275175755776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2078435504698392847",
+    "created_at": "2026-07-18T11:03:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T12:03:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078435504698392847"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4lDFNEPqtx",
+          "end": 31,
+          "expanded_url": "https://x.com/Haokuno_0/status/2078435504698392847/photo/1",
+          "media_key": "3_2078435491943518208",
+          "start": 8,
+          "url": "https://t.co/4lDFNEPqtx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078435504698392847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有没有想加我的 https://t.co/4lDFNEPqtx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 943,
+        "media_key": "3_2078435491943518208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgWEWHbkAAYQZ3.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078435491943518208"
+          ]
+        },
+        "author_id": "1276148275175755776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078435504698392847",
+        "created_at": "2026-07-18T11:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T12:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078435504698392847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4lDFNEPqtx",
+              "end": 31,
+              "expanded_url": "https://x.com/Haokuno_0/status/2078435504698392847/photo/1",
+              "media_key": "3_2078435491943518208",
+              "start": 8,
+              "url": "https://t.co/4lDFNEPqtx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078435504698392847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有想加我的 https://t.co/4lDFNEPqtx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T\n@Yeyuxiao_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Yeyuxiao_0"
+              }
+            ]
+          }
+        },
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 98,
+          "like_count": 1200,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1497
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2064994238992101665",
+    "created_at": "2026-06-11T16:11:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T17:11:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065104542937890847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1652379044347011073",
+          "start": 0,
+          "username": "b782r233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065104542937890847",
+    "in_reply_to_user_id": "1652379044347011073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065042407977275413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@b782r233 大户爱是对的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2064994238992101665",
+        "created_at": "2026-06-11T16:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065104542937890847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1652379044347011073",
+              "start": 0,
+              "username": "b782r233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065104542937890847",
+        "in_reply_to_user_id": "1652379044347011073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065042407977275413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@b782r233 大户爱是对的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652379044347011073",
+        "conversation_id": "2064994238992101665",
+        "created_at": "2026-06-11T12:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065042407977275413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1276148275175755776",
+              "start": 0,
+              "username": "Haokuno_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065042407977275413",
+        "in_reply_to_user_id": "1276148275175755776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064994238992101665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haokuno_0 还是有的☺️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n爱压抑\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055630473590640640/aiv2NKqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 77,
+          "like_count": 821,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 810
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T18:27:28.000Z",
+        "description": "私の夢は、世界中にある好きなアニメを全部観ることです",
+        "id": "1652379044347011073",
+        "name": "秋庭ヒヤシンス",
+        "pinned_tweet_id": "1815063804713328799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971157751637352448/zU78tDNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 252,
+          "like_count": 2315,
+          "listed_count": 2,
+          "media_count": 119,
+          "tweet_count": 761
+        },
+        "username": "b782r233",
+        "verified": false
+      }
+    ]
+  }
+}

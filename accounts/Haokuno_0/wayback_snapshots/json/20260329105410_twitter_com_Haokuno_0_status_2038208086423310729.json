@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2038208086423310729",
+    "created_at": "2026-03-29T10:54:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T11:54:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038208086423310729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1879046626620141568",
+          "start": 3,
+          "username": "Hnrkesin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038208086423310729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037993018498953524",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hnrkesin: 你用当小3的心态跟别人聊天就不会有占有欲了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2038208086423310729",
+        "created_at": "2026-03-29T10:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T11:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038208086423310729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1879046626620141568",
+              "start": 3,
+              "username": "Hnrkesin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038208086423310729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037993018498953524",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hnrkesin: 你用当小3的心态跟别人聊天就不会有占有欲了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879046626620141568",
+        "conversation_id": "2037993018498953524",
+        "created_at": "2026-03-28T20:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T21:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037993018498953524"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037993018498953524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 30680,
+          "like_count": 562,
+          "quote_count": 8,
+          "reply_count": 35,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "你用当小3的心态跟别人聊天就不会有占有欲了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 07 ENFP-T 🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2031647286288060518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034078738712039424/MCUfN4n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 42,
+          "like_count": 557,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 708
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T06:03:36.000Z",
+        "description": "此人乃世界屌丝之神，纯清水没有🚪不聊天。一切都是男的欠我女的骗我老的欺负我，全世界所有人都对不起我。",
+        "id": "1879046626620141568",
+        "name": "蛋糕说的对",
+        "pinned_tweet_id": "2033085329520078888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034581566245244928/9gEW7EJH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 55,
+          "like_count": 3107,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 1987
+        },
+        "username": "Hnrkesin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2066545332276879690",
+    "created_at": "2026-06-17T10:21:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T11:21:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067190771921629184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1544566176524955650",
+          "start": 0,
+          "username": "Shaviana_T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067190771921629184",
+    "in_reply_to_user_id": "1544566176524955650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067188898237972819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shaviana_T 买了还需要我玩么🤔🤔🤔（其实是买了就懒得点开来玩了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2066545332276879690",
+        "created_at": "2026-06-17T10:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067190771921629184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1544566176524955650",
+              "start": 0,
+              "username": "Shaviana_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067190771921629184",
+        "in_reply_to_user_id": "1544566176524955650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067188898237972819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shaviana_T 买了还需要我玩么🤔🤔🤔（其实是买了就懒得点开来玩了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544566176524955650",
+        "conversation_id": "2066545332276879690",
+        "created_at": "2026-06-17T10:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067188898237972819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1276148275175755776",
+              "start": 0,
+              "username": "Haokuno_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067188898237972819",
+        "in_reply_to_user_id": "1276148275175755776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066545332276879690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haokuno_0 虽然有不少共同游戏，但是想问的是，怎么这么多旮旯给木而且还是买了也不玩的那种()"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n祝大家天天开心\n看到喜欢的会回fo",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 99,
+          "like_count": 967,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1014
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-06T06:17:42.000Z",
+        "description": "СПбГУ，语言学研究者\n中文/Русский язык/English/Українська мова/Lingua Latīna\n(按掌握熟练度排列)",
+        "id": "1544566176524955650",
+        "location": "Санкт-Петербург, Россия",
+        "name": "Shaviana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852325393400803328/KhxUVskh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 8,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 50
+        },
+        "username": "Shaviana_T",
+        "verified": false
+      }
+    ]
+  }
+}

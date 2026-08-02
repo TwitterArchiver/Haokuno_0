@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044225615260274688"
+      ]
+    },
+    "author_id": "1276148275175755776",
+    "conversation_id": "2044225628711403996",
+    "created_at": "2026-04-15T01:25:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T02:25:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044225628711403996"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qLRzup7P9U",
+          "end": 37,
+          "expanded_url": "https://x.com/Haokuno_0/status/2044225628711403996/photo/1",
+          "media_key": "3_2044225615260274688",
+          "start": 14,
+          "url": "https://t.co/qLRzup7P9U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044225628711403996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我错了我再也不上课刷抖音了 https://t.co/qLRzup7P9U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2044225615260274688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF6MXcZX0AA0WYs.jpg",
+        "width": 288
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044225615260274688"
+          ]
+        },
+        "author_id": "1276148275175755776",
+        "conversation_id": "2044225628711403996",
+        "created_at": "2026-04-15T01:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T02:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044225628711403996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qLRzup7P9U",
+              "end": 37,
+              "expanded_url": "https://x.com/Haokuno_0/status/2044225628711403996/photo/1",
+              "media_key": "3_2044225615260274688",
+              "start": 14,
+              "url": "https://t.co/qLRzup7P9U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044225628711403996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我错了我再也不上课刷抖音了 https://t.co/qLRzup7P9U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040446372651155456/38-H0Dtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 43,
+          "like_count": 672,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 519
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      }
+    ]
+  }
+}

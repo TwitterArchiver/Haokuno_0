@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042270267041591296"
+      ]
+    },
+    "author_id": "1276148275175755776",
+    "conversation_id": "2042270280278757865",
+    "created_at": "2026-04-09T15:55:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T16:55:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042270280278757865"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hAYDul9c6X",
+          "end": 23,
+          "expanded_url": "https://x.com/Haokuno_0/status/2042270280278757865/photo/1",
+          "media_key": "3_2042270267041591296",
+          "start": 0,
+          "url": "https://t.co/hAYDul9c6X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042270280278757865",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/hAYDul9c6X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042270267041591296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFeZ_MpbMAAGHDq.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042270267041591296"
+          ]
+        },
+        "author_id": "1276148275175755776",
+        "conversation_id": "2042270280278757865",
+        "created_at": "2026-04-09T15:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042270280278757865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hAYDul9c6X",
+              "end": 23,
+              "expanded_url": "https://x.com/Haokuno_0/status/2042270280278757865/photo/1",
+              "media_key": "3_2042270267041591296",
+              "start": 0,
+              "url": "https://t.co/hAYDul9c6X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042270280278757865",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hAYDul9c6X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2041901858508136514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040446372651155456/38-H0Dtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 36,
+          "like_count": 622,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 453
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      }
+    ]
+  }
+}

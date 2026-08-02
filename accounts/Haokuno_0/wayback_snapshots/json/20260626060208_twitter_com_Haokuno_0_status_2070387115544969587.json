@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2070385836865241146",
+    "created_at": "2026-06-26T06:02:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T07:02:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070387115544969587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1653666360604647424",
+          "start": 0,
+          "username": "congng1327122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070387115544969587",
+    "in_reply_to_user_id": "1653666360604647424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070385836865241146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@congng1327122 画技如此之牛逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 905,
+        "media_key": "3_2070385746838736896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLt83gxa0AA_zRs.jpg",
+        "width": 676
+      },
+      {
+        "height": 909,
+        "media_key": "3_2070385746834604032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLt83gwbwAALTK_.jpg",
+        "width": 679
+      },
+      {
+        "height": 907,
+        "media_key": "3_2070385746834604033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLt83gwbwAEeqlo.jpg",
+        "width": 676
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2070385836865241146",
+        "created_at": "2026-06-26T06:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070387115544969587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1653666360604647424",
+              "start": 0,
+              "username": "congng1327122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070387115544969587",
+        "in_reply_to_user_id": "1653666360604647424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070385836865241146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@congng1327122 画技如此之牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070385746838736896",
+            "3_2070385746834604032",
+            "3_2070385746834604033"
+          ]
+        },
+        "author_id": "1653666360604647424",
+        "conversation_id": "2070385836865241146",
+        "created_at": "2026-06-26T05:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070385836865241146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Od9CxszdlL",
+              "end": 39,
+              "expanded_url": "https://x.com/congng1327122/status/2070385836865241146/photo/1",
+              "media_key": "3_2070385746838736896",
+              "start": 16,
+              "url": "https://t.co/Od9CxszdlL"
+            },
+            {
+              "display_url": "pic.x.com/Od9CxszdlL",
+              "end": 39,
+              "expanded_url": "https://x.com/congng1327122/status/2070385836865241146/photo/1",
+              "media_key": "3_2070385746834604032",
+              "start": 16,
+              "url": "https://t.co/Od9CxszdlL"
+            },
+            {
+              "display_url": "pic.x.com/Od9CxszdlL",
+              "end": 39,
+              "expanded_url": "https://x.com/congng1327122/status/2070385836865241146/photo/1",
+              "media_key": "3_2070385746834604033",
+              "start": 16,
+              "url": "https://t.co/Od9CxszdlL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070385836865241146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "稿件…三块钱的稿件我画的好爽👅 https://t.co/Od9CxszdlL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n死亡不是终点\n祝大家天天开心\n看到喜欢的会回fo",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 100,
+          "like_count": 1083,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1233
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-03T07:42:51.000Z",
+        "description": "yukiso/愈｜我不怎么会回复 不过我很喜欢你们！感谢评论｜互fo 基本只回同类｜想了解我的请看置顶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ac22161",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ac22161",
+                "start": 0,
+                "url": "https://t.co/eE4dYT7zX6"
+              }
+            ]
+          }
+        },
+        "id": "1653666360604647424",
+        "location": "距离你0.1km",
+        "name": "小雨愈愈",
+        "pinned_tweet_id": "2063025850530820389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064073250296983554/LbWwtr94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 249,
+          "like_count": 1509,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1622
+        },
+        "url": "https://t.co/eE4dYT7zX6",
+        "username": "congng1327122",
+        "verified": false
+      }
+    ]
+  }
+}

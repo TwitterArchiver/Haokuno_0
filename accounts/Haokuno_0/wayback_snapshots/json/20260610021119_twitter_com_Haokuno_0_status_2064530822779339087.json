@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2064530822779339087",
+    "created_at": "2026-06-10T02:11:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T03:11:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064530822779339087"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 66,
+          "start": 58,
+          "tag": "Lapwing"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3133990521",
+          "start": 3,
+          "username": "Hash2305"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064530822779339087",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11764
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907689529365930224",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hash2305: I just finished my face tracking add-on for #Lapwing\n\nHope you all will enjoy the \"more is less\" approach I took here, I thin…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25984,
+        "height": 1920,
+        "media_key": "7_1907517236572553217",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1907517236572553217/pu/img/nC95txfsDeOqkSwJ.jpg",
+        "public_metrics": {
+          "view_count": 1216938
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1907517236572553217/pu/pl/Gmmb8z8SIpIBwSmM.m3u8?tag=14&v=683"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907517236572553217/pu/vid/avc1/480x852/48CgAD9gAwqFpJfW.mp4?tag=14"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907517236572553217/pu/vid/avc1/1080x1920/iww7N-SJKojUYZhN.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907517236572553217/pu/vid/avc1/720x1280/avhJnFo8bJCFnpst.mp4?tag=14"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907517236572553217/pu/vid/avc1/320x568/NIWKLHZ-clpys74Y.mp4?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2064530822779339087",
+        "created_at": "2026-06-10T02:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T03:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064530822779339087"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 58,
+              "tag": "Lapwing"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3133990521",
+              "start": 3,
+              "username": "Hash2305"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064530822779339087",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11764
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907689529365930224",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hash2305: I just finished my face tracking add-on for #Lapwing\n\nHope you all will enjoy the \"more is less\" approach I took here, I thin…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1907517236572553217"
+          ]
+        },
+        "author_id": "3133990521",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "1907689529365930224",
+        "created_at": "2025-04-03T07:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T08:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907689529365930224"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 44,
+              "tag": "Lapwing"
+            },
+            {
+              "end": 259,
+              "start": 252,
+              "tag": "VRChat"
+            },
+            {
+              "end": 273,
+              "start": 260,
+              "tag": "vrchatavatar"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "ko-fi.com/s/3d243e7394",
+              "end": 198,
+              "expanded_url": "https://ko-fi.com/s/3d243e7394",
+              "start": 175,
+              "status": 200,
+              "unwound_url": "https://ko-fi.com/s/3d243e7394",
+              "url": "https://t.co/YZCo6lMTlX"
+            },
+            {
+              "description": "A face tracking Add-on for Lapwing (desctiption in Japanese, English and French bellow) Demo videos: https://youtu.be/oOIztBXox60 https://youtube.com/shorts/DWfGe7tHT5A Feel free to share your creations with #HashFT on social media! Sample avatar:",
+              "display_url": "hashedits.booth.pm/items/6764822",
+              "end": 222,
+              "expanded_url": "https://hashedits.booth.pm/items/6764822",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2063095670723276800/zm77Z0dA?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2063095670723276800/zm77Z0dA?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 199,
+              "status": 200,
+              "title": "Lapwing - Face Tracking Add-on - hashedits - BOOTH",
+              "unwound_url": "https://hashedits.booth.pm/items/6764822",
+              "url": "https://t.co/Vacz6oakZJ"
+            },
+            {
+              "display_url": "pic.x.com/6sVbyMzN9w",
+              "end": 297,
+              "expanded_url": "https://x.com/Hash2305/status/1907689529365930224/video/1",
+              "media_key": "7_1907517236572553217",
+              "start": 274,
+              "url": "https://t.co/6sVbyMzN9w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907689529365930224",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26769,
+          "impression_count": 14809076,
+          "like_count": 66153,
+          "quote_count": 1714,
+          "reply_count": 387,
+          "retweet_count": 11764
+        },
+        "reply_settings": "everyone",
+        "text": "I just finished my face tracking add-on for #Lapwing\n\nHope you all will enjoy the \"more is less\" approach I took here, I think it makes sense for this avatar\n\nAvaliable now @\nhttps://t.co/YZCo6lMTlX https://t.co/Vacz6oakZJ\n\nRT+Follow to win an add-on\n\n#VRChat #vrchatavatar https://t.co/6sVbyMzN9w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n别靠近我\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055630473590640640/aiv2NKqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 68,
+          "like_count": 797,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 782
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-04T14:53:53.000Z",
+        "description": "VR Enthusiast\nMakes things (Mostly VR and Face tracking related for now)\n\nFeel free to use #HashFT to share your videos of my FT work :)\nBanner→ @Rei2110_VRC",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 98,
+                "start": 91,
+                "tag": "HashFT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "Rei2110_VRC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/HashEdits",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/HashEdits",
+                "start": 0,
+                "url": "https://t.co/JA6RikwCCo"
+              }
+            ]
+          }
+        },
+        "id": "3133990521",
+        "location": "France",
+        "name": "HΛSHΞDITS",
+        "pinned_tweet_id": "1690393107857027072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905933642435567616/dystIf6Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23416,
+          "following_count": 4689,
+          "like_count": 117900,
+          "listed_count": 81,
+          "media_count": 1090,
+          "tweet_count": 20399
+        },
+        "url": "https://t.co/JA6RikwCCo",
+        "username": "Hash2305",
+        "verified": false
+      }
+    ]
+  }
+}

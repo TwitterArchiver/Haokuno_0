@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2066288875732091137",
+    "created_at": "2026-06-15T00:16:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T01:16:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066313909645250812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2028045241388068864",
+          "start": 0,
+          "username": "Warmkiss33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066313909645250812",
+    "in_reply_to_user_id": "2028045241388068864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066288875732091137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Warmkiss33 我发现推特神人特别多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066288860561297408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzuxWEaUAAI-bA.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2066288875732091137",
+        "created_at": "2026-06-15T00:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T01:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066313909645250812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2028045241388068864",
+              "start": 0,
+              "username": "Warmkiss33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066313909645250812",
+        "in_reply_to_user_id": "2028045241388068864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066288875732091137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warmkiss33 我发现推特神人特别多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066288860561297408"
+          ]
+        },
+        "author_id": "2028045241388068864",
+        "conversation_id": "2066288875732091137",
+        "created_at": "2026-06-14T22:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T23:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066288875732091137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ELdJC24UY6",
+              "end": 84,
+              "expanded_url": "https://x.com/Warmkiss33/status/2066288875732091137/photo/1",
+              "media_key": "3_2066288860561297408",
+              "start": 61,
+              "url": "https://t.co/ELdJC24UY6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066288875732091137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1529,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉这些到处私信辱骂女生的人才是本质嘉豪，浑身透露着一种特别想跟女生说话但是因为太胆小了只能通过这种方式吸引注意力的土气 https://t.co/ELdJC24UY6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n爱压抑\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 96,
+          "like_count": 900,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 925
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-01T09:58:04.000Z",
+        "description": "谢谢你愿意听我说乱七八糟的话\n\n📭https://t.co/9kju6SoFED",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kkk28835",
+                "end": 40,
+                "expanded_url": "https://ngl.link/kkk28835",
+                "start": 17,
+                "url": "https://t.co/9kju6SoFED"
+              }
+            ]
+          }
+        },
+        "id": "2028045241388068864",
+        "name": "kkk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056097271268495360/z763KLDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1928,
+          "following_count": 67,
+          "like_count": 587,
+          "listed_count": 4,
+          "media_count": 46,
+          "tweet_count": 328
+        },
+        "username": "Warmkiss33",
+        "verified": false
+      }
+    ]
+  }
+}

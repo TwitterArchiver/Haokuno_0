@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2065828983351242870",
+    "created_at": "2026-06-14T06:33:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T07:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066046465827569949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1779583083001602048",
+          "start": 0,
+          "username": "Xiaofenxieyunqu"
+        },
+        {
+          "end": 28,
+          "id": "1530364098575093761",
+          "start": 17,
+          "username": "Panda07120"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066046465827569949",
+    "in_reply_to_user_id": "1779583083001602048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066044500846260341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaofenxieyunqu @Panda07120 他就是个弱智"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2065828983351242870",
+        "created_at": "2026-06-14T06:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T07:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066046465827569949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1779583083001602048",
+              "start": 0,
+              "username": "Xiaofenxieyunqu"
+            },
+            {
+              "end": 28,
+              "id": "1530364098575093761",
+              "start": 17,
+              "username": "Panda07120"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066046465827569949",
+        "in_reply_to_user_id": "1779583083001602048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066044500846260341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaofenxieyunqu @Panda07120 他就是个弱智"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779583083001602048",
+        "conversation_id": "2065828983351242870",
+        "created_at": "2026-06-14T06:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T07:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066044500846260341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1530364098575093761",
+              "start": 0,
+              "username": "Panda07120"
+            },
+            {
+              "end": 22,
+              "id": "1276148275175755776",
+              "start": 12,
+              "username": "Haokuno_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066044500846260341",
+        "in_reply_to_user_id": "1530364098575093761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066018954624274499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Panda07120 @Haokuno_0 别逗你爹笑了死妈玩意，他妈cncs连个传奇组都进不去，玩个烂b瓦能拿个冠军甚至保送3个名额，真是闹麻了，玩个动画片fps装你妈呢，没了腾讯你无畏契约是个鸡巴啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n爱压抑\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 91,
+          "like_count": 878,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 904
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-14T18:50:59.000Z",
+        "description": "累了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/tm452313305?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/tm452313305?igsh=bjVqZmxtbTd4NzBp",
+                "start": 0,
+                "url": "https://t.co/4rISO560us"
+              }
+            ]
+          }
+        },
+        "id": "1779583083001602048",
+        "location": "China",
+        "name": "Ruy1-",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929604939455619073/h-XUtuYo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 10,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 253
+        },
+        "url": "https://t.co/4rISO560us",
+        "username": "Xiaofenxieyunqu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-28T01:43:38.000Z",
+        "description": "",
+        "id": "1530364098575093761",
+        "name": "pan da",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 27,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "username": "Panda07120",
+        "verified": false
+      }
+    ]
+  }
+}

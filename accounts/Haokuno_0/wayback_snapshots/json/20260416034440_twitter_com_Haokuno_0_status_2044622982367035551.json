@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2044302736532091050",
+    "created_at": "2026-04-16T03:44:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T04:44:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044622982367035551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1726657410503446528",
+          "start": 0,
+          "username": "CAI_CAI_88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044622982367035551",
+    "in_reply_to_user_id": "1726657410503446528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044302736532091050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CAI_CAI_88 海底捞是不是超级好吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044302679493750784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7SdLCasAA_cK-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2044302736532091050",
+        "created_at": "2026-04-16T03:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T04:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044622982367035551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1726657410503446528",
+              "start": 0,
+              "username": "CAI_CAI_88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044622982367035551",
+        "in_reply_to_user_id": "1726657410503446528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044302736532091050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CAI_CAI_88 海底捞是不是超级好吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044302679493750784"
+          ]
+        },
+        "author_id": "1726657410503446528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2044302736532091050",
+        "created_at": "2026-04-15T06:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T07:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044302736532091050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J7DuSIeZnX",
+              "end": 60,
+              "expanded_url": "https://x.com/CAI_CAI_88/status/2044302736532091050/photo/1",
+              "media_key": "3_2044302679493750784",
+              "start": 37,
+              "url": "https://t.co/J7DuSIeZnX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044302736532091050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5236,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一个人跑来吃海底捞，店员看我点的双拼太贵了，给我退了换成四宫格😌谢谢呢 https://t.co/J7DuSIeZnX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040446372651155456/38-H0Dtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 44,
+          "like_count": 688,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 525
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-20T17:43:12.000Z",
+        "description": "INTJ | 很多很多碎碎念 |\n叫我财财就好（互关宝宝这么叫我，所以直接用了），私信太多了，回不过来，只挑正常的回，没关注的也不回了，没有陪聊的义务\n祝我2026发财，谢谢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cat_cai_88",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cat_cai_88",
+                "start": 0,
+                "url": "https://t.co/tKqcM4l29i"
+              }
+            ]
+          }
+        },
+        "id": "1726657410503446528",
+        "location": "财神旁边",
+        "name": "财神来到我身边",
+        "pinned_tweet_id": "2033158245398036721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012992605143830528/a8viMQWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 94,
+          "like_count": 5919,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 2094
+        },
+        "url": "https://t.co/tKqcM4l29i",
+        "username": "CAI_CAI_88",
+        "verified": false
+      }
+    ]
+  }
+}

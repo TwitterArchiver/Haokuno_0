@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2031932953496834166",
+    "created_at": "2026-03-12T03:19:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T04:19:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031932953496834166"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2031932953496834166",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现实遇到那种喜欢碎碎念还跟你讲话语速特别快讲话没意思的人真的好几把烦😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2031932953496834166",
+        "created_at": "2026-03-12T03:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T04:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031932953496834166"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031932953496834166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现实遇到那种喜欢碎碎念还跟你讲话语速特别快讲话没意思的人真的好几把烦😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 07 ENFP-T 🦁",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yeyixiao_0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yeyixiao_0",
+                "start": 0,
+                "url": "https://t.co/0wNeow41sl"
+              }
+            ]
+          }
+        },
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2031647286288060518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789938754444292096/FMmDDz1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 242,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 251
+        },
+        "url": "https://t.co/0wNeow41sl",
+        "username": "Haokuno_0",
+        "verified": false
+      }
+    ]
+  }
+}

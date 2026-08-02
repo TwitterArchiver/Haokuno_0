@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2078781745428897956",
+    "created_at": "2026-07-19T10:09:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T11:09:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078784160769196219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2061242157453983744",
+          "start": 0,
+          "username": "YingZaisamadesu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078784160769196219",
+    "in_reply_to_user_id": "2061242157453983744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078781745428897956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YingZaisamadesu 六级手工跟你闹呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2078781735559737344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlQ-YGbsAAwjGR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2078781745428897956",
+        "created_at": "2026-07-19T10:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T11:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078784160769196219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2061242157453983744",
+              "start": 0,
+              "username": "YingZaisamadesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078784160769196219",
+        "in_reply_to_user_id": "2061242157453983744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078781745428897956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YingZaisamadesu 六级手工跟你闹呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078781735559737344"
+          ]
+        },
+        "author_id": "2061242157453983744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078781745428897956",
+        "created_at": "2026-07-19T09:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078781745428897956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/77h8GSP2I2",
+              "end": 46,
+              "expanded_url": "https://x.com/YingZaisamadesu/status/2078781745428897956/photo/1",
+              "media_key": "3_2078781735559737344",
+              "start": 23,
+              "url": "https://t.co/77h8GSP2I2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078781745428897956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个真的好强，不亏我死了好几十条命才抓到他. https://t.co/77h8GSP2I2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T\n@Yeyuxiao_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Yeyuxiao_0"
+              }
+            ]
+          }
+        },
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 98,
+          "like_count": 1203,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 1510
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-01T00:25:59.000Z",
+        "description": "06/目前就读于异世界大学➧ 猫头鹰教教主👑   ⚠️阴暗死宅（重度二次元）我只是一只猫头鹰，也只是一只猫头鹰. 「中二病严重患者」⚠️❌ 坚定的纯爱主义者.⚠️照片高P线下查无此人⚠️双重人格⚠️ 遇到自己兴趣方面会变得疯癫⚠️我从来不是什么正常人，这里只有我的阴暗和疯癫面，我也只是一个缺爱阴暗老鼠🐭",
+        "id": "2061242157453983744",
+        "location": "彼岸",
+        "name": "✞ Nocturne Eagle ✞",
+        "pinned_tweet_id": "2077396419368067465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061242991994699776/R6ZXROtp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 45,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 116
+        },
+        "url": "",
+        "username": "YingZaisamadesu",
+        "verified": false
+      }
+    ]
+  }
+}

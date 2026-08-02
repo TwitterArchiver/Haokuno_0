@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2065828983351242870",
+    "created_at": "2026-06-14T08:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T09:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066077706492707112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1460936173271068673",
+          "start": 0,
+          "username": "Gfire626"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066077706492707112",
+    "in_reply_to_user_id": "1460936173271068673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066077260235587791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gfire626 早他妈骂过了 人家厚脸皮不听我也不能拿人家怎么样啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2065828983351242870",
+        "created_at": "2026-06-14T08:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066077706492707112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1460936173271068673",
+              "start": 0,
+              "username": "Gfire626"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066077706492707112",
+        "in_reply_to_user_id": "1460936173271068673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066077260235587791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gfire626 早他妈骂过了 人家厚脸皮不听我也不能拿人家怎么样啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1460936173271068673",
+        "conversation_id": "2065828983351242870",
+        "created_at": "2026-06-14T08:36:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:36:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066077260235587791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1276148275175755776",
+              "start": 0,
+              "username": "Haokuno_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066077260235587791",
+        "in_reply_to_user_id": "1276148275175755776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065828983351242870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haokuno_0 说得没毛，那你有没有在他们两个大傻逼晚上看无畏嗷嗷叫的时候，让他们闭上嘴呢？那你要是现实里不说，只在推特上发表一下情绪，我也对你很无语"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n爱压抑\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 91,
+          "like_count": 885,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 909
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-17T11:41:58.000Z",
+        "description": "00后 🍊🍔",
+        "id": "1460936173271068673",
+        "name": "观火",
+        "pinned_tweet_id": "2063476474242564145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880519105394184192/c9oD1DpJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 1073,
+          "like_count": 6260,
+          "listed_count": 6,
+          "media_count": 58,
+          "tweet_count": 837
+        },
+        "username": "Gfire626",
+        "verified": false
+      }
+    ]
+  }
+}

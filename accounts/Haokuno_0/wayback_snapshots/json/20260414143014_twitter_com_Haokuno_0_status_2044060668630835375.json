@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2044057671771562391",
+    "created_at": "2026-04-14T14:30:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T15:30:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044060668630835375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1947816343559979009",
+          "start": 0,
+          "username": "ying040507ying"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044060668630835375",
+    "in_reply_to_user_id": "1947816343559979009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044057671771562391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ying040507ying 对男的女的都说不出来恶毒的话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2044057671771562391",
+        "created_at": "2026-04-14T14:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044060668630835375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1947816343559979009",
+              "start": 0,
+              "username": "ying040507ying"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044060668630835375",
+        "in_reply_to_user_id": "1947816343559979009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044057671771562391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ying040507ying 对男的女的都说不出来恶毒的话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947816343559979009",
+        "conversation_id": "2044057671771562391",
+        "created_at": "2026-04-14T14:18:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044057671771562391"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044057671771562391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高三因为抑郁请过一段时间假 独自一人在某天晚自习前的晚饭时间回学校拿课本 邻座的女生说什么也要给我尝尝她奶奶做的鸡翅 尽管我多次拒绝 她还是拿纸包住吃的塞到我手里 下楼的时候我没忍住 在楼道里边走边哭\n我无法对同性说出恶毒的话 因为我见过的大多都是美好的一面 我真心希望每个女孩都可以幸福"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2041901858508136514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040446372651155456/38-H0Dtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 41,
+          "like_count": 671,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 514
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T00:29:49.000Z",
+        "description": "ISFJ｜175cm200斤⼁野生巨型肖茂密🐱｜顶级游戏宅在线接陪🥣｜希望大家能理性看待我的“碎碎念”",
+        "id": "1947816343559979009",
+        "location": "中城",
+        "name": "小笼灌汤包",
+        "pinned_tweet_id": "2038330065751322878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033840750241452037/ICJdDIcz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 109,
+          "like_count": 1049,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 301
+        },
+        "username": "ying040507ying",
+        "verified": false
+      }
+    ]
+  }
+}

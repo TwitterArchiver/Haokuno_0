@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2069252771069731266",
+    "created_at": "2026-06-23T05:23:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T06:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069290109816676857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1542408000509542401",
+          "start": 0,
+          "username": "hae0702_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069290109816676857",
+    "in_reply_to_user_id": "1542408000509542401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069252771069731266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hae0702_ 给你们这些画画佬跪了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1818,
+        "media_key": "3_2069252711040815104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLd2YJgaEAAk0TN.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1580,
+        "media_key": "3_2069252711036715008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLd2YJfbgAA6Wqu.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2069252712911556608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLd2YQebUAADDpG.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1820,
+        "media_key": "3_2069252711040901120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLd2YJgbYAARMGE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2069252771069731266",
+        "created_at": "2026-06-23T05:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T06:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069290109816676857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1542408000509542401",
+              "start": 0,
+              "username": "hae0702_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069290109816676857",
+        "in_reply_to_user_id": "1542408000509542401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069252771069731266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hae0702_ 给你们这些画画佬跪了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069252711040815104",
+            "3_2069252711036715008",
+            "3_2069252712911556608",
+            "3_2069252711040901120"
+          ]
+        },
+        "author_id": "1542408000509542401",
+        "conversation_id": "2069252771069731266",
+        "created_at": "2026-06-23T02:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T03:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069252771069731266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KzVL3XZiEr",
+              "end": 28,
+              "expanded_url": "https://x.com/hae0702_/status/2069252771069731266/photo/1",
+              "media_key": "3_2069252711040815104",
+              "start": 5,
+              "url": "https://t.co/KzVL3XZiEr"
+            },
+            {
+              "display_url": "pic.x.com/KzVL3XZiEr",
+              "end": 28,
+              "expanded_url": "https://x.com/hae0702_/status/2069252771069731266/photo/1",
+              "media_key": "3_2069252711036715008",
+              "start": 5,
+              "url": "https://t.co/KzVL3XZiEr"
+            },
+            {
+              "display_url": "pic.x.com/KzVL3XZiEr",
+              "end": 28,
+              "expanded_url": "https://x.com/hae0702_/status/2069252771069731266/photo/1",
+              "media_key": "3_2069252712911556608",
+              "start": 5,
+              "url": "https://t.co/KzVL3XZiEr"
+            },
+            {
+              "display_url": "pic.x.com/KzVL3XZiEr",
+              "end": 28,
+              "expanded_url": "https://x.com/hae0702_/status/2069252771069731266/photo/1",
+              "media_key": "3_2069252711040901120",
+              "start": 5,
+              "url": "https://t.co/KzVL3XZiEr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069252771069731266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "近期画的 https://t.co/KzVL3XZiEr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n祝大家天天开心\n看到喜欢的会回fo",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 103,
+          "like_count": 1047,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1145
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-30T07:21:47.000Z",
+        "description": "情绪垃圾桶",
+        "id": "1542408000509542401",
+        "name": "p💖ppy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057457272561774592/pbFOXDW2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 301,
+          "like_count": 950,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "hae0702_",
+        "verified": false
+      }
+    ]
+  }
+}

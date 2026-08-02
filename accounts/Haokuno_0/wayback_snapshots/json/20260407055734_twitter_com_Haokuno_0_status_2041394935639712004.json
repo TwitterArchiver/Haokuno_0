@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2041347377802654126",
+    "created_at": "2026-04-07T05:57:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T06:57:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041394935639712004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1752693029096599552",
+          "start": 0,
+          "username": "diyi77"
+        },
+        {
+          "end": 23,
+          "id": "1757634899002216448",
+          "start": 8,
+          "username": "haohaochifantt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041394935639712004",
+    "in_reply_to_user_id": "1752693029096599552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041383577888366889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@diyi77 @haohaochifantt 辣死了辣死了🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2041347377802654126",
+        "created_at": "2026-04-07T05:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T06:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041394935639712004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1752693029096599552",
+              "start": 0,
+              "username": "diyi77"
+            },
+            {
+              "end": 23,
+              "id": "1757634899002216448",
+              "start": 8,
+              "username": "haohaochifantt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041394935639712004",
+        "in_reply_to_user_id": "1752693029096599552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041383577888366889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@diyi77 @haohaochifantt 辣死了辣死了🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752693029096599552",
+        "conversation_id": "2041347377802654126",
+        "created_at": "2026-04-07T05:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T06:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041383577888366889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1757634899002216448",
+              "start": 0,
+              "username": "haohaochifantt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041383577888366889",
+        "in_reply_to_user_id": "1757634899002216448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041347377802654126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haohaochifantt 火鸡面呀米呀米"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2031647286288060518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040446372651155456/38-H0Dtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 35,
+          "like_count": 606,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 431
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T13:59:34.000Z",
+        "description": "一具孤独冰冷的尸体｜如果你认识我请装作没看见｜当朋友圈发｜不要離開我",
+        "id": "1752693029096599552",
+        "name": "過期眼淚存檔",
+        "pinned_tweet_id": "2041325362391683164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847243892045029376/kJ2Jkpja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 102,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 235
+        },
+        "username": "diyi77",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T05:16:36.000Z",
+        "description": "07 直男直男直男 大量碎碎念中夹杂着一点点喘 喜欢请多多找我玩 互关/过🚪@TTian0515 NGL👉🏻 https://t.co/E1HexE88AE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "TTian0515"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/tian90603",
+                "end": 78,
+                "expanded_url": "https://ngl.link/tian90603",
+                "start": 55,
+                "url": "https://t.co/E1HexE88AE"
+              }
+            ]
+          }
+        },
+        "id": "1757634899002216448",
+        "location": "过🚪解锁陪玩定制等🫶",
+        "name": "宁宴",
+        "pinned_tweet_id": "2037013459133505536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027245230358241280/W3VyRDIg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6874,
+          "following_count": 219,
+          "like_count": 16358,
+          "listed_count": 9,
+          "media_count": 1086,
+          "tweet_count": 6791
+        },
+        "username": "haohaochifantt",
+        "verified": false
+      }
+    ]
+  }
+}

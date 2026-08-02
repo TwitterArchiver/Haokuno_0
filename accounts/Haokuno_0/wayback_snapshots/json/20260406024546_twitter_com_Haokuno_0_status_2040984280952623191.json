@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2040912408395546646",
+    "created_at": "2026-04-06T02:45:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T03:45:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040984280952623191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1752693029096599552",
+          "start": 0,
+          "username": "diyi77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040984280952623191",
+    "in_reply_to_user_id": "1752693029096599552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040912408395546646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@diyi77 好像是意识流精神污染…？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2040912408395546646",
+        "created_at": "2026-04-06T02:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T03:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040984280952623191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1752693029096599552",
+              "start": 0,
+              "username": "diyi77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040984280952623191",
+        "in_reply_to_user_id": "1752693029096599552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040912408395546646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@diyi77 好像是意识流精神污染…？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752693029096599552",
+        "conversation_id": "2040912408395546646",
+        "created_at": "2026-04-05T22:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T23:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040912408395546646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/diyi77/status/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/diyi77/status/2040892796203397171",
+              "start": 6,
+              "url": "https://t.co/rRZmFqEB5m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040912408395546646",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040892796203397171",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我看不懂。 https://t.co/rRZmFqEB5m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2031647286288060518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040446372651155456/38-H0Dtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 33,
+          "like_count": 596,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 418
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T13:59:34.000Z",
+        "description": "一具孤独冰冷的尸体｜如果你认识我请装作没看见｜当朋友圈发｜不要離開我",
+        "id": "1752693029096599552",
+        "name": "過期眼淚存檔",
+        "pinned_tweet_id": "1902227340228190455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847243892045029376/kJ2Jkpja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 96,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 220
+        },
+        "username": "diyi77",
+        "verified": false
+      }
+    ]
+  }
+}

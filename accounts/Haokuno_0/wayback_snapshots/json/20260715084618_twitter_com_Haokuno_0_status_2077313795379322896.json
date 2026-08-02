@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2077313795379322896",
+    "created_at": "2026-07-15T08:46:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T09:46:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077313795379322896"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chnchn1044468/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/chnchn1044468/status/2077205462857183448",
+          "start": 5,
+          "url": "https://t.co/11LpfhrYmZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077313795379322896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077205462857183448",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的天呢 https://t.co/11LpfhrYmZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 761,
+        "media_key": "3_2077205460210585600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNO3XE1akAAwC8L.jpg",
+        "width": 955
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2077313795379322896",
+        "created_at": "2026-07-15T08:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T09:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077313795379322896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chnchn1044468/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/chnchn1044468/status/2077205462857183448",
+              "start": 5,
+              "url": "https://t.co/11LpfhrYmZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077313795379322896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077205462857183448",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的天呢 https://t.co/11LpfhrYmZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077205460210585600"
+          ]
+        },
+        "author_id": "1770159007719976960",
+        "conversation_id": "2077205462857183448",
+        "created_at": "2026-07-15T01:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T02:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077205462857183448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GjAUth7D4y",
+              "end": 149,
+              "expanded_url": "https://x.com/chnchn1044468/status/2077205462857183448/photo/1",
+              "media_key": "3_2077205460210585600",
+              "start": 126,
+              "url": "https://t.co/GjAUth7D4y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077205462857183448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 61322,
+          "like_count": 484,
+          "quote_count": 2,
+          "reply_count": 195,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "其实我是真的非常喜欢毒龙，我觉得屁眼子比鸡巴更让我觉得兴奋，可能是用嘴巴去触碰男人最脏的部位会让我觉得极度的被征服感，但是以前男朋友明确拒绝了我，而且说这样很恶心，从那之后我特别羞于对男人提出我想给你舔屁眼这样的需求，因为很担心被对方嫌弃，我一直在哭 https://t.co/GjAUth7D4y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T\n@Yeyuxiao_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Yeyuxiao_0"
+              }
+            ]
+          }
+        },
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 98,
+          "like_count": 1192,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1464
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-19T18:43:13.000Z",
+        "description": "。",
+        "id": "1770159007719976960",
+        "name": "airdahigh",
+        "pinned_tweet_id": "1788671065440612670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895525489869303809/RLjyKusp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 2970,
+          "like_count": 11444,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 134
+        },
+        "url": "",
+        "username": "chnchn1044468",
+        "verified": false
+      }
+    ]
+  }
+}

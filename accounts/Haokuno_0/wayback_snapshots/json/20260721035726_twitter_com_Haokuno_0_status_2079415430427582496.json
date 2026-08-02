@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2079415430427582496",
+    "created_at": "2026-07-21T03:57:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T04:57:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079415430427582496"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/flechazo777_/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/flechazo777_/status/2079319940071653708",
+          "start": 8,
+          "url": "https://t.co/4xcEmZ9OEG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079415430427582496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079319940071653708",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我刷抖音就这样 https://t.co/4xcEmZ9OEG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079319934048604160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNs6dptbEAADzrS.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2079415430427582496",
+        "created_at": "2026-07-21T03:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079415430427582496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/flechazo777_/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/flechazo777_/status/2079319940071653708",
+              "start": 8,
+              "url": "https://t.co/4xcEmZ9OEG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079415430427582496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079319940071653708",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我刷抖音就这样 https://t.co/4xcEmZ9OEG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079319934048604160"
+          ]
+        },
+        "author_id": "1650435393370882048",
+        "conversation_id": "2079319940071653708",
+        "created_at": "2026-07-20T21:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T22:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079319940071653708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0udm8Fi5NO",
+              "end": 50,
+              "expanded_url": "https://x.com/flechazo777_/status/2079319940071653708/photo/1",
+              "media_key": "3_2079319934048604160",
+              "start": 27,
+              "url": "https://t.co/0udm8Fi5NO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079319940071653708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7749,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每天看抖音刷到这种每条都哭得要死要活到底是为了什么 https://t.co/0udm8Fi5NO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T\n@Yeyuxiao_0\nfo你就是对你感兴趣",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Yeyuxiao_0"
+              }
+            ]
+          }
+        },
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 100,
+          "like_count": 1207,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1533
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-24T09:44:08.000Z",
+        "description": "",
+        "id": "1650435393370882048",
+        "name": "Yuri",
+        "pinned_tweet_id": "2023123853694963933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894717221303140352/kHERlBDZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27138,
+          "following_count": 38,
+          "like_count": 45,
+          "listed_count": 60,
+          "media_count": 82,
+          "tweet_count": 1442
+        },
+        "url": "",
+        "username": "flechazo777_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2068689535534608524",
+    "created_at": "2026-06-22T04:45:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T05:45:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068918157499412680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1794131217463615488",
+          "start": 0,
+          "username": "kana_satsushou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068918157499412680",
+    "in_reply_to_user_id": "1794131217463615488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068689535534608524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kana_satsushou 正常价吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068689527116546049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLV2Kh5aQAEBnkt.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068689527120789504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLV2Kh6bAAA9PMb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2068689535534608524",
+        "created_at": "2026-06-22T04:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068918157499412680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1794131217463615488",
+              "start": 0,
+              "username": "kana_satsushou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068918157499412680",
+        "in_reply_to_user_id": "1794131217463615488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068689535534608524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kana_satsushou 正常价吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068689527116546049",
+            "3_2068689527120789504"
+          ]
+        },
+        "author_id": "1794131217463615488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068689535534608524",
+        "created_at": "2026-06-21T13:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068689535534608524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u4YucNBjU4",
+              "end": 60,
+              "expanded_url": "https://x.com/kana_satsushou/status/2068689535534608524/photo/1",
+              "media_key": "3_2068689527116546049",
+              "start": 37,
+              "url": "https://t.co/u4YucNBjU4"
+            },
+            {
+              "display_url": "pic.x.com/u4YucNBjU4",
+              "end": 60,
+              "expanded_url": "https://x.com/kana_satsushou/status/2068689535534608524/photo/1",
+              "media_key": "3_2068689527120789504",
+              "start": 37,
+              "url": "https://t.co/u4YucNBjU4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068689535534608524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 965,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎 端午的时光太快了还是说自由的生活没过够？\n\n话说售后清灰89算贵吗（ https://t.co/u4YucNBjU4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n祝大家天天开心\n看到喜欢的会回fo",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 103,
+          "like_count": 1021,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1114
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T22:20:05.000Z",
+        "description": "现实生活败北组",
+        "id": "1794131217463615488",
+        "location": "中华人民共和国",
+        "name": "加奈ちゃん",
+        "pinned_tweet_id": "2010024232970031360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062750457530036224/OF_K2cO8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3491,
+          "following_count": 4936,
+          "like_count": 1818,
+          "listed_count": 10,
+          "media_count": 435,
+          "tweet_count": 6658
+        },
+        "url": "",
+        "username": "kana_satsushou",
+        "verified": false
+      }
+    ]
+  }
+}

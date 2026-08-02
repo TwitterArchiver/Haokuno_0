@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065101475492319232"
+      ],
+      "media_source_tweet_id": [
+        "2065267848029807044"
+      ]
+    },
+    "author_id": "1276148275175755776",
+    "conversation_id": "2065286959212405221",
+    "created_at": "2026-06-12T04:15:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T05:15:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065286959212405221"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 29,
+          "tag": "シャム猫あずきさんは世界の中心"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "137646275",
+          "start": 3,
+          "username": "yamanobejin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EK18iVIHaj",
+          "end": 69,
+          "expanded_url": "https://x.com/yamanobejin/status/2065267848029807044/photo/1",
+          "media_key": "3_2065101475492319232",
+          "start": 46,
+          "url": "https://t.co/EK18iVIHaj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065286959212405221",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065267848029807044",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yamanobejin: 暑いから日傘忘れずにね #シャム猫あずきさんは世界の中心 https://t.co/EK18iVIHaj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2065101475492319232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKi22b_a0AA0_TZ.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065101475492319232"
+          ],
+          "media_source_tweet_id": [
+            "2065267848029807044"
+          ]
+        },
+        "author_id": "1276148275175755776",
+        "conversation_id": "2065286959212405221",
+        "created_at": "2026-06-12T04:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T05:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065286959212405221"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 29,
+              "tag": "シャム猫あずきさんは世界の中心"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "137646275",
+              "start": 3,
+              "username": "yamanobejin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EK18iVIHaj",
+              "end": 69,
+              "expanded_url": "https://x.com/yamanobejin/status/2065267848029807044/photo/1",
+              "media_key": "3_2065101475492319232",
+              "start": 46,
+              "url": "https://t.co/EK18iVIHaj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065286959212405221",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065267848029807044",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yamanobejin: 暑いから日傘忘れずにね #シャム猫あずきさんは世界の中心 https://t.co/EK18iVIHaj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065101475492319232"
+          ]
+        },
+        "author_id": "137646275",
+        "conversation_id": "2065267848029807044",
+        "created_at": "2026-06-12T03:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T04:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065267848029807044"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 12,
+              "tag": "シャム猫あずきさんは世界の中心"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EK18iVIHaj",
+              "end": 52,
+              "expanded_url": "https://x.com/yamanobejin/status/2065267848029807044/photo/1",
+              "media_key": "3_2065101475492319232",
+              "start": 29,
+              "url": "https://t.co/EK18iVIHaj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065267848029807044",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3240,
+          "like_count": 347,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "暑いから日傘忘れずにね #シャム猫あずきさんは世界の中心 https://t.co/EK18iVIHaj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n爱压抑\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055630473590640640/aiv2NKqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 85,
+          "like_count": 842,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 828
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-27T09:54:37.000Z",
+        "description": "漫画家です。銀河一かわいいシャム系女子あずきさんの写真やエッセイを投稿します。猫とポケモンとカワイイものが好き。二次創作もします。お仕事のご依頼はnobekotoazuki@yahoo.co.jp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nobeko",
+                "end": 23,
+                "expanded_url": "https://lit.link/nobeko",
+                "start": 0,
+                "url": "https://t.co/fktURCfP2e"
+              }
+            ]
+          }
+        },
+        "id": "137646275",
+        "location": "🇯🇵",
+        "name": "のべ子とシャム猫あずきさん",
+        "pinned_tweet_id": "2025455157987958955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1434388884519936000/bFfmVMk4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126277,
+          "following_count": 849,
+          "like_count": 163651,
+          "listed_count": 1563,
+          "media_count": 21677,
+          "tweet_count": 96994
+        },
+        "url": "https://t.co/fktURCfP2e",
+        "username": "yamanobejin",
+        "verified": true
+      }
+    ]
+  }
+}

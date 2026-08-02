@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2074184417111900612",
+    "created_at": "2026-07-06T17:37:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T18:37:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074185985529966749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2054226432860327936",
+          "start": 0,
+          "username": "Aic_BKY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074185985529966749",
+    "in_reply_to_user_id": "2054226432860327936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074184417111900612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aic_BKY 又是这个人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 476,
+        "media_key": "3_2074184399453900800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMj7uMgbUAAevd6.png",
+        "width": 893
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2074184417111900612",
+        "created_at": "2026-07-06T17:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074185985529966749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2054226432860327936",
+              "start": 0,
+              "username": "Aic_BKY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074185985529966749",
+        "in_reply_to_user_id": "2054226432860327936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074184417111900612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aic_BKY 又是这个人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074184399453900800"
+          ]
+        },
+        "author_id": "2054226432860327936",
+        "conversation_id": "2074184417111900612",
+        "created_at": "2026-07-06T17:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074184417111900612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TyN1y983gr",
+              "end": 27,
+              "expanded_url": "https://x.com/Aic_BKY/status/2074184417111900612/photo/1",
+              "media_key": "3_2074184399453900800",
+              "start": 4,
+              "url": "https://t.co/TyN1y983gr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074184417111900612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吓尿了 https://t.co/TyN1y983gr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T\n@Yeyuxiao_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Yeyuxiao_0"
+              }
+            ]
+          }
+        },
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 100,
+          "like_count": 1134,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1354
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T15:46:10.000Z",
+        "description": "15岁/来这里是为了交朋友/喜欢我请私信  我喜欢聊天",
+        "id": "2054226432860327936",
+        "location": "门167/267纯绿无区别",
+        "name": "AIC",
+        "pinned_tweet_id": "2072866574852141168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055548785376296960/ISGxGY2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 101,
+          "like_count": 5310,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 653
+        },
+        "url": "",
+        "username": "Aic_BKY",
+        "verified": true
+      }
+    ]
+  }
+}

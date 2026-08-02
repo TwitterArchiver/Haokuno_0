@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2069494294340354478",
+    "created_at": "2026-06-24T04:39:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T05:39:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069641597487333392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2059475041126055936",
+          "start": 0,
+          "username": "Texiuszhichuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069641597487333392",
+    "in_reply_to_user_id": "2059475041126055936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069494294340354478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Texiuszhichuan 我们的mbti完全相反"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069494287633731584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLhSFwcb0AAWKTf.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069494287612723200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLhSFwXbQAAmFag.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069494287604371456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLhSFwVb0AA_B8w.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2069494294340354478",
+        "created_at": "2026-06-24T04:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T05:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069641597487333392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059475041126055936",
+              "start": 0,
+              "username": "Texiuszhichuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069641597487333392",
+        "in_reply_to_user_id": "2059475041126055936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069494294340354478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Texiuszhichuan 我们的mbti完全相反"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069494287633731584",
+            "3_2069494287612723200",
+            "3_2069494287604371456"
+          ]
+        },
+        "author_id": "2059475041126055936",
+        "conversation_id": "2069494294340354478",
+        "created_at": "2026-06-23T18:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T19:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069494294340354478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wKEpYV6QuG",
+              "end": 128,
+              "expanded_url": "https://x.com/Texiuszhichuan/status/2069494294340354478/photo/1",
+              "media_key": "3_2069494287633731584",
+              "start": 105,
+              "url": "https://t.co/wKEpYV6QuG"
+            },
+            {
+              "display_url": "pic.x.com/wKEpYV6QuG",
+              "end": 128,
+              "expanded_url": "https://x.com/Texiuszhichuan/status/2069494294340354478/photo/1",
+              "media_key": "3_2069494287612723200",
+              "start": 105,
+              "url": "https://t.co/wKEpYV6QuG"
+            },
+            {
+              "display_url": "pic.x.com/wKEpYV6QuG",
+              "end": 128,
+              "expanded_url": "https://x.com/Texiuszhichuan/status/2069494294340354478/photo/1",
+              "media_key": "3_2069494287604371456",
+              "start": 105,
+              "url": "https://t.co/wKEpYV6QuG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069494294340354478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 760,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "图一：个人自我介绍及部分爱好\n图二：我的恋爱过\n观（可能会有人不接受但是我不会改变我的看法）\n图：我建的一个群，所以和我互fo的都可以来，我们什么都聊，除了一些逆天的玩意你们还可以调教船长（我），这个我也没招 https://t.co/wKEpYV6QuG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n死亡不是终点\n祝大家天天开心\n看到喜欢的会回fo",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 100,
+          "like_count": 1055,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1185
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄",
+        "id": "2059475041126055936",
+        "location": "在哪都行",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2069494294340354478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060374121587052544/q0nCI1WV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 265,
+          "like_count": 9022,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 756
+        },
+        "url": "",
+        "username": "Texiuszhichuan",
+        "verified": true
+      }
+    ]
+  }
+}

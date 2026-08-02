@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2066765050002706473",
+    "created_at": "2026-06-17T14:57:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T15:57:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067260317965713470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1400440406333026306",
+          "start": 0,
+          "username": "AzukiRad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067260317965713470",
+    "in_reply_to_user_id": "1400440406333026306",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066765050002706473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AzukiRad 有點噁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1809,
+        "media_key": "3_2066765044533342208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6f25masAA0JA2.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2066765050002706473",
+        "created_at": "2026-06-17T14:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067260317965713470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1400440406333026306",
+              "start": 0,
+              "username": "AzukiRad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067260317965713470",
+        "in_reply_to_user_id": "1400440406333026306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066765050002706473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AzukiRad 有點噁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066765044533342208"
+          ]
+        },
+        "author_id": "1400440406333026306",
+        "conversation_id": "2066765050002706473",
+        "created_at": "2026-06-16T06:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066765050002706473"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 11,
+              "tag": "地雷系"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nxAzOHHaqo",
+              "end": 39,
+              "expanded_url": "https://x.com/AzukiRad/status/2066765050002706473/photo/1",
+              "media_key": "3_2066765044533342208",
+              "start": 16,
+              "url": "https://t.co/nxAzOHHaqo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066765050002706473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 167768,
+          "like_count": 852,
+          "quote_count": 13,
+          "reply_count": 79,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "跟風地雷妹畫梅毒妝～\n#地雷系 https://t.co/nxAzOHHaqo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n祝大家天天开心\n看到喜欢的会回fo",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 99,
+          "like_count": 972,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1024
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-03T13:13:15.000Z",
+        "description": "台灣🇹🇼 /coser/寫真/攝影/我叫紅豆或汁內/物語シリーズ大好（Can call me—azuki)その上！歡迎合作📷約拍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "furuke.com/azuki_red_beans",
+                "end": 23,
+                "expanded_url": "https://www.furuke.com/azuki_red_beans",
+                "start": 0,
+                "url": "https://t.co/JY53xXKjt2"
+              }
+            ]
+          }
+        },
+        "id": "1400440406333026306",
+        "location": "台灣",
+        "name": "azuki_rad_beans",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772611475489878016/4Se0_7V0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10924,
+          "following_count": 44,
+          "like_count": 388,
+          "listed_count": 18,
+          "media_count": 341,
+          "tweet_count": 802
+        },
+        "url": "https://t.co/JY53xXKjt2",
+        "username": "AzukiRad",
+        "verified": false
+      }
+    ]
+  }
+}

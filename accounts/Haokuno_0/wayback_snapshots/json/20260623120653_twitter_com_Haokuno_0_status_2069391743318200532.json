@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2069220965830295611",
+    "created_at": "2026-06-23T12:06:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T13:06:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069391743318200532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1084526175727185920",
+          "start": 0,
+          "username": "yukominami520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069391743318200532",
+    "in_reply_to_user_id": "1084526175727185920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069220965830295611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukominami520 呕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069220950198165504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLdZfbJboAA7S4U.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069220950126837760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLdZfa4bQAAkGFo.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069220950198104065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLdZfbJasAE_52u.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069220950114275328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLdZfa1bkAANOJP.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2069220965830295611",
+        "created_at": "2026-06-23T12:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069391743318200532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1084526175727185920",
+              "start": 0,
+              "username": "yukominami520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069391743318200532",
+        "in_reply_to_user_id": "1084526175727185920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069220965830295611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukominami520 呕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069220950198165504",
+            "3_2069220950126837760",
+            "3_2069220950198104065",
+            "3_2069220950114275328"
+          ]
+        },
+        "author_id": "1084526175727185920",
+        "conversation_id": "2069220965830295611",
+        "created_at": "2026-06-23T00:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T01:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069220965830295611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FOVFnTTLKP",
+              "end": 59,
+              "expanded_url": "https://x.com/yukominami520/status/2069220965830295611/photo/1",
+              "media_key": "3_2069220950198165504",
+              "start": 36,
+              "url": "https://t.co/FOVFnTTLKP"
+            },
+            {
+              "display_url": "pic.x.com/FOVFnTTLKP",
+              "end": 59,
+              "expanded_url": "https://x.com/yukominami520/status/2069220965830295611/photo/1",
+              "media_key": "3_2069220950126837760",
+              "start": 36,
+              "url": "https://t.co/FOVFnTTLKP"
+            },
+            {
+              "display_url": "pic.x.com/FOVFnTTLKP",
+              "end": 59,
+              "expanded_url": "https://x.com/yukominami520/status/2069220965830295611/photo/1",
+              "media_key": "3_2069220950198104065",
+              "start": 36,
+              "url": "https://t.co/FOVFnTTLKP"
+            },
+            {
+              "display_url": "pic.x.com/FOVFnTTLKP",
+              "end": 59,
+              "expanded_url": "https://x.com/yukominami520/status/2069220965830295611/photo/1",
+              "media_key": "3_2069220950114275328",
+              "start": 36,
+              "url": "https://t.co/FOVFnTTLKP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069220965830295611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5248,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "您欧美在哪了死废物✌︎ ॑꒳ ॑✌︎ 现实生活女的鸟都不鸟你的公狗一条 https://t.co/FOVFnTTLKP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n死亡不是终点\n祝大家天天开心\n看到喜欢的会回fo",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 102,
+          "like_count": 1050,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1162
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-13T19:02:44.000Z",
+        "description": "enfp不快乐小咪丨天蝎丨168cm 75kg丨年龄是永远18岁丨屁话巨多的碎碎念大王\r一个喜欢欣赏美好肉体的淳朴小女孩😋只是爱说骚话我真的不看🐮不yp不陪聊",
+        "id": "1084526175727185920",
+        "location": "老婆的怀里",
+        "name": "Yukominami",
+        "pinned_tweet_id": "2066205359069626631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059467800499122176/fQznr4xS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2454,
+          "following_count": 413,
+          "like_count": 11281,
+          "listed_count": 3,
+          "media_count": 640,
+          "tweet_count": 3975
+        },
+        "url": "",
+        "username": "yukominami520",
+        "verified": false
+      }
+    ]
+  }
+}

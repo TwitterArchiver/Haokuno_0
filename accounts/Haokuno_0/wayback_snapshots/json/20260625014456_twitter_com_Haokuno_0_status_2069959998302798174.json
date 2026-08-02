@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069959987540131840"
+      ]
+    },
+    "author_id": "1276148275175755776",
+    "conversation_id": "2069959998302798174",
+    "created_at": "2026-06-25T01:44:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T02:44:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069959998302798174"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 17,
+          "tag": "我的X周年纪念日"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XlECnKLrxc",
+          "end": 50,
+          "expanded_url": "https://x.com/Haokuno_0/status/2069959998302798174/photo/1",
+          "media_key": "3_2069959987540131840",
+          "start": 27,
+          "url": "https://t.co/XlECnKLrxc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069959998302798174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还记得你何时加入 X 吗？我知道！#我的X周年纪念日 https://t.co/XlECnKLrxc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2069959987540131840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLn5pDyaAAA2yhH.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069959987540131840"
+          ]
+        },
+        "author_id": "1276148275175755776",
+        "conversation_id": "2069959998302798174",
+        "created_at": "2026-06-25T01:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T02:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069959998302798174"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 17,
+              "tag": "我的X周年纪念日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XlECnKLrxc",
+              "end": 50,
+              "expanded_url": "https://x.com/Haokuno_0/status/2069959998302798174/photo/1",
+              "media_key": "3_2069959987540131840",
+              "start": 27,
+              "url": "https://t.co/XlECnKLrxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069959998302798174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还记得你何时加入 X 吗？我知道！#我的X周年纪念日 https://t.co/XlECnKLrxc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n死亡不是终点\n祝大家天天开心\n看到喜欢的会回fo",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 99,
+          "like_count": 1062,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1207
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      }
+    ]
+  }
+}

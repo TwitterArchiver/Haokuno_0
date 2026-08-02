@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2083222184630337778",
+    "created_at": "2026-07-31T16:04:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T17:04:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083222184630337778"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuzhazha69/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/yuzhazha69/status/2083177532527137139",
+          "start": 3,
+          "url": "https://t.co/Ru0ph5NtDC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083222184630337778",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083177532527137139",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "接. https://t.co/Ru0ph5NtDC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2083222184630337778",
+        "created_at": "2026-07-31T16:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083222184630337778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuzhazha69/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/yuzhazha69/status/2083177532527137139",
+              "start": 3,
+              "url": "https://t.co/Ru0ph5NtDC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083222184630337778",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083177532527137139",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接. https://t.co/Ru0ph5NtDC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083081810859466752",
+        "conversation_id": "2083177532527137139",
+        "created_at": "2026-07-31T13:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083177532527137139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lzekiya/status…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/lzekiya/status/2082848698879574460",
+              "start": 2,
+              "url": "https://t.co/ziuwMHjMxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083177532527137139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082848698879574460",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对 https://t.co/ziuwMHjMxT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T\n@Yeyuxiao_0\nfo你就是对你感兴趣",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Yeyuxiao_0"
+              }
+            ]
+          }
+        },
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 111,
+          "like_count": 1282,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1666
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-31T06:47:17.000Z",
+        "description": "4.0火乍玉\n妈妈@boqiaoahm4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "boqiaoahm4"
+              }
+            ]
+          }
+        },
+        "id": "2083081810859466752",
+        "name": "炸炸火乍玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083082423362031617/XGLgLscM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 26,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "yuzhazha69",
+        "verified": false
+      }
+    ]
+  }
+}

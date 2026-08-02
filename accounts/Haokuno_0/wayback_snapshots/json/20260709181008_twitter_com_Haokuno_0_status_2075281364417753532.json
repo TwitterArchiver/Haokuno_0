@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2075111583085482459",
+    "created_at": "2026-07-09T18:10:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T19:10:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075281364417753532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1779534820563193856",
+          "start": 0,
+          "username": "tt2174890778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075281364417753532",
+    "in_reply_to_user_id": "1779534820563193856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075111583085482459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tt2174890778 我去你回来了呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2075111583085482459",
+        "created_at": "2026-07-09T18:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T19:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075281364417753532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1779534820563193856",
+              "start": 0,
+              "username": "tt2174890778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075281364417753532",
+        "in_reply_to_user_id": "1779534820563193856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075111583085482459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tt2174890778 我去你回来了呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779534820563193856",
+        "conversation_id": "2075111583085482459",
+        "created_at": "2026-07-09T06:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T07:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075111583085482459"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075111583085482459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去气晕了呀 我好几条短裤都是胯围腰围刚刚好，但是大腿特别勒呀难受死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T\n@Yeyuxiao_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Yeyuxiao_0"
+              }
+            ]
+          }
+        },
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 94,
+          "like_count": 1144,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1364
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-14T15:39:15.000Z",
+        "description": "我想了解她",
+        "id": "1779534820563193856",
+        "location": "电子日记本",
+        "name": "^ω^",
+        "pinned_tweet_id": "2029031318391316777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855988652498894848/JTs4pfyS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 52,
+          "like_count": 1179,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 1407
+        },
+        "url": "",
+        "username": "tt2174890778",
+        "verified": false
+      }
+    ]
+  }
+}

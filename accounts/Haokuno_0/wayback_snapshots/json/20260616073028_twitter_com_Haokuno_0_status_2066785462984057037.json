@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2066785462984057037",
+    "created_at": "2026-06-16T07:30:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T08:30:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066785462984057037"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066785462984057037",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "卖猪 5.2r/1 只  直转即可 自己会走到你家 不傻的别来\n𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟𓃟𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2066785462984057037",
+        "created_at": "2026-06-16T07:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T08:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066785462984057037"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066785462984057037",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卖猪 5.2r/1 只  直转即可 自己会走到你家 不傻的别来\n𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟𓃟𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟 𓃟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 98,
+          "like_count": 939,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 978
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      }
+    ]
+  }
+}

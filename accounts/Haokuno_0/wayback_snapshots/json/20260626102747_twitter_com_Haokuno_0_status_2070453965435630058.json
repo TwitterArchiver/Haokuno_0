@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2070449183270793574",
+    "created_at": "2026-06-26T10:27:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T11:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070453965435630058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "971003340602486784",
+          "start": 0,
+          "username": "Ixoryss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070453965435630058",
+    "in_reply_to_user_id": "971003340602486784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070449183270793574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ixoryss 这就不得不提我的物生地逆天选科了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070449177155530752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLu2jpHa8AAsIe7.jpg",
+        "width": 414
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2070449183270793574",
+        "created_at": "2026-06-26T10:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070453965435630058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "971003340602486784",
+              "start": 0,
+              "username": "Ixoryss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070453965435630058",
+        "in_reply_to_user_id": "971003340602486784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070449183270793574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ixoryss 这就不得不提我的物生地逆天选科了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070449177155530752"
+          ]
+        },
+        "author_id": "971003340602486784",
+        "conversation_id": "2070449183270793574",
+        "created_at": "2026-06-26T10:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070449183270793574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EmPMPhAKXC",
+              "end": 134,
+              "expanded_url": "https://x.com/Ixoryss/status/2070449183270793574/photo/1",
+              "media_key": "3_2070449177155530752",
+              "start": 111,
+              "url": "https://t.co/EmPMPhAKXC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070449183270793574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到最近高考出分，又想喷以前江苏的老高考制度了\n导致我这总分600+（按6门全国卷未赋分换算）\n年级前3%（那个学校本科率40%多）只能上三本大专的传奇经历\n\n估计把我丢河南河北这种省份也至少能上个一本不至于找不到工作吧 https://t.co/EmPMPhAKXC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n死亡不是终点\n祝大家天天开心\n看到喜欢的会回fo",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 100,
+          "like_count": 1091,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1237
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-06T12:43:31.000Z",
+        "description": "别让猫照镜子",
+        "id": "971003340602486784",
+        "name": "镜子里的猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042862643762102272/_mIwOzB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 348,
+          "like_count": 936,
+          "listed_count": 1,
+          "media_count": 545,
+          "tweet_count": 1976
+        },
+        "url": "",
+        "username": "Ixoryss",
+        "verified": false
+      }
+    ]
+  }
+}

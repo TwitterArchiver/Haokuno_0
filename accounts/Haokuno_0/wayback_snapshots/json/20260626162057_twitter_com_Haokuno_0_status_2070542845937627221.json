@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2070191202453049685",
+    "created_at": "2026-06-26T16:20:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T17:20:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070542845937627221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1684489356931629059",
+          "start": 0,
+          "username": "jom123ab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070542845937627221",
+    "in_reply_to_user_id": "1684489356931629059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070191202453049685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jom123ab 生日快乐🎂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2070191179938058240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrL6Ola0AAH16u.jpg",
+        "width": 1728
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2070191186992930816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrL6o3boAAY1Hb.jpg",
+        "width": 1728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2070191202453049685",
+        "created_at": "2026-06-26T16:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070542845937627221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1684489356931629059",
+              "start": 0,
+              "username": "jom123ab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070542845937627221",
+        "in_reply_to_user_id": "1684489356931629059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070191202453049685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jom123ab 生日快乐🎂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070191179938058240",
+            "3_2070191186992930816"
+          ]
+        },
+        "author_id": "1684489356931629059",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070191202453049685",
+        "created_at": "2026-06-25T17:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070191202453049685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l41PH8Sl1n",
+              "end": 171,
+              "expanded_url": "https://x.com/jom123ab/status/2070191202453049685/photo/1",
+              "media_key": "3_2070191179938058240",
+              "start": 148,
+              "url": "https://t.co/l41PH8Sl1n"
+            },
+            {
+              "display_url": "pic.x.com/l41PH8Sl1n",
+              "end": 171,
+              "expanded_url": "https://x.com/jom123ab/status/2070191202453049685/photo/1",
+              "media_key": "3_2070191186992930816",
+              "start": 148,
+              "url": "https://t.co/l41PH8Sl1n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070191202453049685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2742,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 51,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我的生日，我21岁啦!\n这几天我真的特别高兴，有很多人点赞了我，甚至关注了我，真的非常感谢你们。\n我在生活和学习中只是普通的npc，但是在这里，我真的得到了很多宝贵的朋友和祝福。我今年的愿望是:祝你们所有人天天开心!!!!!\n写着写着好像也哭了。不好意思啊，虽然我是男生，但是我总是这样。 https://t.co/l41PH8Sl1n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n死亡不是终点\n祝大家天天开心\n看到喜欢的会回fo",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 101,
+          "like_count": 1099,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1242
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T09:02:29.000Z",
+        "description": "这个人在想写点什么能引起你的注意",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jom56837",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jom56837",
+                "start": 0,
+                "url": "https://t.co/PJZZhqC100"
+              }
+            ]
+          }
+        },
+        "id": "1684489356931629059",
+        "location": "你的心里",
+        "name": "Jom",
+        "pinned_tweet_id": "2063566548250525839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875020315207884800/6vjYfloc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 2130,
+          "like_count": 4768,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 682
+        },
+        "url": "https://t.co/PJZZhqC100",
+        "username": "jom123ab",
+        "verified": false
+      }
+    ]
+  }
+}

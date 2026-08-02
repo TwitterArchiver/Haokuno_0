@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050278458022866946",
+        "3_2050278457733480448",
+        "3_2050278457729306624",
+        "3_2050278457733513216"
+      ]
+    },
+    "author_id": "1276148275175755776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2050278474947199243",
+    "created_at": "2026-05-01T18:17:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T19:17:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050278474947199243"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QlVUP0Irpi",
+          "end": 30,
+          "expanded_url": "https://x.com/Haokuno_0/status/2050278474947199243/photo/1",
+          "media_key": "3_2050278458022866946",
+          "start": 7,
+          "url": "https://t.co/QlVUP0Irpi"
+        },
+        {
+          "display_url": "pic.x.com/QlVUP0Irpi",
+          "end": 30,
+          "expanded_url": "https://x.com/Haokuno_0/status/2050278474947199243/photo/1",
+          "media_key": "3_2050278457733480448",
+          "start": 7,
+          "url": "https://t.co/QlVUP0Irpi"
+        },
+        {
+          "display_url": "pic.x.com/QlVUP0Irpi",
+          "end": 30,
+          "expanded_url": "https://x.com/Haokuno_0/status/2050278474947199243/photo/1",
+          "media_key": "3_2050278457729306624",
+          "start": 7,
+          "url": "https://t.co/QlVUP0Irpi"
+        },
+        {
+          "display_url": "pic.x.com/QlVUP0Irpi",
+          "end": 30,
+          "expanded_url": "https://x.com/Haokuno_0/status/2050278474947199243/photo/1",
+          "media_key": "3_2050278457733513216",
+          "start": 7,
+          "url": "https://t.co/QlVUP0Irpi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050278474947199243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好开心的一天 https://t.co/QlVUP0Irpi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050278458022866946",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHQNZQ0WsAIP9DM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050278457733480448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHQNZPvXAAAJH94.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050278457729306624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHQNZPuXUAA8uK5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050278457733513216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHQNZPvXgAAHHDx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050278458022866946",
+            "3_2050278457733480448",
+            "3_2050278457729306624",
+            "3_2050278457733513216"
+          ]
+        },
+        "author_id": "1276148275175755776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2050278474947199243",
+        "created_at": "2026-05-01T18:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T19:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050278474947199243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QlVUP0Irpi",
+              "end": 30,
+              "expanded_url": "https://x.com/Haokuno_0/status/2050278474947199243/photo/1",
+              "media_key": "3_2050278458022866946",
+              "start": 7,
+              "url": "https://t.co/QlVUP0Irpi"
+            },
+            {
+              "display_url": "pic.x.com/QlVUP0Irpi",
+              "end": 30,
+              "expanded_url": "https://x.com/Haokuno_0/status/2050278474947199243/photo/1",
+              "media_key": "3_2050278457733480448",
+              "start": 7,
+              "url": "https://t.co/QlVUP0Irpi"
+            },
+            {
+              "display_url": "pic.x.com/QlVUP0Irpi",
+              "end": 30,
+              "expanded_url": "https://x.com/Haokuno_0/status/2050278474947199243/photo/1",
+              "media_key": "3_2050278457729306624",
+              "start": 7,
+              "url": "https://t.co/QlVUP0Irpi"
+            },
+            {
+              "display_url": "pic.x.com/QlVUP0Irpi",
+              "end": 30,
+              "expanded_url": "https://x.com/Haokuno_0/status/2050278474947199243/photo/1",
+              "media_key": "3_2050278457733513216",
+              "start": 7,
+              "url": "https://t.co/QlVUP0Irpi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050278474947199243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好开心的一天 https://t.co/QlVUP0Irpi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040446372651155456/38-H0Dtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 46,
+          "like_count": 738,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 591
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      }
+    ]
+  }
+}

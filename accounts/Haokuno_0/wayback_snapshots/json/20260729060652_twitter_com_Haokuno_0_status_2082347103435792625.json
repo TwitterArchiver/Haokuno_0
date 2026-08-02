@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2082327070059954317",
+    "created_at": "2026-07-29T06:06:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T07:06:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082347103435792625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2074270585396531200",
+          "start": 0,
+          "username": "Chenpui2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082347103435792625",
+    "in_reply_to_user_id": "2074270585396531200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082327070059954317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chenpui2 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082327059863592960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXpbaVaYAA6Ihi.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082327059913920512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXpbahaUAAj5h7.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082327059855200256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXpbaTaUAAlCSJ.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2082327070059954317",
+        "created_at": "2026-07-29T06:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T07:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082347103435792625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2074270585396531200",
+              "start": 0,
+              "username": "Chenpui2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082347103435792625",
+        "in_reply_to_user_id": "2074270585396531200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082327070059954317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chenpui2 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082327059863592960",
+            "3_2082327059913920512",
+            "3_2082327059855200256"
+          ]
+        },
+        "author_id": "2074270585396531200",
+        "conversation_id": "2082327070059954317",
+        "created_at": "2026-07-29T04:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082327070059954317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IZRjQvhIYD",
+              "end": 44,
+              "expanded_url": "https://x.com/Chenpui2/status/2082327070059954317/photo/1",
+              "media_key": "3_2082327059863592960",
+              "start": 21,
+              "url": "https://t.co/IZRjQvhIYD"
+            },
+            {
+              "display_url": "pic.x.com/IZRjQvhIYD",
+              "end": 44,
+              "expanded_url": "https://x.com/Chenpui2/status/2082327070059954317/photo/1",
+              "media_key": "3_2082327059913920512",
+              "start": 21,
+              "url": "https://t.co/IZRjQvhIYD"
+            },
+            {
+              "display_url": "pic.x.com/IZRjQvhIYD",
+              "end": 44,
+              "expanded_url": "https://x.com/Chenpui2/status/2082327070059954317/photo/1",
+              "media_key": "3_2082327059855200256",
+              "start": 21,
+              "url": "https://t.co/IZRjQvhIYD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082327070059954317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好呀好呀等我攒点钱🥺\n泥嚎\n后入吧🤔3次 https://t.co/IZRjQvhIYD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T\n@Yeyuxiao_0\nfo你就是对你感兴趣",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Yeyuxiao_0"
+              }
+            ]
+          }
+        },
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 112,
+          "like_count": 1267,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1629
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-06T23:14:58.000Z",
+        "description": "小辰\n💊🩸🔪/LGBTQ友好/同类回fo 没回请私信我🥺/梦到什么发什么",
+        "id": "2074270585396531200",
+        "name": "辰",
+        "pinned_tweet_id": "2081008909209538714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074271271358230528/h-KK1N-1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 235,
+          "like_count": 4314,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 380
+        },
+        "url": "",
+        "username": "Chenpui2",
+        "verified": false
+      }
+    ]
+  }
+}

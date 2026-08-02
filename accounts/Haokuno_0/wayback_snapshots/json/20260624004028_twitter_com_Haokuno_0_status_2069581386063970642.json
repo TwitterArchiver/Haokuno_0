@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2068694063428378912",
+    "created_at": "2026-06-24T00:40:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T01:40:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069581386063970642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1858200277243060224",
+          "start": 0,
+          "username": "hang112971"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069581386063970642",
+    "in_reply_to_user_id": "1858200277243060224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068694063428378912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hang112971 这是哪家"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068694055081689088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLV6SF4bQAAW3gd.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2068694063428378912",
+        "created_at": "2026-06-24T00:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T01:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069581386063970642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1858200277243060224",
+              "start": 0,
+              "username": "hang112971"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069581386063970642",
+        "in_reply_to_user_id": "1858200277243060224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068694063428378912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hang112971 这是哪家"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068694055081689088"
+          ]
+        },
+        "author_id": "1858200277243060224",
+        "conversation_id": "2068694063428378912",
+        "created_at": "2026-06-21T13:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068694063428378912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PRGEktmoUc",
+              "end": 37,
+              "expanded_url": "https://x.com/hang112971/status/2068694063428378912/photo/1",
+              "media_key": "3_2068694055081689088",
+              "start": 14,
+              "url": "https://t.co/PRGEktmoUc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068694063428378912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 10629,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 46,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "koi真的好喝我不开玩笑… https://t.co/PRGEktmoUc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n死亡不是终点\n祝大家天天开心\n看到喜欢的会回fo",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 102,
+          "like_count": 1054,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1179
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T17:27:34.000Z",
+        "description": "c( O.O )ɔ  男\nesfj 📷📷📷",
+        "id": "1858200277243060224",
+        "location": "Hangzhou",
+        "name": "h-",
+        "pinned_tweet_id": "2058555731096563920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058972367448330240/tEV4roBd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 1122,
+          "like_count": 4636,
+          "listed_count": 1,
+          "media_count": 303,
+          "tweet_count": 1288
+        },
+        "url": "",
+        "username": "hang112971",
+        "verified": false
+      }
+    ]
+  }
+}

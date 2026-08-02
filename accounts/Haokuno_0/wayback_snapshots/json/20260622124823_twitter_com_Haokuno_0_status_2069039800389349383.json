@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2068704693099147740",
+    "created_at": "2026-06-22T12:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T13:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069039800389349383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2034609952812318720",
+          "start": 0,
+          "username": "dudu9grr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069039800389349383",
+    "in_reply_to_user_id": "2034609952812318720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068704693099147740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dudu9grr 他妈逼的一个14岁毛还没长齐的小男孩的话有啥好当真的，三观都没成熟的人怎么可能想得到这么多东西，他只知道这样做很容易能赚钱而完全不会想后果"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1353,
+        "media_key": "3_2068704683745763328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWD8wvaYAAgOGo.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2068704693099147740",
+        "created_at": "2026-06-22T12:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069039800389349383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2034609952812318720",
+              "start": 0,
+              "username": "dudu9grr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069039800389349383",
+        "in_reply_to_user_id": "2034609952812318720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068704693099147740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dudu9grr 他妈逼的一个14岁毛还没长齐的小男孩的话有啥好当真的，三观都没成熟的人怎么可能想得到这么多东西，他只知道这样做很容易能赚钱而完全不会想后果"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068704683745763328"
+          ]
+        },
+        "author_id": "2034609952812318720",
+        "conversation_id": "2068704693099147740",
+        "created_at": "2026-06-21T14:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068704693099147740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RD2yYeQYSp",
+              "end": 31,
+              "expanded_url": "https://x.com/dudu9grr/status/2068704693099147740/photo/1",
+              "media_key": "3_2068704683745763328",
+              "start": 8,
+              "url": "https://t.co/RD2yYeQYSp"
+            },
+            {
+              "display_url": "x.com/niconekkod/sta…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/niconekkod/status/2068281048300208575",
+              "start": 32,
+              "url": "https://t.co/yC8uEZgu9L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068704693099147740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 26003,
+          "like_count": 1092,
+          "quote_count": 2,
+          "reply_count": 31,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068281048300208575",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "操你妈个死傻逼 https://t.co/RD2yYeQYSp https://t.co/yC8uEZgu9L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n祝大家天天开心\n看到喜欢的会回fo",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 102,
+          "like_count": 1037,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1120
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-19T12:37:25.000Z",
+        "description": "这是我的老鼠号，我今年小升初什么也不懂，集美嘴下留情",
+        "id": "2034609952812318720",
+        "location": "张元英正牌炮友",
+        "name": "dudu",
+        "pinned_tweet_id": "2068792407903318443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067983086617530368/9SdflQaf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 2,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "dudu9grr",
+        "verified": false
+      }
+    ]
+  }
+}

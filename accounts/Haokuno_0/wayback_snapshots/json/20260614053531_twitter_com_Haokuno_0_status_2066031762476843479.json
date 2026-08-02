@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2065828983351242870",
+    "created_at": "2026-06-14T05:35:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T06:35:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066031762476843479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1806957749793853441",
+          "start": 0,
+          "username": "0KKS01"
+        },
+        {
+          "end": 24,
+          "id": "2051226025942491137",
+          "start": 8,
+          "username": "ut0HIOQ2bW45281"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066031762476843479",
+    "in_reply_to_user_id": "1806957749793853441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066026683552186704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0KKS01 @ut0HIOQ2bW45281 没有人类了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2065828983351242870",
+        "created_at": "2026-06-14T05:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066031762476843479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1806957749793853441",
+              "start": 0,
+              "username": "0KKS01"
+            },
+            {
+              "end": 24,
+              "id": "2051226025942491137",
+              "start": 8,
+              "username": "ut0HIOQ2bW45281"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066031762476843479",
+        "in_reply_to_user_id": "1806957749793853441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066026683552186704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0KKS01 @ut0HIOQ2bW45281 没有人类了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806957749793853441",
+        "conversation_id": "2065828983351242870",
+        "created_at": "2026-06-14T05:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066026683552186704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1276148275175755776",
+              "start": 0,
+              "username": "Haokuno_0"
+            },
+            {
+              "end": 27,
+              "id": "2051226025942491137",
+              "start": 11,
+              "username": "ut0HIOQ2bW45281"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066026683552186704",
+        "in_reply_to_user_id": "1276148275175755776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066023163205648767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haokuno_0 @ut0HIOQ2bW45281 哈哈哈哈这33真给我整笑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n爱压抑\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 91,
+          "like_count": 873,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 900
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T07:48:11.000Z",
+        "description": "",
+        "id": "1806957749793853441",
+        "name": "KKS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042211316023349248/ZP4xatEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 22,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 14
+        },
+        "username": "0KKS01",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T09:03:03.000Z",
+        "description": "",
+        "id": "2051226025942491137",
+        "name": "苗赛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051226089243267072/CkUeZJio_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 57,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "ut0HIOQ2bW45281",
+        "verified": false
+      }
+    ]
+  }
+}

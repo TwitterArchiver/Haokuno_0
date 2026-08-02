@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064587272163557376",
+        "3_2064587272142647296",
+        "3_2064587272130113537",
+        "3_2064587272440451072"
+      ]
+    },
+    "author_id": "1276148275175755776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2064587288936579171",
+    "created_at": "2026-06-10T05:55:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T06:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064587288936579171"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qQ8LgZeETI",
+          "end": 32,
+          "expanded_url": "https://x.com/Haokuno_0/status/2064587288936579171/photo/1",
+          "media_key": "3_2064587272163557376",
+          "start": 9,
+          "url": "https://t.co/qQ8LgZeETI"
+        },
+        {
+          "display_url": "pic.x.com/qQ8LgZeETI",
+          "end": 32,
+          "expanded_url": "https://x.com/Haokuno_0/status/2064587288936579171/photo/1",
+          "media_key": "3_2064587272142647296",
+          "start": 9,
+          "url": "https://t.co/qQ8LgZeETI"
+        },
+        {
+          "display_url": "pic.x.com/qQ8LgZeETI",
+          "end": 32,
+          "expanded_url": "https://x.com/Haokuno_0/status/2064587288936579171/photo/1",
+          "media_key": "3_2064587272130113537",
+          "start": 9,
+          "url": "https://t.co/qQ8LgZeETI"
+        },
+        {
+          "display_url": "pic.x.com/qQ8LgZeETI",
+          "end": 32,
+          "expanded_url": "https://x.com/Haokuno_0/status/2064587288936579171/photo/1",
+          "media_key": "3_2064587272440451072",
+          "start": 9,
+          "url": "https://t.co/qQ8LgZeETI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064587288936579171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给我他妈干哪来了 https://t.co/qQ8LgZeETI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064587272163557376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbjL3UaAAAYs-F.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064587272142647296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbjL3Pa8AAkASF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2064587272130113537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbjL3MbsAEcJRW.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064587272440451072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbjL4WbEAA1PaK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064587272163557376",
+            "3_2064587272142647296",
+            "3_2064587272130113537",
+            "3_2064587272440451072"
+          ]
+        },
+        "author_id": "1276148275175755776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064587288936579171",
+        "created_at": "2026-06-10T05:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064587288936579171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qQ8LgZeETI",
+              "end": 32,
+              "expanded_url": "https://x.com/Haokuno_0/status/2064587288936579171/photo/1",
+              "media_key": "3_2064587272163557376",
+              "start": 9,
+              "url": "https://t.co/qQ8LgZeETI"
+            },
+            {
+              "display_url": "pic.x.com/qQ8LgZeETI",
+              "end": 32,
+              "expanded_url": "https://x.com/Haokuno_0/status/2064587288936579171/photo/1",
+              "media_key": "3_2064587272142647296",
+              "start": 9,
+              "url": "https://t.co/qQ8LgZeETI"
+            },
+            {
+              "display_url": "pic.x.com/qQ8LgZeETI",
+              "end": 32,
+              "expanded_url": "https://x.com/Haokuno_0/status/2064587288936579171/photo/1",
+              "media_key": "3_2064587272130113537",
+              "start": 9,
+              "url": "https://t.co/qQ8LgZeETI"
+            },
+            {
+              "display_url": "pic.x.com/qQ8LgZeETI",
+              "end": 32,
+              "expanded_url": "https://x.com/Haokuno_0/status/2064587288936579171/photo/1",
+              "media_key": "3_2064587272440451072",
+              "start": 9,
+              "url": "https://t.co/qQ8LgZeETI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064587288936579171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给我他妈干哪来了 https://t.co/qQ8LgZeETI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n别靠近我\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055630473590640640/aiv2NKqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 68,
+          "like_count": 798,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 784
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      }
+    ]
+  }
+}

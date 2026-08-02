@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2070139346523427315",
+    "created_at": "2026-06-25T13:37:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T14:37:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070139346523427315"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ckyoa2/status/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/ckyoa2/status/2069819171790278922",
+          "start": 5,
+          "url": "https://t.co/4A7yDwpd1j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070139346523427315",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069819171790278922",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好幸福啊 https://t.co/4A7yDwpd1j"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2070139346523427315",
+        "created_at": "2026-06-25T13:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T14:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070139346523427315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ckyoa2/status/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/ckyoa2/status/2069819171790278922",
+              "start": 5,
+              "url": "https://t.co/4A7yDwpd1j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070139346523427315",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069819171790278922",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好幸福啊 https://t.co/4A7yDwpd1j"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968368047988817923",
+        "conversation_id": "2069819171790278922",
+        "created_at": "2026-06-24T16:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069819171790278922"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069819171790278922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 64075,
+          "like_count": 74,
+          "quote_count": 1,
+          "reply_count": 196,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你真的要和那个男的过出租屋每天吃外卖不出门的那种日子吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n死亡不是终点\n祝大家天天开心\n看到喜欢的会回fo",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 99,
+          "like_count": 1076,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1219
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T17:34:58.000Z",
+        "description": "当朋友圈发了",
+        "id": "1968368047988817923",
+        "location": "🚪199 可以验证",
+        "name": "ck",
+        "pinned_tweet_id": "2067271644532593001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049487138509774849/xVB5Hbzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19425,
+          "following_count": 9,
+          "like_count": 781,
+          "listed_count": 27,
+          "media_count": 132,
+          "tweet_count": 710
+        },
+        "url": "",
+        "username": "ckyoa2",
+        "verified": false
+      }
+    ]
+  }
+}

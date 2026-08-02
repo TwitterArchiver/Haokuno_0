@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2065762070977732862",
+    "created_at": "2026-06-13T12:55:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T13:55:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065780094610944247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1927018923649564674",
+          "start": 0,
+          "username": "dddddd10792941"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065780094610944247",
+    "in_reply_to_user_id": "1927018923649564674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065762070977732862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dddddd10792941 我去不早说"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 80,
+        "media_key": "3_2065762058361253888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsPpa8aMAAx4Jg.jpg",
+        "width": 80
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2065762070977732862",
+        "created_at": "2026-06-13T12:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065780094610944247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1927018923649564674",
+              "start": 0,
+              "username": "dddddd10792941"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065780094610944247",
+        "in_reply_to_user_id": "1927018923649564674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065762070977732862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dddddd10792941 我去不早说"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065762058361253888"
+          ]
+        },
+        "author_id": "1927018923649564674",
+        "conversation_id": "2065762070977732862",
+        "created_at": "2026-06-13T11:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065762070977732862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oRCLi3cloL",
+              "end": 33,
+              "expanded_url": "https://x.com/dddddd10792941/status/2065762070977732862/photo/1",
+              "media_key": "3_2065762058361253888",
+              "start": 10,
+              "url": "https://t.co/oRCLi3cloL"
+            },
+            {
+              "display_url": "x.com/hajihajimo/sta…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/hajihajimo/status/2065761831164272662",
+              "start": 34,
+              "url": "https://t.co/IdDWfHDVac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065762070977732862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065761831164272662",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我其实在玩单机版x https://t.co/oRCLi3cloL https://t.co/IdDWfHDVac"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n爱压抑\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 91,
+          "like_count": 854,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 862
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T15:08:23.000Z",
+        "description": "一个无建模，无经济，无背景的外道魔像一枚捏\n如果看到哪位宝宝关注我我都会回关的\n想去死想去死想去死\n很缺爱的一个入，很希望有个依靠，但想起自己那丑陋的皮囊还是算了吧\n梦想就是下辈子变成腿白，身材不胖建模好，声音中性的男生然后穿上女装当男娘发好看的白丝黑丝和cos服给推友们看豪堪的喵\n希望两年后会倒在自己的血泊中无人在意",
+        "id": "1927018923649564674",
+        "location": "躺上去肯定会舒服的地方",
+        "name": "缺爱哥布林想要重生为建模优美男娘",
+        "pinned_tweet_id": "2063468670790291840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062963140418310144/9zuI0VwU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 160,
+          "like_count": 764,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 683
+        },
+        "username": "dddddd10792941",
+        "verified": false
+      }
+    ]
+  }
+}

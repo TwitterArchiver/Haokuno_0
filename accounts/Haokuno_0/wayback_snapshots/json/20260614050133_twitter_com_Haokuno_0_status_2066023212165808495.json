@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2065828983351242870",
+    "created_at": "2026-06-14T05:01:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T06:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066023212165808495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2052950528053989376",
+          "start": 0,
+          "username": "chao37290"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066023212165808495",
+    "in_reply_to_user_id": "2052950528053989376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066018635060244871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chao37290 我也打"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2065828983351242870",
+        "created_at": "2026-06-14T05:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066023212165808495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2052950528053989376",
+              "start": 0,
+              "username": "chao37290"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066023212165808495",
+        "in_reply_to_user_id": "2052950528053989376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066018635060244871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chao37290 我也打"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052950528053989376",
+        "conversation_id": "2065828983351242870",
+        "created_at": "2026-06-14T04:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066018635060244871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1276148275175755776",
+              "start": 0,
+              "username": "Haokuno_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066018635060244871",
+        "in_reply_to_user_id": "1276148275175755776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065828983351242870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haokuno_0 虽然我也打这个游戏 抛开这个游戏本身不谈 熄灯了情况下在宿舍嚷嚷吵到别人确实不好 该骂还是得骂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n爱压抑\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 91,
+          "like_count": 869,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 892
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T03:15:48.000Z",
+        "description": "",
+        "id": "2052950528053989376",
+        "name": "Menthe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064215096398848000/Ah20VmjP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 10,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "username": "chao37290",
+        "verified": false
+      }
+    ]
+  }
+}

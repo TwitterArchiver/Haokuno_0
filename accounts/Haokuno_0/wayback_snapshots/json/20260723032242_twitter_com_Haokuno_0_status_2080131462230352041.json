@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080131453409714176"
+      ]
+    },
+    "author_id": "1276148275175755776",
+    "conversation_id": "2080131462230352041",
+    "created_at": "2026-07-23T03:22:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T04:22:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080131462230352041"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DfGqPMQFpn",
+          "end": 35,
+          "expanded_url": "https://x.com/Haokuno_0/status/2080131462230352041/photo/1",
+          "media_key": "3_2080131453409714176",
+          "start": 12,
+          "url": "https://t.co/DfGqPMQFpn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080131462230352041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "妈的这游戏一点都不好玩 https://t.co/DfGqPMQFpn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080131453409714176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4ciS6aYAAbze2.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080131453409714176"
+          ]
+        },
+        "author_id": "1276148275175755776",
+        "conversation_id": "2080131462230352041",
+        "created_at": "2026-07-23T03:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T04:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080131462230352041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DfGqPMQFpn",
+              "end": 35,
+              "expanded_url": "https://x.com/Haokuno_0/status/2080131462230352041/photo/1",
+              "media_key": "3_2080131453409714176",
+              "start": 12,
+              "url": "https://t.co/DfGqPMQFpn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080131462230352041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈的这游戏一点都不好玩 https://t.co/DfGqPMQFpn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T\n@Yeyuxiao_0\nfo你就是对你感兴趣",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Yeyuxiao_0"
+              }
+            ]
+          }
+        },
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 102,
+          "like_count": 1214,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 1555
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": true
+      }
+    ]
+  }
+}

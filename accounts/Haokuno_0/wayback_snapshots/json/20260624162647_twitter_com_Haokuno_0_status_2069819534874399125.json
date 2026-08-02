@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069819513953210377"
+      ]
+    },
+    "author_id": "1276148275175755776",
+    "conversation_id": "2069819534874399125",
+    "created_at": "2026-06-24T16:26:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:26:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069819534874399125"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lhWvBEz7eE",
+          "end": 32,
+          "expanded_url": "https://x.com/Haokuno_0/status/2069819534874399125/photo/1",
+          "media_key": "3_2069819513953210377",
+          "start": 9,
+          "url": "https://t.co/lhWvBEz7eE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069819534874399125",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "来我资料看气球🎈 https://t.co/lhWvBEz7eE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069819513953210377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLl54a5aUAkkthz.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069819513953210377"
+          ]
+        },
+        "author_id": "1276148275175755776",
+        "conversation_id": "2069819534874399125",
+        "created_at": "2026-06-24T16:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069819534874399125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lhWvBEz7eE",
+              "end": 32,
+              "expanded_url": "https://x.com/Haokuno_0/status/2069819534874399125/photo/1",
+              "media_key": "3_2069819513953210377",
+              "start": 9,
+              "url": "https://t.co/lhWvBEz7eE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069819534874399125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来我资料看气球🎈 https://t.co/lhWvBEz7eE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n死亡不是终点\n祝大家天天开心\n看到喜欢的会回fo",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 99,
+          "like_count": 1063,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1205
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      }
+    ]
+  }
+}

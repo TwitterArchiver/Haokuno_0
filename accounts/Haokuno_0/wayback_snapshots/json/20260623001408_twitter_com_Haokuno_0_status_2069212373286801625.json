@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2069118544600510751",
+    "created_at": "2026-06-23T00:14:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T01:14:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069212373286801625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1751240173650935808",
+          "start": 0,
+          "username": "Liver_MST"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069212373286801625",
+    "in_reply_to_user_id": "1751240173650935808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069118544600510751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liver_MST 吓哭了😰😰😰"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 149405,
+        "height": 1278,
+        "media_key": "13_2069118112063201280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069118112063201280/img/CdnG92AJ9lYwR0ot.jpg",
+        "public_metrics": {
+          "view_count": 48
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069118112063201280/vid/avc1/320x568/5A_XaEdEKkr4gBOb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069118112063201280/vid/avc1/480x852/gXroYjpmJqRRnhOo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069118112063201280/vid/avc1/720x1278/i0YzqMc-GvHPevN3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069118112063201280/pl/JahyJrrXOwGBHgLH.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2069118544600510751",
+        "created_at": "2026-06-23T00:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T01:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069212373286801625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751240173650935808",
+              "start": 0,
+              "username": "Liver_MST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069212373286801625",
+        "in_reply_to_user_id": "1751240173650935808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069118544600510751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liver_MST 吓哭了😰😰😰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069118112063201280"
+          ]
+        },
+        "author_id": "1751240173650935808",
+        "conversation_id": "2069118544600510751",
+        "created_at": "2026-06-22T18:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T19:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069118544600510751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8jWWMiwJgG",
+              "end": 57,
+              "expanded_url": "https://x.com/Liver_MST/status/2069118544600510751/video/1",
+              "media_key": "13_2069118112063201280",
+              "start": 34,
+              "url": "https://t.co/8jWWMiwJgG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069118544600510751",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Space Harrier Main Theme [Reborn] https://t.co/8jWWMiwJgG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n祝大家天天开心\n看到喜欢的会回fo",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 103,
+          "like_count": 1041,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1137
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T13:46:20.000Z",
+        "description": "欢迎私信扩列互fo/可以叫我帕克/🎂2006.07.01/音ゲー/maimai暁神確認/🇨🇳简体中文|🇹🇼繁體中文|🇬🇧🇺🇸English|🇯🇵日本語の投稿はすべて機械翻訳です。おかしな表現があったらごめんね！",
+        "id": "1751240173650935808",
+        "location": "Guangzhou, China",
+        "name": "Livermst",
+        "pinned_tweet_id": "2067917257104068920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059924381317656576/Ov7oEjtl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1474,
+          "following_count": 1423,
+          "like_count": 1,
+          "listed_count": 3,
+          "media_count": 168,
+          "tweet_count": 1720
+        },
+        "url": "",
+        "username": "Liver_MST",
+        "verified": false
+      }
+    ]
+  }
+}

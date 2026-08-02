@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065271652796264448"
+      ]
+    },
+    "author_id": "1276148275175755776",
+    "conversation_id": "2065271663969874181",
+    "created_at": "2026-06-12T03:15:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T04:15:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065271663969874181"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7hz9Oici0y",
+          "end": 29,
+          "expanded_url": "https://x.com/Haokuno_0/status/2065271663969874181/photo/1",
+          "media_key": "3_2065271652796264448",
+          "start": 6,
+          "url": "https://t.co/7hz9Oici0y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065271663969874181",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "玩么0.0 https://t.co/7hz9Oici0y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065271652796264448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlRoD2a8AAwtyG.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065271652796264448"
+          ]
+        },
+        "author_id": "1276148275175755776",
+        "conversation_id": "2065271663969874181",
+        "created_at": "2026-06-12T03:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T04:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065271663969874181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7hz9Oici0y",
+              "end": 29,
+              "expanded_url": "https://x.com/Haokuno_0/status/2065271663969874181/photo/1",
+              "media_key": "3_2065271652796264448",
+              "start": 6,
+              "url": "https://t.co/7hz9Oici0y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065271663969874181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩么0.0 https://t.co/7hz9Oici0y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n爱压抑\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055630473590640640/aiv2NKqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 84,
+          "like_count": 842,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 826
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      }
+    ]
+  }
+}

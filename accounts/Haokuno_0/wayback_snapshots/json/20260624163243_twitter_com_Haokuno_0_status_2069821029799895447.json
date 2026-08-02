@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2069821029799895447",
+    "created_at": "2026-06-24T16:32:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:32:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069821029799895447"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069821029799895447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "去年的现在我在干嘛呢？看到他们高考出分考的好的我还是好羡慕，好羡慕他们可以留在家附近，要是我当年能考的再高点就好了，还是不选物生地就好了，要是不谈那段该死的恋爱就好了，要是……没有要是了，我有的只剩下现在没有任何精神寄托的生活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2069821029799895447",
+        "created_at": "2026-06-24T16:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069821029799895447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069821029799895447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去年的现在我在干嘛呢？看到他们高考出分考的好的我还是好羡慕，好羡慕他们可以留在家附近，要是我当年能考的再高点就好了，还是不选物生地就好了，要是不谈那段该死的恋爱就好了，要是……没有要是了，我有的只剩下现在没有任何精神寄托的生活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n死亡不是终点\n祝大家天天开心\n看到喜欢的会回fo",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 99,
+          "like_count": 1063,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1206
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      }
+    ]
+  }
+}

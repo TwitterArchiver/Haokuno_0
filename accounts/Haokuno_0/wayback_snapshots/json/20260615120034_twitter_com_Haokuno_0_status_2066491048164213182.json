@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2066459553273942444",
+    "created_at": "2026-06-15T12:00:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T13:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066491048164213182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1647229461769891842",
+          "start": 0,
+          "username": "DrilL019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066491048164213182",
+    "in_reply_to_user_id": "1647229461769891842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066459553273942444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@DrilL019 新手机？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 180,
+        "media_key": "3_2066459532453371904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2J_waaYAATDM6.jpg",
+        "width": 326
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2066459532482736128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2J_whacAAElhu.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2066459532482826240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2J_whb0AAkunr.jpg",
+        "width": 768
+      },
+      {
+        "height": 768,
+        "media_key": "3_2066459532478607360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2J_wgbcAAsBJN.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2066459553273942444",
+        "created_at": "2026-06-15T12:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T13:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066491048164213182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1647229461769891842",
+              "start": 0,
+              "username": "DrilL019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066491048164213182",
+        "in_reply_to_user_id": "1647229461769891842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066459553273942444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@DrilL019 新手机？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066459532453371904",
+            "3_2066459532482736128",
+            "3_2066459532482826240",
+            "3_2066459532478607360"
+          ]
+        },
+        "author_id": "1647229461769891842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066459553273942444",
+        "created_at": "2026-06-15T09:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066459553273942444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/55h2ft1lpQ",
+              "end": 26,
+              "expanded_url": "https://x.com/DrilL019/status/2066459553273942444/photo/1",
+              "media_key": "3_2066459532453371904",
+              "start": 3,
+              "url": "https://t.co/55h2ft1lpQ"
+            },
+            {
+              "display_url": "pic.x.com/55h2ft1lpQ",
+              "end": 26,
+              "expanded_url": "https://x.com/DrilL019/status/2066459553273942444/photo/1",
+              "media_key": "3_2066459532482736128",
+              "start": 3,
+              "url": "https://t.co/55h2ft1lpQ"
+            },
+            {
+              "display_url": "pic.x.com/55h2ft1lpQ",
+              "end": 26,
+              "expanded_url": "https://x.com/DrilL019/status/2066459553273942444/photo/1",
+              "media_key": "3_2066459532482826240",
+              "start": 3,
+              "url": "https://t.co/55h2ft1lpQ"
+            },
+            {
+              "display_url": "pic.x.com/55h2ft1lpQ",
+              "end": 26,
+              "expanded_url": "https://x.com/DrilL019/status/2066459553273942444/photo/1",
+              "media_key": "3_2066459532478607360",
+              "start": 3,
+              "url": "https://t.co/55h2ft1lpQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066459553273942444",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "神秘 https://t.co/55h2ft1lpQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 95,
+          "like_count": 917,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 944
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T13:25:23.000Z",
+        "description": "对不起对不起对不起对不起对不起\n对不起对不起对不起对不起对不起对不起对不起对不起对不起对不起对不起对不起对不起对不起对不起\n小号@Noakatsuki1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "Noakatsuki1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/drill019",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/drill019",
+                "start": 0,
+                "url": "https://t.co/2G0EsDCv8q"
+              }
+            ]
+          }
+        },
+        "id": "1647229461769891842",
+        "location": "请给我钱🥺⬇️",
+        "name": "DrilL019",
+        "pinned_tweet_id": "2032440558011203726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011804418208063488/uOZ4kFzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 1200,
+          "like_count": 18391,
+          "listed_count": 1,
+          "media_count": 869,
+          "tweet_count": 6103
+        },
+        "url": "https://t.co/2G0EsDCv8q",
+        "username": "DrilL019",
+        "verified": true
+      }
+    ]
+  }
+}

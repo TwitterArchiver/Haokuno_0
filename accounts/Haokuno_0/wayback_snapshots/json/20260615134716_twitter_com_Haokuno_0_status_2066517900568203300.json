@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2066517350204252565",
+    "created_at": "2026-06-15T13:47:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T14:47:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066517900568203300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2027601407277469697",
+          "start": 0,
+          "username": "checheguye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066517900568203300",
+    "in_reply_to_user_id": "2027601407277469697",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066517350204252565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@checheguye 和意味"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066517347712880640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2-lDCb0AA0_go.jpg",
+        "width": 925
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066517345892491264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2-k8Qa4AA9rPp.jpg",
+        "width": 925
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066517346630729728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2-k_AbgAATqtO.jpg",
+        "width": 925
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2066517350204252565",
+        "created_at": "2026-06-15T13:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066517900568203300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2027601407277469697",
+              "start": 0,
+              "username": "checheguye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066517900568203300",
+        "in_reply_to_user_id": "2027601407277469697",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066517350204252565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@checheguye 和意味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066517347712880640",
+            "3_2066517345892491264",
+            "3_2066517346630729728"
+          ]
+        },
+        "author_id": "2027601407277469697",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066517350204252565",
+        "created_at": "2026-06-15T13:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066517350204252565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lkBWqY73IM",
+              "end": 35,
+              "expanded_url": "https://x.com/checheguye/status/2066517350204252565/photo/1",
+              "media_key": "3_2066517347712880640",
+              "start": 12,
+              "url": "https://t.co/lkBWqY73IM"
+            },
+            {
+              "display_url": "pic.x.com/lkBWqY73IM",
+              "end": 35,
+              "expanded_url": "https://x.com/checheguye/status/2066517350204252565/photo/1",
+              "media_key": "3_2066517345892491264",
+              "start": 12,
+              "url": "https://t.co/lkBWqY73IM"
+            },
+            {
+              "display_url": "pic.x.com/lkBWqY73IM",
+              "end": 35,
+              "expanded_url": "https://x.com/checheguye/status/2066517350204252565/photo/1",
+              "media_key": "3_2066517346630729728",
+              "start": 12,
+              "url": "https://t.co/lkBWqY73IM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066517350204252565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃呃标题写什么，不知道 https://t.co/lkBWqY73IM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 96,
+          "like_count": 925,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 957
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-28T04:27:40.000Z",
+        "description": "直男…匿名：https://t.co/cgvsCNFXkT可以找我聊天，可以加微信qq，无🚪",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/guye23389",
+                "end": 29,
+                "expanded_url": "https://ngl.link/guye23389",
+                "start": 6,
+                "url": "https://t.co/cgvsCNFXkT"
+              }
+            ]
+          }
+        },
+        "id": "2027601407277469697",
+        "name": "车车猫",
+        "pinned_tweet_id": "2063650402541916556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063493457927352320/EgAY6EzE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 50,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 217
+        },
+        "username": "checheguye",
+        "verified": false
+      }
+    ]
+  }
+}

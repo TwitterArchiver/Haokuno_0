@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2068582845736706515",
+    "created_at": "2026-06-21T08:00:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T09:00:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068604992362262694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1889047736026312704",
+          "start": 0,
+          "username": "jdnbo114350"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068604992362262694",
+    "in_reply_to_user_id": "1889047736026312704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068582845736706515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jdnbo114350 堕落😰😰😱😱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1781,
+        "media_key": "3_2068582827202097152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUVHxvasAA__9u.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1554,
+        "media_key": "3_2068582827206356992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUVHxwbsAASa3Q.jpg",
+        "width": 1166
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2068582845736706515",
+        "created_at": "2026-06-21T08:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T09:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068604992362262694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1889047736026312704",
+              "start": 0,
+              "username": "jdnbo114350"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068604992362262694",
+        "in_reply_to_user_id": "1889047736026312704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068582845736706515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jdnbo114350 堕落😰😰😱😱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068582827202097152",
+            "3_2068582827206356992"
+          ]
+        },
+        "author_id": "1889047736026312704",
+        "conversation_id": "2068582845736706515",
+        "created_at": "2026-06-21T06:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068582845736706515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8RFvGmVijm",
+              "end": 29,
+              "expanded_url": "https://x.com/jdnbo114350/status/2068582845736706515/photo/1",
+              "media_key": "3_2068582827202097152",
+              "start": 6,
+              "url": "https://t.co/8RFvGmVijm"
+            },
+            {
+              "display_url": "pic.x.com/8RFvGmVijm",
+              "end": 29,
+              "expanded_url": "https://x.com/jdnbo114350/status/2068582845736706515/photo/1",
+              "media_key": "3_2068582827206356992",
+              "start": 6,
+              "url": "https://t.co/8RFvGmVijm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068582845736706515",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1017,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "复刻成功。 https://t.co/8RFvGmVijm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n祝大家天天开心\n看到喜欢的会回fo",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 105,
+          "like_count": 1005,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1093
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T20:24:25.000Z",
+        "description": "在这里发点碎碎念",
+        "id": "1889047736026312704",
+        "name": "鸡蛋包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906061538957398016/kgiOA9OF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 69,
+          "like_count": 1,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 356
+        },
+        "url": "",
+        "username": "jdnbo114350",
+        "verified": false
+      }
+    ]
+  }
+}

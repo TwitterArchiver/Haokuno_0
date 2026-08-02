@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2033875394261082167",
+    "created_at": "2026-03-17T11:57:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T12:57:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033875394261082167"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/julgovel/statu…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/julgovel/status/2033800160543985756",
+          "start": 19,
+          "url": "https://t.co/eMWEpNumTf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033875394261082167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033800160543985756",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这好像是真的，身边朋友基本上都是苹果 https://t.co/eMWEpNumTf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2033875394261082167",
+        "created_at": "2026-03-17T11:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T12:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033875394261082167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/julgovel/statu…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/julgovel/status/2033800160543985756",
+              "start": 19,
+              "url": "https://t.co/eMWEpNumTf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033875394261082167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033800160543985756",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这好像是真的，身边朋友基本上都是苹果 https://t.co/eMWEpNumTf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599252129080029184",
+        "conversation_id": "2033762465021116588",
+        "created_at": "2026-03-17T06:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T07:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033800160543985756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1969689682222170112",
+              "start": 0,
+              "username": "justakittyc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033800160543985756",
+        "in_reply_to_user_id": "1969689682222170112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2008,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033762465021116588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@justakittyc 虽然不知道为什么，但是用安卓机的更容易出让我相处起来不舒服的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 07 ENFP-T 🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2031647286288060518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789938754444292096/FMmDDz1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 35,
+          "like_count": 337,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 452
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T04:01:55.000Z",
+        "description": "废话很多的一瓶人类小样｜喜欢一切橙色黄色有活力的东西💤💤💤",
+        "id": "1599252129080029184",
+        "location": "MIRACLE WONDERLAND",
+        "name": "阿苑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027802240669605888/7hclIrnc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 678,
+          "like_count": 17422,
+          "listed_count": 19,
+          "media_count": 922,
+          "tweet_count": 15391
+        },
+        "username": "JulGovel",
+        "verified": true
+      }
+    ]
+  }
+}

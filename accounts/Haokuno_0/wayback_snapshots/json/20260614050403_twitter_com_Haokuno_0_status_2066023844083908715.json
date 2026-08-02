@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2065828983351242870",
+    "created_at": "2026-06-14T05:04:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T06:04:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066023844083908715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2048422876492242944",
+          "start": 0,
+          "username": "Zmjjkk2823"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066023844083908715",
+    "in_reply_to_user_id": "2048422876492242944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066023599207825518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zmjjkk2823 性压抑的臭蛆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2065828983351242870",
+        "created_at": "2026-06-14T05:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066023844083908715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2048422876492242944",
+              "start": 0,
+              "username": "Zmjjkk2823"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066023844083908715",
+        "in_reply_to_user_id": "2048422876492242944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066023599207825518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zmjjkk2823 性压抑的臭蛆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048422876492242944",
+        "conversation_id": "2065828983351242870",
+        "created_at": "2026-06-14T05:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066023599207825518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1276148275175755776",
+              "start": 0,
+              "username": "Haokuno_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066023599207825518",
+        "in_reply_to_user_id": "1276148275175755776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066023389060632878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haokuno_0 Kkb咋了 我像你一样敢想不敢说啊？废物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n爱压抑\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 91,
+          "like_count": 869,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 896
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T15:25:37.000Z",
+        "description": "Kk",
+        "id": "2048422876492242944",
+        "name": "Zmjjkk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048427563069120512/l13zdLKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 24,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 19
+        },
+        "username": "Zmjjkk2823",
+        "verified": false
+      }
+    ]
+  }
+}

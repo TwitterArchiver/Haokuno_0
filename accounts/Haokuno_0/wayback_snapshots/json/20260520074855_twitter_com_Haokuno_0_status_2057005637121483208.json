@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057005620864356352"
+      ]
+    },
+    "author_id": "1276148275175755776",
+    "conversation_id": "2057005637121483208",
+    "created_at": "2026-05-20T07:48:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T08:48:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057005637121483208"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jFnCmbasAq",
+          "end": 34,
+          "expanded_url": "https://x.com/Haokuno_0/status/2057005637121483208/photo/1",
+          "media_key": "3_2057005620864356352",
+          "start": 11,
+          "url": "https://t.co/jFnCmbasAq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057005637121483208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小屏手机真是爽死我了 https://t.co/jFnCmbasAq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057005620864356352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIvztrSaEAAI9FM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057005620864356352"
+          ]
+        },
+        "author_id": "1276148275175755776",
+        "conversation_id": "2057005637121483208",
+        "created_at": "2026-05-20T07:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T08:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057005637121483208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jFnCmbasAq",
+              "end": 34,
+              "expanded_url": "https://x.com/Haokuno_0/status/2057005637121483208/photo/1",
+              "media_key": "3_2057005620864356352",
+              "start": 11,
+              "url": "https://t.co/jFnCmbasAq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057005637121483208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小屏手机真是爽死我了 https://t.co/jFnCmbasAq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n别靠近我\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055630473590640640/aiv2NKqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 52,
+          "like_count": 750,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 663
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      }
+    ]
+  }
+}

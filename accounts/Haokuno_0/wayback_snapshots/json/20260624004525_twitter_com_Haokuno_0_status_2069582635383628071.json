@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2069582633965940736"
+      ]
+    },
+    "author_id": "1276148275175755776",
+    "conversation_id": "2069582635383628071",
+    "created_at": "2026-06-24T00:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T01:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069582635383628071"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069582635383628071",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们说我今天去不去打舞萌"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 240,
+        "end_datetime": "2026-06-24T04:45:25.000Z",
+        "id": "2069582633965940736",
+        "options": [
+          {
+            "label": "去",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "在宿舍休息",
+            "position": 2,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2069582633965940736"
+          ]
+        },
+        "author_id": "1276148275175755776",
+        "conversation_id": "2069582635383628071",
+        "created_at": "2026-06-24T00:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T01:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069582635383628071"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069582635383628071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们说我今天去不去打舞萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n死亡不是终点\n祝大家天天开心\n看到喜欢的会回fo",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 102,
+          "like_count": 1054,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1180
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      }
+    ]
+  }
+}

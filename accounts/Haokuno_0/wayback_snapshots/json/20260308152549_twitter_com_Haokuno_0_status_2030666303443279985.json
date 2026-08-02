@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030666292114436096"
+      ]
+    },
+    "author_id": "1276148275175755776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2030666303443279985",
+    "created_at": "2026-03-08T15:25:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T16:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030666303443279985"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IeivNGNuSw",
+          "end": 35,
+          "expanded_url": "https://x.com/Haokuno_0/status/2030666303443279985/photo/1",
+          "media_key": "3_2030666292114436096",
+          "start": 12,
+          "url": "https://t.co/IeivNGNuSw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030666303443279985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和地理老师学到一本书了 https://t.co/IeivNGNuSw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2030666292114436096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC5gO9bXMAAY7Vt.jpg",
+        "width": 458
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030666292114436096"
+          ]
+        },
+        "author_id": "1276148275175755776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2030666303443279985",
+        "created_at": "2026-03-08T15:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T16:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030666303443279985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IeivNGNuSw",
+              "end": 35,
+              "expanded_url": "https://x.com/Haokuno_0/status/2030666303443279985/photo/1",
+              "media_key": "3_2030666292114436096",
+              "start": 12,
+              "url": "https://t.co/IeivNGNuSw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030666303443279985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和地理老师学到一本书了 https://t.co/IeivNGNuSw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 ENFP-T 🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789938754444292096/FMmDDz1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 234,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 162
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      }
+    ]
+  }
+}

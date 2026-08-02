@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2071238000336409002",
+    "created_at": "2026-06-28T15:58:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T16:58:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071261847630778709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1751240173650935808",
+          "start": 0,
+          "username": "Liver_MST"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071261847630778709",
+    "in_reply_to_user_id": "1751240173650935808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071238000336409002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liver_MST 好想吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2071237898498691072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6D5RFXUAAkmbR.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1390,
+        "media_key": "3_2071237898498682880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6D5RFXMAAt1EQ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071237898498715648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6D5RFXsAA0dG4.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2071237898691571712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6D5RzWcAA5zRc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2071238000336409002",
+        "created_at": "2026-06-28T15:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T16:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071261847630778709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751240173650935808",
+              "start": 0,
+              "username": "Liver_MST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071261847630778709",
+        "in_reply_to_user_id": "1751240173650935808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071238000336409002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liver_MST 好想吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071237898498691072",
+            "3_2071237898498682880",
+            "3_2071237898498715648",
+            "3_2071237898691571712"
+          ]
+        },
+        "author_id": "1751240173650935808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2071238000336409002",
+        "created_at": "2026-06-28T14:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T15:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071238000336409002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rgx6f7kopt",
+              "end": 171,
+              "expanded_url": "https://x.com/Liver_MST/status/2071238000336409002/photo/1",
+              "media_key": "3_2071237898498691072",
+              "start": 148,
+              "url": "https://t.co/rgx6f7kopt"
+            },
+            {
+              "display_url": "pic.x.com/rgx6f7kopt",
+              "end": 171,
+              "expanded_url": "https://x.com/Liver_MST/status/2071238000336409002/photo/1",
+              "media_key": "3_2071237898498682880",
+              "start": 148,
+              "url": "https://t.co/rgx6f7kopt"
+            },
+            {
+              "display_url": "pic.x.com/rgx6f7kopt",
+              "end": 171,
+              "expanded_url": "https://x.com/Liver_MST/status/2071238000336409002/photo/1",
+              "media_key": "3_2071237898498715648",
+              "start": 148,
+              "url": "https://t.co/rgx6f7kopt"
+            },
+            {
+              "display_url": "pic.x.com/rgx6f7kopt",
+              "end": 171,
+              "expanded_url": "https://x.com/Liver_MST/status/2071238000336409002/photo/1",
+              "media_key": "3_2071237898691571712",
+              "start": 148,
+              "url": "https://t.co/rgx6f7kopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071238000336409002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 296,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "南昌 Day 1\n\n季季红火锅吃了，双子塔观景台去了，铛铛车坐了，南昌之星摩天轮上了，洪都大拇指也喝了。但是不知道为什么情绪一直这么差。\n\n一个人旅游好无聊…好想找朋友一起玩。晚上回住处的路上gd爆炸给我硬控了好久，有点后悔顶着这样的状态出来旅游了…想回家躺着。\n\n一会就睡了，明早前往景德镇！ https://t.co/rgx6f7kopt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 96,
+          "like_count": 1119,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1277
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T13:46:20.000Z",
+        "description": "欢迎私信扩列互fo/可以叫我帕克/🎂2006.07.01/音ゲー/maimai暁神確認/🇨🇳简体中文|🇹🇼繁體中文|🇬🇧🇺🇸English|🇯🇵日本語の投稿はすべて機械翻訳です。おかしな表現があったらごめんね！",
+        "id": "1751240173650935808",
+        "location": "Guangzhou, China",
+        "name": "Livermst",
+        "pinned_tweet_id": "2067917257104068920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059924381317656576/Ov7oEjtl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1469,
+          "following_count": 1428,
+          "like_count": 1,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 1756
+        },
+        "url": "",
+        "username": "Liver_MST",
+        "verified": false
+      }
+    ]
+  }
+}

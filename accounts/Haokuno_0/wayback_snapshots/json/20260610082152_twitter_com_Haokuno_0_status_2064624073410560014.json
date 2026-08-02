@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2064624073410560014",
+    "created_at": "2026-06-10T08:21:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T09:21:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064624073410560014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1661349504069804032",
+          "start": 3,
+          "username": "Zhuo2018"
+        },
+        {
+          "end": 21,
+          "id": "1902568136450424832",
+          "start": 14,
+          "username": "aoim33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064624073410560014",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064380424772870293",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @Zhuo2018: @aoim33 性不是爱\n拥抱不是爱\n约会不是爱\n24小时聊天也不是爱\n爱是某人看见尼最糟糕的一面\n但依然爱着你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2064624073410560014",
+        "created_at": "2026-06-10T08:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T09:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064624073410560014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1661349504069804032",
+              "start": 3,
+              "username": "Zhuo2018"
+            },
+            {
+              "end": 21,
+              "id": "1902568136450424832",
+              "start": 14,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064624073410560014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064380424772870293",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @Zhuo2018: @aoim33 性不是爱\n拥抱不是爱\n约会不是爱\n24小时聊天也不是爱\n爱是某人看见尼最糟糕的一面\n但依然爱着你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661349504069804032",
+        "conversation_id": "2064357754047778886",
+        "created_at": "2026-06-09T16:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T17:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064380424772870293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064380424772870293",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5996,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064357754047778886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@aoim33 性不是爱\n拥抱不是爱\n约会不是爱\n24小时聊天也不是爱\n爱是某人看见尼最糟糕的一面\n但依然爱着你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n别靠近我\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055630473590640640/aiv2NKqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 68,
+          "like_count": 801,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 788
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T12:32:54.000Z",
+        "description": "一个不可理喻的普通人 数码爱好者 乐子人 有点精神病 Never Settle\n你好 交个朋友",
+        "id": "1661349504069804032",
+        "location": "游戏热爱者",
+        "name": "Zhuoc 🔪",
+        "pinned_tweet_id": "2064218636253012193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048286608919859201/L97COj9G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 313,
+          "like_count": 1018,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 500
+        },
+        "username": "Zhuo2018",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / @supernovaArcaea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2057467584669515839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5995,
+          "following_count": 3023,
+          "like_count": 52336,
+          "listed_count": 20,
+          "media_count": 3171,
+          "tweet_count": 13314
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

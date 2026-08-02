@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2057849386860736720",
+    "created_at": "2026-05-22T16:15:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T17:15:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057857898047586360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1506883741456629766",
+          "start": 0,
+          "username": "Lk437138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057857898047586360",
+    "in_reply_to_user_id": "1506883741456629766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057849386860736720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lk437138 逃生试炼好好玩啊，怎么我刚买推特就给我推了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2057849376656039936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7zGujXoAAS5Of.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2057849377348030464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7zGxIWkAAv7uM.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2057849386860736720",
+        "created_at": "2026-05-22T16:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057857898047586360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1506883741456629766",
+              "start": 0,
+              "username": "Lk437138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057857898047586360",
+        "in_reply_to_user_id": "1506883741456629766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057849386860736720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lk437138 逃生试炼好好玩啊，怎么我刚买推特就给我推了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057849376656039936",
+            "3_2057849377348030464"
+          ]
+        },
+        "author_id": "1506883741456629766",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057849386860736720",
+        "created_at": "2026-05-22T15:41:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T16:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057849386860736720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dwlRyhCZ8C",
+              "end": 38,
+              "expanded_url": "https://x.com/Lk437138/status/2057849386860736720/photo/1",
+              "media_key": "3_2057849376656039936",
+              "start": 15,
+              "url": "https://t.co/dwlRyhCZ8C"
+            },
+            {
+              "display_url": "pic.x.com/dwlRyhCZ8C",
+              "end": 38,
+              "expanded_url": "https://x.com/Lk437138/status/2057849386860736720/photo/1",
+              "media_key": "3_2057849377348030464",
+              "start": 15,
+              "url": "https://t.co/dwlRyhCZ8C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057849386860736720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两眼一睁就是下象棋。好玩好玩 https://t.co/dwlRyhCZ8C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n别靠近我\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055630473590640640/aiv2NKqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 57,
+          "like_count": 759,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 681
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-24T06:41:09.000Z",
+        "description": "困鼠我了",
+        "id": "1506883741456629766",
+        "location": "地球",
+        "name": "ᗜ ˰ ᗜ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056041344729219073/kF0l9f9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 488,
+          "like_count": 11765,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 1444
+        },
+        "username": "Lk437138",
+        "verified": false
+      }
+    ]
+  }
+}

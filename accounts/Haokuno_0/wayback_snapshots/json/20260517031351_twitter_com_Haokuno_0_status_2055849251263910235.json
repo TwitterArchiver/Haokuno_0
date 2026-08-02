@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2055811825523175680",
+    "created_at": "2026-05-17T03:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T04:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055849251263910235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1499545531730780161",
+          "start": 0,
+          "username": "Mooniiww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055849251263910235",
+    "in_reply_to_user_id": "1499545531730780161",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055811825523175680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mooniiww 推特不行的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2055811825523175680",
+        "created_at": "2026-05-17T03:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T04:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055849251263910235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1499545531730780161",
+              "start": 0,
+              "username": "Mooniiww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055849251263910235",
+        "in_reply_to_user_id": "1499545531730780161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055811825523175680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mooniiww 推特不行的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499545531730780161",
+        "conversation_id": "2055811825523175680",
+        "created_at": "2026-05-17T00:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T01:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055811825523175680"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055811825523175680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 600,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底上哪能找到自己喜欢的人 并且恋爱 我他妈是真想谈了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055630473590640640/aiv2NKqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 52,
+          "like_count": 747,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 635
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T00:41:40.000Z",
+        "description": "碎碎念日常",
+        "id": "1499545531730780161",
+        "location": "🚪290/522丨进阶富哥🚪1900/5200",
+        "name": "臭宝记事本",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1508508081033867264/yte2Ngds_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67156,
+          "following_count": 14,
+          "like_count": 112,
+          "listed_count": 230,
+          "media_count": 371,
+          "tweet_count": 1513
+        },
+        "username": "Mooniiww",
+        "verified": false
+      }
+    ]
+  }
+}

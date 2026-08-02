@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2070526147264413880",
+    "created_at": "2026-06-26T17:13:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T18:13:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070556136286437635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1342511566420230145",
+          "start": 0,
+          "username": "Yuiio__08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070556136286437635",
+    "in_reply_to_user_id": "1342511566420230145",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070526147264413880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuiio__08 好多人啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2070526147264413880",
+        "created_at": "2026-06-26T17:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T18:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070556136286437635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1342511566420230145",
+              "start": 0,
+              "username": "Yuiio__08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070556136286437635",
+        "in_reply_to_user_id": "1342511566420230145",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070526147264413880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuiio__08 好多人啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1342511566420230145",
+        "conversation_id": "2070526147264413880",
+        "created_at": "2026-06-26T15:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070526147264413880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Y’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1MKgN…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1MKgNNEOOmyxL",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2070526153165844480/Pp-89JJ7?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2070526153165844480/Pp-89JJ7?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 呀呼",
+              "unwound_url": "https://twitter.com/i/spaces/1MKgNNEOOmyxL/peek",
+              "url": "https://t.co/LOU1gUqydn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070526147264413880",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LOU1gUqydn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n死亡不是终点\n祝大家天天开心\n看到喜欢的会回fo",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 101,
+          "like_count": 1099,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1245
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-25T16:44:42.000Z",
+        "description": "日常发疯 碎碎念｜女｜人机式聊天｜祝大家天天开心 幸福快乐",
+        "id": "1342511566420230145",
+        "location": "你后面",
+        "name": "Y",
+        "pinned_tweet_id": "2065762504370991133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965951641645199361/k4Ob8qH6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1245,
+          "following_count": 141,
+          "like_count": 3819,
+          "listed_count": 1,
+          "media_count": 399,
+          "tweet_count": 3675
+        },
+        "url": "",
+        "username": "Yuiio__08",
+        "verified": false
+      }
+    ]
+  }
+}

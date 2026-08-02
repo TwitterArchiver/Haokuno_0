@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2075619007693283496",
+    "created_at": "2026-07-10T16:31:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T17:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075619007693283496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1949889270220804096",
+          "start": 3,
+          "username": "hoshi3i_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075619007693283496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075301914359762976",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshi3i_ovo: 聊久了真的会对网友有占有欲啊..我就是个西八.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2075619007693283496",
+        "created_at": "2026-07-10T16:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075619007693283496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1949889270220804096",
+              "start": 3,
+              "username": "hoshi3i_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075619007693283496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075301914359762976",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoshi3i_ovo: 聊久了真的会对网友有占有欲啊..我就是个西八.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949889270220804096",
+        "conversation_id": "2075301914359762976",
+        "created_at": "2026-07-09T19:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T20:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075301914359762976"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075301914359762976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 831,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "聊久了真的会对网友有占有欲啊..我就是个西八.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T\n@Yeyuxiao_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Yeyuxiao_0"
+              }
+            ]
+          }
+        },
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 95,
+          "like_count": 1155,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1382
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-28T17:46:54.000Z",
+        "description": "06  中文/日本語OK\n不是黄推不是黄推不是黄推我只是随便发点东西\n不收任何钱不收门槛不扩墙内列看心情互fo",
+        "id": "1949889270220804096",
+        "location": "Japan",
+        "name": "ありす",
+        "pinned_tweet_id": "2068005674840437046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069144015677890560/F88NuIpe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 33,
+          "like_count": 949,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 165
+        },
+        "url": "",
+        "username": "hoshi3i_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2069063978639392929",
+    "created_at": "2026-06-23T07:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T08:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069317895348453774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1622114910133002241",
+          "start": 0,
+          "username": "xsh19068663"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069317895348453774",
+    "in_reply_to_user_id": "1622114910133002241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069063978639392929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xsh19068663 求提示词🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1443,
+        "media_key": "3_2069063947672764416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbKsrKaQAAjw3V.jpg",
+        "width": 1169
+      },
+      {
+        "height": 948,
+        "media_key": "3_2069063947681185792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbKsrMawAAMWdS.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1059,
+        "media_key": "3_2069063947681165312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbKsrMacAAJVRT.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1431,
+        "media_key": "3_2069063947777634304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbKsrjacAAnVIC.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2069063978639392929",
+        "created_at": "2026-06-23T07:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069317895348453774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1622114910133002241",
+              "start": 0,
+              "username": "xsh19068663"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069317895348453774",
+        "in_reply_to_user_id": "1622114910133002241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069063978639392929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xsh19068663 求提示词🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069063947672764416",
+            "3_2069063947681185792",
+            "3_2069063947681165312",
+            "3_2069063947777634304"
+          ]
+        },
+        "author_id": "1622114910133002241",
+        "conversation_id": "2069063978639392929",
+        "created_at": "2026-06-22T14:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069063978639392929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZgjTPEEQhY",
+              "end": 51,
+              "expanded_url": "https://x.com/xsh19068663/status/2069063978639392929/photo/1",
+              "media_key": "3_2069063947672764416",
+              "start": 28,
+              "url": "https://t.co/ZgjTPEEQhY"
+            },
+            {
+              "display_url": "pic.x.com/ZgjTPEEQhY",
+              "end": 51,
+              "expanded_url": "https://x.com/xsh19068663/status/2069063978639392929/photo/1",
+              "media_key": "3_2069063947681185792",
+              "start": 28,
+              "url": "https://t.co/ZgjTPEEQhY"
+            },
+            {
+              "display_url": "pic.x.com/ZgjTPEEQhY",
+              "end": 51,
+              "expanded_url": "https://x.com/xsh19068663/status/2069063978639392929/photo/1",
+              "media_key": "3_2069063947681165312",
+              "start": 28,
+              "url": "https://t.co/ZgjTPEEQhY"
+            },
+            {
+              "display_url": "pic.x.com/ZgjTPEEQhY",
+              "end": 51,
+              "expanded_url": "https://x.com/xsh19068663/status/2069063978639392929/photo/1",
+              "media_key": "3_2069063947777634304",
+              "start": 28,
+              "url": "https://t.co/ZgjTPEEQhY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069063978639392929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7960,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 49,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是。通过八字居然能知道这个。ds咋知道我喜欢禁欲系🌚 https://t.co/ZgjTPEEQhY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n祝大家天天开心\n看到喜欢的会回fo",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 102,
+          "like_count": 1049,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1151
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T06:08:55.000Z",
+        "description": "朋友，我们只是网友，你把手机往地上一摔我就死了，不要再辱骂我了，放下手里的屠刀，佛在救你。\n匿名提问链接https://t.co/od9N959uey",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%80%81%E5%8…",
+                "end": 75,
+                "expanded_url": "https://ngl.link/%E8%80%81%E5%85%AC%E7%A1%AC%E7%A1%AC%E7%9A%84%E5%8E%9F%E6%9D%A5%E6%98%AF%E6%AD%BB%E4%BA%86",
+                "start": 52,
+                "url": "https://t.co/od9N959uey"
+              }
+            ]
+          }
+        },
+        "id": "1622114910133002241",
+        "location": "2.4km  ",
+        "name": "老公硬硬的原来是死了",
+        "pinned_tweet_id": "2025389471706050656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047853531894624256/uIrZEsBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2780,
+          "following_count": 379,
+          "like_count": 2147,
+          "listed_count": 6,
+          "media_count": 256,
+          "tweet_count": 3190
+        },
+        "url": "",
+        "username": "xsh19068663",
+        "verified": false
+      }
+    ]
+  }
+}

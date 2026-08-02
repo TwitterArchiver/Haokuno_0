@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2034895632050397216",
+    "created_at": "2026-03-20T08:50:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T09:50:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034915586069672055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1940963560202686467",
+          "start": 0,
+          "username": "aimm8899"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034915586069672055",
+    "in_reply_to_user_id": "1940963560202686467",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034895632050397216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aimm8899 想吃🤤🤤🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1789,
+        "media_key": "3_2034895615877160962",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD1myANboAI051I.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2034895615881273344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD1myAOaYAAaxSL.jpg",
+        "width": 1054
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2034895615885524992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD1myAPbQAAjHEz.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2034895613557710848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD1mx3kboAADVQP.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2034895632050397216",
+        "created_at": "2026-03-20T08:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T09:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034915586069672055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1940963560202686467",
+              "start": 0,
+              "username": "aimm8899"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034915586069672055",
+        "in_reply_to_user_id": "1940963560202686467",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034895632050397216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aimm8899 想吃🤤🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034895615877160962",
+            "3_2034895615881273344",
+            "3_2034895615885524992",
+            "3_2034895613557710848"
+          ]
+        },
+        "author_id": "1940963560202686467",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2034895632050397216",
+        "created_at": "2026-03-20T07:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T08:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034895632050397216"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "燥候薯角"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C6EhaTSt3R",
+              "end": 29,
+              "expanded_url": "https://x.com/aimm8899/status/2034895632050397216/photo/1",
+              "media_key": "3_2034895615877160962",
+              "start": 6,
+              "url": "https://t.co/C6EhaTSt3R"
+            },
+            {
+              "display_url": "pic.x.com/C6EhaTSt3R",
+              "end": 29,
+              "expanded_url": "https://x.com/aimm8899/status/2034895632050397216/photo/1",
+              "media_key": "3_2034895615881273344",
+              "start": 6,
+              "url": "https://t.co/C6EhaTSt3R"
+            },
+            {
+              "display_url": "pic.x.com/C6EhaTSt3R",
+              "end": 29,
+              "expanded_url": "https://x.com/aimm8899/status/2034895632050397216/photo/1",
+              "media_key": "3_2034895615885524992",
+              "start": 6,
+              "url": "https://t.co/C6EhaTSt3R"
+            },
+            {
+              "display_url": "pic.x.com/C6EhaTSt3R",
+              "end": 29,
+              "expanded_url": "https://x.com/aimm8899/status/2034895632050397216/photo/1",
+              "media_key": "3_2034895613557710848",
+              "start": 6,
+              "url": "https://t.co/C6EhaTSt3R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034895632050397216",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#燥候薯角 https://t.co/C6EhaTSt3R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 07 ENFP-T 🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2031647286288060518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034078738712039424/MCUfN4n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 36,
+          "like_count": 435,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 556
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-04T02:39:21.000Z",
+        "description": "或许我们可以一起喵喵天https://t.co/9YtSCmHt3D",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aimm8899",
+                "end": 34,
+                "expanded_url": "https://ngl.link/aimm8899",
+                "start": 11,
+                "url": "https://t.co/9YtSCmHt3D"
+              }
+            ]
+          }
+        },
+        "id": "1940963560202686467",
+        "location": "🍔",
+        "name": "熊不熊为了俺对所有人都坏",
+        "pinned_tweet_id": "2021463562640818503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018505207773360128/3CTeMA72_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 116,
+          "like_count": 11525,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 4875
+        },
+        "username": "aimm8899",
+        "verified": false
+      }
+    ]
+  }
+}

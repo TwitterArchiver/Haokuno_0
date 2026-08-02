@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2076566104781271098",
+    "created_at": "2026-07-14T16:30:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T17:30:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077068261754343622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1829160609210085381",
+          "start": 0,
+          "username": "xxll12312314711"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077068261754343622",
+    "in_reply_to_user_id": "1829160609210085381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077063699391754530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxll12312314711 青海的大学都没放假呢🙄🙄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2076566104781271098",
+        "created_at": "2026-07-14T16:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077068261754343622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1829160609210085381",
+              "start": 0,
+              "username": "xxll12312314711"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077068261754343622",
+        "in_reply_to_user_id": "1829160609210085381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077063699391754530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxll12312314711 青海的大学都没放假呢🙄🙄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829160609210085381",
+        "conversation_id": "2076566104781271098",
+        "created_at": "2026-07-14T16:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077063699391754530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1276148275175755776",
+              "start": 0,
+              "username": "Haokuno_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077063699391754530",
+        "in_reply_to_user_id": "1276148275175755776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076983054497951761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haokuno_0 ？什么学校现在才考，我们17号考完最后一门放假，我以为我们这垃圾学校挺晚的，没想到还有高手，舒服了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T\n@Yeyuxiao_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Yeyuxiao_0"
+              }
+            ]
+          }
+        },
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 97,
+          "like_count": 1189,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1459
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-29T14:14:19.000Z",
+        "description": "66666",
+        "id": "1829160609210085381",
+        "location": "山东",
+        "name": "xxll123123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073299962369363968/d2rZW8ht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "xxll12312314711",
+        "verified": false
+      }
+    ]
+  }
+}

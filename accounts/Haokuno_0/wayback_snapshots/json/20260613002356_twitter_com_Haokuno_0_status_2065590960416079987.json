@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2065497970519552144",
+    "created_at": "2026-06-13T00:23:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T01:23:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065590960416079987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1820986559694520320",
+          "start": 0,
+          "username": "n_ne373"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065590960416079987",
+    "in_reply_to_user_id": "1820986559694520320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065497970519552144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@n_ne373 评论区刷怪了没绷住"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065497958280515586",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKofcxea0AIa8th.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065497958255374336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKofcxYbMAADToz.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065497958486044672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKofcyPa8AA26AL.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065497958284709888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKofcxfa0AAPeSg.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2065497970519552144",
+        "created_at": "2026-06-13T00:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T01:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065590960416079987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1820986559694520320",
+              "start": 0,
+              "username": "n_ne373"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065590960416079987",
+        "in_reply_to_user_id": "1820986559694520320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065497970519552144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@n_ne373 评论区刷怪了没绷住"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065497958280515586",
+            "3_2065497958255374336",
+            "3_2065497958486044672",
+            "3_2065497958284709888"
+          ]
+        },
+        "author_id": "1820986559694520320",
+        "conversation_id": "2065497970519552144",
+        "created_at": "2026-06-12T18:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T19:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065497970519552144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tls8ECUPeS",
+              "end": 62,
+              "expanded_url": "https://x.com/n_ne373/status/2065497970519552144/photo/1",
+              "media_key": "3_2065497958280515586",
+              "start": 39,
+              "url": "https://t.co/Tls8ECUPeS"
+            },
+            {
+              "display_url": "pic.x.com/Tls8ECUPeS",
+              "end": 62,
+              "expanded_url": "https://x.com/n_ne373/status/2065497970519552144/photo/1",
+              "media_key": "3_2065497958255374336",
+              "start": 39,
+              "url": "https://t.co/Tls8ECUPeS"
+            },
+            {
+              "display_url": "pic.x.com/Tls8ECUPeS",
+              "end": 62,
+              "expanded_url": "https://x.com/n_ne373/status/2065497970519552144/photo/1",
+              "media_key": "3_2065497958486044672",
+              "start": 39,
+              "url": "https://t.co/Tls8ECUPeS"
+            },
+            {
+              "display_url": "pic.x.com/Tls8ECUPeS",
+              "end": 62,
+              "expanded_url": "https://x.com/n_ne373/status/2065497970519552144/photo/1",
+              "media_key": "3_2065497958284709888",
+              "start": 39,
+              "url": "https://t.co/Tls8ECUPeS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065497970519552144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1166,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的要笑死了这个人，原来当pupu孝子的就是这种人，完美诠释开怀大笑四个字 https://t.co/Tls8ECUPeS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n爱压抑\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 88,
+          "like_count": 845,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 845
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T00:53:34.000Z",
+        "description": "我叫373｜这里好像只有碎碎念｜intp asd｜查成分互fo\n匿名问答：https://t.co/VRxGbV6kFb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/37381507",
+                "end": 60,
+                "expanded_url": "https://ngl.link/37381507",
+                "start": 37,
+                "url": "https://t.co/VRxGbV6kFb"
+              }
+            ]
+          }
+        },
+        "id": "1820986559694520320",
+        "location": "🚪52/88",
+        "name": "みず",
+        "pinned_tweet_id": "2064306561414283431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030056220367917056/2nll6Kpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 170,
+          "like_count": 4509,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 1404
+        },
+        "username": "n_ne373",
+        "verified": false
+      }
+    ]
+  }
+}

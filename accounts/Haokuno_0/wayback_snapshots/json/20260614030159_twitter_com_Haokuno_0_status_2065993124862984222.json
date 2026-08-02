@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2065828983351242870",
+    "created_at": "2026-06-14T03:01:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T04:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065993124862984222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1779583083001602048",
+          "start": 0,
+          "username": "Xiaofenxieyunqu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065993124862984222",
+    "in_reply_to_user_id": "1779583083001602048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065985614990684337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaofenxieyunqu 没毛兄弟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2065828983351242870",
+        "created_at": "2026-06-14T03:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065993124862984222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1779583083001602048",
+              "start": 0,
+              "username": "Xiaofenxieyunqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065993124862984222",
+        "in_reply_to_user_id": "1779583083001602048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065985614990684337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaofenxieyunqu 没毛兄弟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779583083001602048",
+        "conversation_id": "2065828983351242870",
+        "created_at": "2026-06-14T02:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T03:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065985614990684337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1276148275175755776",
+              "start": 0,
+              "username": "Haokuno_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065985614990684337",
+        "in_reply_to_user_id": "1276148275175755776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065828983351242870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haokuno_0 没毛病，他妈打瓦的是真jb没素质，最垃圾的射击游戏闹麻了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n爱压抑\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 91,
+          "like_count": 868,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 877
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-14T18:50:59.000Z",
+        "description": "累了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/tm452313305?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/tm452313305?igsh=bjVqZmxtbTd4NzBp",
+                "start": 0,
+                "url": "https://t.co/4rISO560us"
+              }
+            ]
+          }
+        },
+        "id": "1779583083001602048",
+        "location": "China",
+        "name": "Ruy1-",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929604939455619073/h-XUtuYo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 10,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 250
+        },
+        "url": "https://t.co/4rISO560us",
+        "username": "Xiaofenxieyunqu",
+        "verified": false
+      }
+    ]
+  }
+}

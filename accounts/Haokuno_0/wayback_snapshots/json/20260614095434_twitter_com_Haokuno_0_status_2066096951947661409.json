@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2063107911799488557",
+    "created_at": "2026-06-14T09:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T10:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066096951947661409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1789611251913588737",
+          "start": 0,
+          "username": "Yukiovo03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066096951947661409",
+    "in_reply_to_user_id": "1789611251913588737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063107911799488557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yukiovo03 强"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2063107903918313472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKGhtTJaEAA4pcV.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2063107911799488557",
+        "created_at": "2026-06-14T09:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066096951947661409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1789611251913588737",
+              "start": 0,
+              "username": "Yukiovo03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066096951947661409",
+        "in_reply_to_user_id": "1789611251913588737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063107911799488557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yukiovo03 强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063107903918313472"
+          ]
+        },
+        "author_id": "1789611251913588737",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063107911799488557",
+        "created_at": "2026-06-06T03:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T04:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063107911799488557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PxZOalxtEV",
+              "end": 32,
+              "expanded_url": "https://x.com/Yukiovo03/status/2063107911799488557/photo/1",
+              "media_key": "3_2063107903918313472",
+              "start": 9,
+              "url": "https://t.co/PxZOalxtEV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063107911799488557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "独来独往像个高手 https://t.co/PxZOalxtEV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n爱压抑\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 92,
+          "like_count": 890,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 914
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T10:59:13.000Z",
+        "description": "平静的上班族",
+        "id": "1789611251913588737",
+        "location": "🏠",
+        "name": "Sheep",
+        "pinned_tweet_id": "2054583607403159694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054142663734255617/JiJcw-6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 28,
+          "like_count": 256,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 93
+        },
+        "username": "Yukiovo03",
+        "verified": false
+      }
+    ]
+  }
+}

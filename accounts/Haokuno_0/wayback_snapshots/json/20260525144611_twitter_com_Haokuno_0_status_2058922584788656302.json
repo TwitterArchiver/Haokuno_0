@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2058922584788656302",
+    "created_at": "2026-05-25T14:46:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T15:46:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058922584788656302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1883854964772175872",
+          "start": 3,
+          "username": "kocatia_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058922584788656302",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058727443910041839",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kocatia_: 好想滥交"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2058922584788656302",
+        "created_at": "2026-05-25T14:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058922584788656302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1883854964772175872",
+              "start": 3,
+              "username": "kocatia_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058922584788656302",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058727443910041839",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kocatia_: 好想滥交"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883854964772175872",
+        "conversation_id": "2058727443910041839",
+        "created_at": "2026-05-25T01:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T02:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058727443910041839"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058727443910041839",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 545,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好想滥交"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n别靠近我\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055630473590640640/aiv2NKqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 60,
+          "like_count": 761,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 697
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T12:30:09.000Z",
+        "description": "低精力人群 自卑敏感阴暗地雷男  东方Project / プロセカ / ユメステ / maimai / 欢迎来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kocatia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kocatia",
+                "start": 0,
+                "url": "https://t.co/LvgztTx1QC"
+              }
+            ]
+          }
+        },
+        "id": "1883854964772175872",
+        "location": "秘封俱乐部",
+        "name": "幻想のサテライト",
+        "pinned_tweet_id": "2033157704857035136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024281813410316288/lEMIcIyd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 201,
+          "like_count": 8817,
+          "listed_count": 0,
+          "media_count": 289,
+          "tweet_count": 1706
+        },
+        "url": "https://t.co/LvgztTx1QC",
+        "username": "kocatia_",
+        "verified": false
+      }
+    ]
+  }
+}

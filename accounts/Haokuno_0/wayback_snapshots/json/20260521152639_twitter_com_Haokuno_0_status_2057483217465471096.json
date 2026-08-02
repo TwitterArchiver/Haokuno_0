@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2057422388317614118",
+    "created_at": "2026-05-21T15:26:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T16:26:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057483217465471096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028846216944242688",
+          "start": 0,
+          "username": "YingZaisama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057483217465471096",
+    "in_reply_to_user_id": "2028846216944242688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057422388317614118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YingZaisama 怎么都开始玩 ow 了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057422377592754176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1uwHFbEAAc6DT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2057422388317614118",
+        "created_at": "2026-05-21T15:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057483217465471096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028846216944242688",
+              "start": 0,
+              "username": "YingZaisama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057483217465471096",
+        "in_reply_to_user_id": "2028846216944242688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057422388317614118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YingZaisama 怎么都开始玩 ow 了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057422377592754176"
+          ]
+        },
+        "author_id": "2028846216944242688",
+        "conversation_id": "2057422388317614118",
+        "created_at": "2026-05-21T11:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057422388317614118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JXJFxEr8HQ",
+              "end": 31,
+              "expanded_url": "https://x.com/YingZaisama/status/2057422388317614118/photo/1",
+              "media_key": "3_2057422377592754176",
+              "start": 8,
+              "url": "https://t.co/JXJFxEr8HQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057422388317614118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇啊..好丑. https://t.co/JXJFxEr8HQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n别靠近我\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055630473590640640/aiv2NKqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 59,
+          "like_count": 757,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 673
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T14:53:45.000Z",
+        "description": "06/目前就读于异世界大学➧ 猫头鹰教教主👑   信仰猫头鹰吧！！献上你们的灵魂和情感，猫头鹰会赐予你能改变一切的力量⚠️阴暗死宅（重度二次元）我只是一只猫头鹰，也只是一只猫头鹰. 「中二病严重患者」⚠️❌ 坚定的纯爱主义者.⚠️照片高P线下查无此人⚠️双重人格⚠️ 遇到自己兴趣方面会变得疯癫⚠️我从来不是什么正常人",
+        "id": "2028846216944242688",
+        "location": "不存在的理想乡",
+        "name": "✞ Nocturne Eagle ✞(𓁹 𓁹)",
+        "pinned_tweet_id": "2050920228562051430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052016213266681856/nlvLmBWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 313,
+          "like_count": 3657,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 1882
+        },
+        "username": "YingZaisama",
+        "verified": false
+      }
+    ]
+  }
+}

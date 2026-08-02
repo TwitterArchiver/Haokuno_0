@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2044065340317892611",
+    "created_at": "2026-06-13T06:34:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T07:34:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065684149059662243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1755536417508478976",
+          "start": 0,
+          "username": "lny1065972"
+        },
+        {
+          "end": 23,
+          "id": "2032496408675184649",
+          "start": 12,
+          "username": "Yeyuxiao_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065684149059662243",
+    "in_reply_to_user_id": "1755536417508478976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065678439194255633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lny1065972 @Yeyuxiao_0 你是个几把啊你傻逼玩意，说一句就几把破防了把自己当啥了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065678429161394177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrDlj5aEAEHCS9.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2044065340317892611",
+        "created_at": "2026-06-13T06:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065684149059662243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1755536417508478976",
+              "start": 0,
+              "username": "lny1065972"
+            },
+            {
+              "end": 23,
+              "id": "2032496408675184649",
+              "start": 12,
+              "username": "Yeyuxiao_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065684149059662243",
+        "in_reply_to_user_id": "1755536417508478976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065678439194255633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lny1065972 @Yeyuxiao_0 你是个几把啊你傻逼玩意，说一句就几把破防了把自己当啥了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065678429161394177"
+          ]
+        },
+        "author_id": "1755536417508478976",
+        "conversation_id": "2044065340317892611",
+        "created_at": "2026-06-13T06:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065678439194255633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1276148275175755776",
+              "start": 0,
+              "username": "Haokuno_0"
+            },
+            {
+              "end": 22,
+              "id": "2032496408675184649",
+              "start": 11,
+              "username": "Yeyuxiao_0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/htZOb0ayH0",
+              "end": 110,
+              "expanded_url": "https://x.com/lny1065972/status/2065678439194255633/photo/1",
+              "media_key": "3_2065678429161394177",
+              "start": 87,
+              "url": "https://t.co/htZOb0ayH0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065678439194255633",
+        "in_reply_to_user_id": "1276148275175755776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044065340317892611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haokuno_0 @Yeyuxiao_0 知不知道你的金主都拉黑我了还帮人讲话傻逼不心虚拉黑啥呢你也是和她一样臭乞丐我主页都发了挂他的帖子如果你有脑子就能看得懂我写的啥 https://t.co/htZOb0ayH0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n爱压抑\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 90,
+          "like_count": 849,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 853
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T10:18:11.000Z",
+        "description": "",
+        "id": "1755536417508478976",
+        "name": "咿咿呀呀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030391400903442432/iEBm-rcG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 43,
+          "like_count": 354,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 36
+        },
+        "username": "lny1065972",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-13T16:39:45.000Z",
+        "description": "夜雨潇潇",
+        "id": "2032496408675184649",
+        "location": "阴暗面",
+        "name": "叶雨潇",
+        "pinned_tweet_id": "2065106204926599680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044744196616011776/hDPh4IBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 8,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 51
+        },
+        "username": "Yeyuxiao_0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066347502916239360"
+      ]
+    },
+    "author_id": "1276148275175755776",
+    "conversation_id": "2066347506292674882",
+    "created_at": "2026-06-15T02:30:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T03:30:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066347506292674882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 32,
+          "id": "1814688236398166016",
+          "start": 22,
+          "username": "loveyoluv"
+        },
+        {
+          "end": 48,
+          "id": "2059475041126055936",
+          "start": 33,
+          "username": "Texiuszhichuan"
+        },
+        {
+          "end": 68,
+          "id": "1720098116601532416",
+          "start": 55,
+          "username": "nixyng246039"
+        },
+        {
+          "end": 89,
+          "id": "2057318503263477760",
+          "start": 75,
+          "username": "SakuraYang424"
+        },
+        {
+          "end": 99,
+          "id": "2049809016558354433",
+          "start": 90,
+          "username": "lomintov"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+          "display_url": "infinitetweet.me/family-tree?la…",
+          "end": 127,
+          "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "start": 104,
+          "status": 200,
+          "title": "Family Tree • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "url": "https://t.co/laxDmnEIIu"
+        },
+        {
+          "display_url": "pic.x.com/x07ZnIseCg",
+          "end": 151,
+          "expanded_url": "https://x.com/Haokuno_0/status/2066347506292674882/photo/1",
+          "media_key": "3_2066347502916239360",
+          "start": 128,
+          "url": "https://t.co/x07ZnIseCg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066347506292674882",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @loveyoluv @Texiuszhichuan\n👰 配偶: @nixyng246039\n👶 孩子: @SakuraYang424 @lomintov\n\n➡️ https://t.co/laxDmnEIIu https://t.co/x07ZnIseCg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2066347502916239360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK0kGx3WgAAXzHf.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066347502916239360"
+          ]
+        },
+        "author_id": "1276148275175755776",
+        "conversation_id": "2066347506292674882",
+        "created_at": "2026-06-15T02:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T03:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066347506292674882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1814688236398166016",
+              "start": 22,
+              "username": "loveyoluv"
+            },
+            {
+              "end": 48,
+              "id": "2059475041126055936",
+              "start": 33,
+              "username": "Texiuszhichuan"
+            },
+            {
+              "end": 68,
+              "id": "1720098116601532416",
+              "start": 55,
+              "username": "nixyng246039"
+            },
+            {
+              "end": 89,
+              "id": "2057318503263477760",
+              "start": 75,
+              "username": "SakuraYang424"
+            },
+            {
+              "end": 99,
+              "id": "2049809016558354433",
+              "start": 90,
+              "username": "lomintov"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 127,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "start": 104,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/laxDmnEIIu"
+            },
+            {
+              "display_url": "pic.x.com/x07ZnIseCg",
+              "end": 151,
+              "expanded_url": "https://x.com/Haokuno_0/status/2066347506292674882/photo/1",
+              "media_key": "3_2066347502916239360",
+              "start": 128,
+              "url": "https://t.co/x07ZnIseCg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066347506292674882",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @loveyoluv @Texiuszhichuan\n👰 配偶: @nixyng246039\n👶 孩子: @SakuraYang424 @lomintov\n\n➡️ https://t.co/laxDmnEIIu https://t.co/x07ZnIseCg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n爱压抑\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 95,
+          "like_count": 906,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 928
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T15:46:15.000Z",
+        "description": "爱你们，有烦恼或问题可以私信和我倾诉，我会帮你们的✌︎' ֊'",
+        "id": "1814688236398166016",
+        "location": "游乐园",
+        "name": "TK",
+        "pinned_tweet_id": "2063582422671966616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063647900262072320/nlC7fHyz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 655,
+          "like_count": 4863,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1114
+        },
+        "username": "loveyoluv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "07，新西兰留学生，玩火影王者，想以火影为主，全天在线，有对象，网瘾大，互fo聊天",
+        "id": "2059475041126055936",
+        "location": "在哪都行",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2065348984466813399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060374121587052544/q0nCI1WV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 202,
+          "like_count": 4069,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 592
+        },
+        "username": "Texiuszhichuan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 484,
+          "like_count": 6758,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 1909
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T04:33:00.000Z",
+        "description": "",
+        "id": "2057318503263477760",
+        "name": "雷神雷伊",
+        "pinned_tweet_id": "2058214590429929498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057319039953928192/oEDdomEi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 135,
+          "like_count": 380,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 207
+        },
+        "username": "SakuraYang424",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T11:12:51.000Z",
+        "description": "",
+        "id": "2049809016558354433",
+        "name": "lomintov",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049809450719150080/s2K60WZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "lomintov",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2074181704227664145",
+    "created_at": "2026-07-06T17:42:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T18:42:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074187141140406305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2074131584093970433",
+          "start": 0,
+          "username": "fuckingshit0721"
+        },
+        {
+          "end": 27,
+          "id": "2058083268915048448",
+          "start": 17,
+          "username": "ghbij9eij"
+        },
+        {
+          "end": 44,
+          "id": "1842618039549997056",
+          "start": 28,
+          "username": "yolo82434084817"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074187141140406305",
+    "in_reply_to_user_id": "2074131584093970433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074183024174887309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuckingshit0721 @ghbij9eij @yolo82434084817 吓哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2074181704227664145",
+        "created_at": "2026-07-06T17:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074187141140406305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2074131584093970433",
+              "start": 0,
+              "username": "fuckingshit0721"
+            },
+            {
+              "end": 27,
+              "id": "2058083268915048448",
+              "start": 17,
+              "username": "ghbij9eij"
+            },
+            {
+              "end": 44,
+              "id": "1842618039549997056",
+              "start": 28,
+              "username": "yolo82434084817"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074187141140406305",
+        "in_reply_to_user_id": "2074131584093970433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074183024174887309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuckingshit0721 @ghbij9eij @yolo82434084817 吓哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2074131584093970433",
+        "conversation_id": "2074181704227664145",
+        "created_at": "2026-07-06T17:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074183024174887309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2058083268915048448",
+              "start": 0,
+              "username": "ghbij9eij"
+            },
+            {
+              "end": 27,
+              "id": "1842618039549997056",
+              "start": 11,
+              "username": "yolo82434084817"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074183024174887309",
+        "in_reply_to_user_id": "2058083268915048448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074182599187026395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ghbij9eij @yolo82434084817 已经有的送不了礼物..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T\n@Yeyuxiao_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Yeyuxiao_0"
+              }
+            ]
+          }
+        },
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 100,
+          "like_count": 1134,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1355
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-06T14:02:40.000Z",
+        "description": "万物生发复归根，凡事从此始喵🏳️‍🌈\n茫茫冻土身相随，有心炽如火喵🏳️‍⚧️",
+        "id": "2074131584093970433",
+        "name": "sin🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074175326490693632/MHVw21ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 0,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "fuckingshit0721",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-23T07:11:39.000Z",
+        "description": "",
+        "id": "2058083268915048448",
+        "name": "ghbij",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 37,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 258
+        },
+        "url": "",
+        "username": "ghbij9eij",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-05T17:29:18.000Z",
+        "description": "今日方知我是我.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yolo24634",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yolo24634",
+                "start": 0,
+                "url": "https://t.co/n8ScFsCutj"
+              }
+            ]
+          }
+        },
+        "id": "1842618039549997056",
+        "location": "❤️",
+        "name": "桔梗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976329258080534528/6bUHQIuF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 290,
+          "like_count": 1117,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 725
+        },
+        "url": "https://t.co/n8ScFsCutj",
+        "username": "yolo82434084817",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2043727692605133306",
+    "created_at": "2026-04-14T00:36:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T01:36:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043850833473773746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1527360023046721547",
+          "start": 0,
+          "username": "xuehuagou11"
+        },
+        {
+          "end": 29,
+          "id": "1060084311502708736",
+          "start": 13,
+          "username": "dingingcingking"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043850833473773746",
+    "in_reply_to_user_id": "1527360023046721547",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043777409850454381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuehuagou11 @dingingcingking 眉毛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2043727692605133306",
+        "created_at": "2026-04-14T00:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T01:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043850833473773746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1527360023046721547",
+              "start": 0,
+              "username": "xuehuagou11"
+            },
+            {
+              "end": 29,
+              "id": "1060084311502708736",
+              "start": 13,
+              "username": "dingingcingking"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043850833473773746",
+        "in_reply_to_user_id": "1527360023046721547",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043777409850454381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuehuagou11 @dingingcingking 眉毛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1527360023046721547",
+        "conversation_id": "2043727692605133306",
+        "created_at": "2026-04-13T19:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T20:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043777409850454381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1060084311502708736",
+              "start": 0,
+              "username": "dingingcingking"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043777409850454381",
+        "in_reply_to_user_id": "1060084311502708736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 940,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043727692605133306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dingingcingking 妈的那个挂人女生把我屏蔽了🙄🙄🙄 她说见不得这些发奶照圈钱的 我真服了啊。你见不得这个见不得那个 那她翻墙玩推特干嘛啊？去死好了呗 我说白了就是见不得骚的又骚不起来的😱😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2041901858508136514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040446372651155456/38-H0Dtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 41,
+          "like_count": 647,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 489
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-19T18:46:33.000Z",
+        "description": "不聊黄不看几把、自言自语废话片",
+        "id": "1527360023046721547",
+        "location": "🚪188/520没福利只闲聊",
+        "name": "塞西莉亚",
+        "pinned_tweet_id": "1998826795030978835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805677448190902272/RKS6FG1a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1222,
+          "following_count": 288,
+          "like_count": 380,
+          "listed_count": 4,
+          "media_count": 67,
+          "tweet_count": 1521
+        },
+        "username": "xuehuagou11",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-07T08:19:30.000Z",
+        "description": "不接电报推广＇其他推广私聊合作  废话很多，偶尔掉落性感照片",
+        "id": "1060084311502708736",
+        "location": "  不知道",
+        "name": "dingingcingking",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1627253477146755072/ggLGz0ty_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64498,
+          "following_count": 259,
+          "like_count": 23396,
+          "listed_count": 137,
+          "media_count": 1350,
+          "tweet_count": 17347
+        },
+        "username": "dingingcingking",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2065828983351242870",
+    "created_at": "2026-06-14T04:53:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T05:53:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066021213676388683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1812491456214654977",
+          "start": 0,
+          "username": "CheungChanE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066021213676388683",
+    "in_reply_to_user_id": "1812491456214654977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066010097218961713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CheungChanE 请问你是什么段位呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2065828983351242870",
+        "created_at": "2026-06-14T04:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066021213676388683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1812491456214654977",
+              "start": 0,
+              "username": "CheungChanE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066021213676388683",
+        "in_reply_to_user_id": "1812491456214654977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066010097218961713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CheungChanE 请问你是什么段位呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812491456214654977",
+        "conversation_id": "2065828983351242870",
+        "created_at": "2026-06-14T04:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066010097218961713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1276148275175755776",
+              "start": 0,
+              "username": "Haokuno_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066010097218961713",
+        "in_reply_to_user_id": "1276148275175755776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065978924946067643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haokuno_0 我操你妈逼的四级都过不了唐氏你其他方面能有什么鸡毛理解？喊影响到你你去制止他们发你妈的推特，蠕逼废物.他们喊关老子屁事，智障玩意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n爱压抑\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 91,
+          "like_count": 869,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 890
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T14:17:06.000Z",
+        "description": "",
+        "id": "1812491456214654977",
+        "name": "ChanE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812491560770023425/yX86h2_T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 125,
+          "like_count": 2640,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 315
+        },
+        "username": "CheungChanE",
+        "verified": false
+      }
+    ]
+  }
+}

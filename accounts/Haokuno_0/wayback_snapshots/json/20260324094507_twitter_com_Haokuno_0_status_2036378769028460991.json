@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2036378769028460991",
+    "created_at": "2026-03-24T09:45:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T10:45:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036378769028460991"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/not0wned_zhao/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/not0wned_zhao/status/2036047394681307327",
+          "start": 11,
+          "url": "https://t.co/I9n0cyDuvA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036378769028460991",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036047394681307327",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我买了三年了没玩过呢 https://t.co/I9n0cyDuvA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2796,
+        "media_key": "3_2036047382287437824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEF-TocbUAApuQx.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2036378769028460991",
+        "created_at": "2026-03-24T09:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T10:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036378769028460991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/not0wned_zhao/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/not0wned_zhao/status/2036047394681307327",
+              "start": 11,
+              "url": "https://t.co/I9n0cyDuvA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036378769028460991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036047394681307327",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我买了三年了没玩过呢 https://t.co/I9n0cyDuvA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036047382287437824"
+          ]
+        },
+        "author_id": "1979627040157667328",
+        "conversation_id": "2036047394681307327",
+        "created_at": "2026-03-23T11:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T12:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036047394681307327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OJPdVLbXYO",
+              "end": 45,
+              "expanded_url": "https://x.com/Not0wned_zhao/status/2036047394681307327/photo/1",
+              "media_key": "3_2036047382287437824",
+              "start": 22,
+              "url": "https://t.co/OJPdVLbXYO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036047394681307327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1143,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在买这种得有人陪我玩的游戏。然后落灰 https://t.co/OJPdVLbXYO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 07 ENFP-T 🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2031647286288060518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034078738712039424/MCUfN4n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 40,
+          "like_count": 519,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 664
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-18T19:14:52.000Z",
+        "description": "我叫昭昭｜♒️05/173/50 ｜发自己爱看的(o^^o) ｜爱看高壮帅嫩男｜丑瘦矮勿扰｜不聊骚不线下不约无门不加v｜不闲聊没有义务回答",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pilot.damoplane.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://pilot.damoplane.com/#/register?code=xiadQvfC",
+                "start": 0,
+                "url": "https://t.co/SlnWdFFnZT"
+              }
+            ]
+          }
+        },
+        "id": "1979627040157667328",
+        "name": "魅魔村村长",
+        "pinned_tweet_id": "2023800898447904980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018701608016830464/R7efrGA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 18,
+          "like_count": 175,
+          "listed_count": 5,
+          "media_count": 178,
+          "tweet_count": 941
+        },
+        "url": "https://t.co/SlnWdFFnZT",
+        "username": "Not0wned_zhao",
+        "verified": false
+      }
+    ]
+  }
+}

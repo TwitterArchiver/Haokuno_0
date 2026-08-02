@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069213721147408384"
+      ]
+    },
+    "author_id": "1276148275175755776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2069114374904762753",
+    "created_at": "2026-06-23T00:19:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T01:19:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069213728189608005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2059475041126055936",
+          "start": 0,
+          "username": "Texiuszhichuan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XDgQ4BQ2dz",
+          "end": 44,
+          "expanded_url": "https://x.com/Haokuno_0/status/2069213728189608005/photo/1",
+          "media_key": "3_2069213721147408384",
+          "start": 21,
+          "url": "https://t.co/XDgQ4BQ2dz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069213728189608005",
+    "in_reply_to_user_id": "2059475041126055936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069114374904762753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Texiuszhichuan 看力竭了 https://t.co/XDgQ4BQ2dz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069213721147408384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLdS6o1bAAA_WpO.jpg",
+        "width": 943
+      },
+      {
+        "height": 321,
+        "media_key": "3_2069114367900311552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLb4jhJa4AANMj2.jpg",
+        "width": 1228
+      },
+      {
+        "height": 317,
+        "media_key": "3_2069114367837417472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLb4jg6bMAA3J5b.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069213721147408384"
+          ]
+        },
+        "author_id": "1276148275175755776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069114374904762753",
+        "created_at": "2026-06-23T00:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T01:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069213728189608005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059475041126055936",
+              "start": 0,
+              "username": "Texiuszhichuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XDgQ4BQ2dz",
+              "end": 44,
+              "expanded_url": "https://x.com/Haokuno_0/status/2069213728189608005/photo/1",
+              "media_key": "3_2069213721147408384",
+              "start": 21,
+              "url": "https://t.co/XDgQ4BQ2dz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069213728189608005",
+        "in_reply_to_user_id": "2059475041126055936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069114374904762753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Texiuszhichuan 看力竭了 https://t.co/XDgQ4BQ2dz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069114367900311552",
+            "3_2069114367837417472"
+          ]
+        },
+        "author_id": "2059475041126055936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069114374904762753",
+        "created_at": "2026-06-22T17:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T18:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069114374904762753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1kPYAT0Y07",
+              "end": 51,
+              "expanded_url": "https://x.com/Texiuszhichuan/status/2069114374904762753/photo/1",
+              "media_key": "3_2069114367900311552",
+              "start": 28,
+              "url": "https://t.co/1kPYAT0Y07"
+            },
+            {
+              "display_url": "pic.x.com/1kPYAT0Y07",
+              "end": 51,
+              "expanded_url": "https://x.com/Texiuszhichuan/status/2069114374904762753/photo/1",
+              "media_key": "3_2069114367837417472",
+              "start": 28,
+              "url": "https://t.co/1kPYAT0Y07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069114374904762753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "像这种二傻子就别进来了，大脑发育不完全，小脑完全不发育 https://t.co/1kPYAT0Y07"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n祝大家天天开心\n看到喜欢的会回fo",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 103,
+          "like_count": 1046,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1138
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "07，新西兰留学生，玩火影，王者，phigros，MC，泰拉瑞亚，空洞骑士等等一系列steam游戏，想以火影为主，喜欢追番但看的比较少，全天在线，网瘾大，互fo聊天，可以交换联系方式（QQ）",
+        "id": "2059475041126055936",
+        "location": "在哪都行",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2068756702917472556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060374121587052544/q0nCI1WV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 255,
+          "like_count": 8272,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 731
+        },
+        "url": "",
+        "username": "Texiuszhichuan",
+        "verified": true
+      }
+    ]
+  }
+}

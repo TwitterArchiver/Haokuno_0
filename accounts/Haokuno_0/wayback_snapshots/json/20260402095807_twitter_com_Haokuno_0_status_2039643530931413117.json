@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2039637303459717321",
+    "created_at": "2026-04-02T09:58:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T10:58:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039643530931413117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1779534820563193856",
+          "start": 0,
+          "username": "tt2174890778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039643530931413117",
+    "in_reply_to_user_id": "1779534820563193856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039637303459717321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tt2174890778 两秒"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1500,
+        "height": 960,
+        "media_key": "7_2039637282005897216",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2039637282005897216/pu/img/DEJKqR_9qvelQlj8.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039637282005897216/pu/vid/avc1/320x426/luFk7_-hwsg6qcq9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039637282005897216/pu/vid/avc1/480x640/BKl4vgTQX0l24YsP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039637282005897216/pu/vid/avc1/720x960/G8BFgC965uMPHF6O.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2039637282005897216/pu/pl/VJUaLIITA7Tf5IYq.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2039637303459717321",
+        "created_at": "2026-04-02T09:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T10:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039643530931413117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1779534820563193856",
+              "start": 0,
+              "username": "tt2174890778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039643530931413117",
+        "in_reply_to_user_id": "1779534820563193856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039637303459717321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tt2174890778 两秒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2039637282005897216"
+          ]
+        },
+        "author_id": "1779534820563193856",
+        "conversation_id": "2039637303459717321",
+        "created_at": "2026-04-02T09:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T10:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039637303459717321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bpNlqD6rQn",
+              "end": 28,
+              "expanded_url": "https://x.com/tt2174890778/status/2039637303459717321/video/1",
+              "media_key": "7_2039637282005897216",
+              "start": 5,
+              "url": "https://t.co/bpNlqD6rQn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039637303459717321",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "萌萌一秒 https://t.co/bpNlqD6rQn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 07 ENFP-T 🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2031647286288060518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034078738712039424/MCUfN4n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 45,
+          "like_count": 591,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 771
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-14T15:39:15.000Z",
+        "description": "我想了解她",
+        "id": "1779534820563193856",
+        "location": "电子日记本",
+        "name": "^ω^",
+        "pinned_tweet_id": "2029031318391316777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855988652498894848/JTs4pfyS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 48,
+          "like_count": 1197,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1374
+        },
+        "username": "tt2174890778",
+        "verified": false
+      }
+    ]
+  }
+}

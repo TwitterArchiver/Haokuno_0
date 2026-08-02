@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057857502625353728"
+      ]
+    },
+    "author_id": "1276148275175755776",
+    "conversation_id": "2057857514864312609",
+    "created_at": "2026-05-22T16:13:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T17:13:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057857514864312609"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2GcXE6I8ky",
+          "end": 29,
+          "expanded_url": "https://x.com/Haokuno_0/status/2057857514864312609/photo/1",
+          "media_key": "3_2057857502625353728",
+          "start": 6,
+          "url": "https://t.co/2GcXE6I8ky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057857514864312609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "帅的一逼啊 https://t.co/2GcXE6I8ky"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2057857502625353728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI76fuJbUAA7wSt.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057857502625353728"
+          ]
+        },
+        "author_id": "1276148275175755776",
+        "conversation_id": "2057857514864312609",
+        "created_at": "2026-05-22T16:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057857514864312609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2GcXE6I8ky",
+              "end": 29,
+              "expanded_url": "https://x.com/Haokuno_0/status/2057857514864312609/photo/1",
+              "media_key": "3_2057857502625353728",
+              "start": 6,
+              "url": "https://t.co/2GcXE6I8ky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057857514864312609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "帅的一逼啊 https://t.co/2GcXE6I8ky"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n别靠近我\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055630473590640640/aiv2NKqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 57,
+          "like_count": 759,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 679
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      }
+    ]
+  }
+}

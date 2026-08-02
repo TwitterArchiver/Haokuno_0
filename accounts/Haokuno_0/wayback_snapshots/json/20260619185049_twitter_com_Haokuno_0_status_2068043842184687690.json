@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2067611435438612745",
+    "created_at": "2026-06-19T18:50:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T19:50:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068043842184687690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1762096331580182529",
+          "start": 0,
+          "username": "Akiha1108"
+        },
+        {
+          "end": 23,
+          "id": "1920509803815985152",
+          "start": 11,
+          "username": "Artemis_rvr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068043842184687690",
+    "in_reply_to_user_id": "1762096331580182529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067851846774055291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akiha1108 @Artemis_rvr 这个是真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2067611435438612745",
+        "created_at": "2026-06-19T18:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T19:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068043842184687690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1762096331580182529",
+              "start": 0,
+              "username": "Akiha1108"
+            },
+            {
+              "end": 23,
+              "id": "1920509803815985152",
+              "start": 11,
+              "username": "Artemis_rvr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068043842184687690",
+        "in_reply_to_user_id": "1762096331580182529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067851846774055291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiha1108 @Artemis_rvr 这个是真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762096331580182529",
+        "conversation_id": "2067611435438612745",
+        "created_at": "2026-06-19T06:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T07:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067851846774055291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1920509803815985152",
+              "start": 0,
+              "username": "Artemis_rvr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067851846774055291",
+        "in_reply_to_user_id": "1920509803815985152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9648,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067611435438612745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Artemis_rvr 还有“丝———”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n祝大家天天开心\n看到喜欢的会回fo",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 100,
+          "like_count": 992,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1067
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-26T12:44:47.000Z",
+        "description": "失礼だな、純愛だよ",
+        "id": "1762096331580182529",
+        "location": "東京/包邮区",
+        "name": "BLEU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816465482125553664/7Akkj4yN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 64,
+          "like_count": 3280,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 237
+        },
+        "url": "",
+        "username": "Akiha1108",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T16:03:27.000Z",
+        "description": "希望全世界温青音都能缠上我",
+        "id": "1920509803815985152",
+        "name": "摇尾",
+        "pinned_tweet_id": "2057827123570602493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920510025962823680/ABE8OZll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3502,
+          "following_count": 41,
+          "like_count": 105,
+          "listed_count": 6,
+          "media_count": 56,
+          "tweet_count": 340
+        },
+        "url": "",
+        "username": "Artemis_rvr",
+        "verified": false
+      }
+    ]
+  }
+}

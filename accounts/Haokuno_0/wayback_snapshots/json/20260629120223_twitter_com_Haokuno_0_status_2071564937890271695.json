@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071564920282628096"
+      ]
+    },
+    "author_id": "1276148275175755776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2071564937890271695",
+    "created_at": "2026-06-29T12:02:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T13:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071564937890271695"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YYlT6n808o",
+          "end": 25,
+          "expanded_url": "https://x.com/Haokuno_0/status/2071564937890271695/photo/1",
+          "media_key": "3_2071564920282628096",
+          "start": 2,
+          "url": "https://t.co/YYlT6n808o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071564937890271695",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "… https://t.co/YYlT6n808o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2071564920282628096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-tUcKbQAAqLmV.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071564920282628096"
+          ]
+        },
+        "author_id": "1276148275175755776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2071564937890271695",
+        "created_at": "2026-06-29T12:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T13:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071564937890271695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YYlT6n808o",
+              "end": 25,
+              "expanded_url": "https://x.com/Haokuno_0/status/2071564937890271695/photo/1",
+              "media_key": "3_2071564920282628096",
+              "start": 2,
+              "url": "https://t.co/YYlT6n808o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071564937890271695",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "… https://t.co/YYlT6n808o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 97,
+          "like_count": 1123,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1284
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      }
+    ]
+  }
+}

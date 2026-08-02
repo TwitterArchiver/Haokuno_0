@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2051098491422982351",
+    "created_at": "2026-05-04T04:26:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T05:26:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051156475536617899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929416262989557760",
+          "start": 0,
+          "username": "maoxian1527"
+        },
+        {
+          "end": 26,
+          "id": "1501751363650428934",
+          "start": 13,
+          "username": "WutianBuddha"
+        },
+        {
+          "end": 41,
+          "id": "1479550299815645185",
+          "start": 27,
+          "username": "Stanleysobest"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051156475536617899",
+    "in_reply_to_user_id": "1929416262989557760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051154132502012318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maoxian1527 @WutianBuddha @Stanleysobest 神了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2051098491422982351",
+        "created_at": "2026-05-04T04:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T05:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051156475536617899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929416262989557760",
+              "start": 0,
+              "username": "maoxian1527"
+            },
+            {
+              "end": 26,
+              "id": "1501751363650428934",
+              "start": 13,
+              "username": "WutianBuddha"
+            },
+            {
+              "end": 41,
+              "id": "1479550299815645185",
+              "start": 27,
+              "username": "Stanleysobest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051156475536617899",
+        "in_reply_to_user_id": "1929416262989557760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051154132502012318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoxian1527 @WutianBuddha @Stanleysobest 神了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929416262989557760",
+        "conversation_id": "2051098491422982351",
+        "created_at": "2026-05-04T04:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T05:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051154132502012318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1501751363650428934",
+              "start": 0,
+              "username": "WutianBuddha"
+            },
+            {
+              "end": 28,
+              "id": "1479550299815645185",
+              "start": 14,
+              "username": "Stanleysobest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051154132502012318",
+        "in_reply_to_user_id": "1501751363650428934",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051121096347570495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WutianBuddha @Stanleysobest 我不行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n祝大家天天开心",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040446372651155456/38-H0Dtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 46,
+          "like_count": 740,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 594
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T05:54:41.000Z",
+        "description": "🤍2010.11.17🤍 | kitty live system | 碎碎念 | 🏳️‍⚧️友好 | 看心情互fo | 防走丢@maoxiansql | 诡秘@zqtlovekris99 | 白虚@Acmduemsks | 姐姐@OuO_QwQg | 狗狗@Meph4786",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "maoxiansql"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "Acmduemsks"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "Meph4786"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianact.top",
+                "end": 23,
+                "expanded_url": "http://maoxianact.top/",
+                "start": 0,
+                "url": "https://t.co/BsriOOm0E4"
+              }
+            ]
+          }
+        },
+        "id": "1929416262989557760",
+        "location": "距离你5.2km",
+        "name": "猫弦nekogen🍥",
+        "pinned_tweet_id": "2047637386344243337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046150580238946304/KuhEOFBo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1840,
+          "following_count": 268,
+          "like_count": 3847,
+          "listed_count": 1,
+          "media_count": 317,
+          "tweet_count": 2242
+        },
+        "url": "https://t.co/BsriOOm0E4",
+        "username": "maoxian1527",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-10T02:46:50.000Z",
+        "description": "🏄‍♀️从Web2老股东到Web3冲浪者 | 十五年Web2经验+实战\n | Web2红利受益者 & 投资心得 | \n无天看Web3 #区块链 #Crypto #Web3",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 71,
+                "start": 67,
+                "tag": "区块链"
+              },
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "Crypto"
+              },
+              {
+                "end": 85,
+                "start": 80,
+                "tag": "Web3"
+              }
+            ]
+          }
+        },
+        "id": "1501751363650428934",
+        "name": "Buddha Wu Tian无天真佛",
+        "pinned_tweet_id": "2042801477534781866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825108971323351040/47SAM4Kz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1735,
+          "following_count": 488,
+          "like_count": 360,
+          "listed_count": 7,
+          "media_count": 239,
+          "tweet_count": 3297
+        },
+        "username": "WutianBuddha",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-07T20:27:57.000Z",
+        "description": "头部私域职业玩家，互联网风口项目推手",
+        "id": "1479550299815645185",
+        "name": "Stanley",
+        "pinned_tweet_id": "2004868035409313879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730639637599883265/KDOrRfwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42310,
+          "following_count": 1688,
+          "like_count": 25546,
+          "listed_count": 173,
+          "media_count": 5268,
+          "tweet_count": 34274
+        },
+        "username": "Stanleysobest",
+        "verified": true
+      }
+    ]
+  }
+}

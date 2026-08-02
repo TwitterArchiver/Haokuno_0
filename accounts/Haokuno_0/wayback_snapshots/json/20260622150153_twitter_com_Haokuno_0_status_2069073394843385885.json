@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2069055693865558328",
+    "created_at": "2026-06-22T15:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T16:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069073394843385885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1768447580961398784",
+          "start": 0,
+          "username": "aloner_second"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069073394843385885",
+    "in_reply_to_user_id": "1768447580961398784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069060841820029265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aloner_second 我是菜逼😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2069055693865558328",
+        "created_at": "2026-06-22T15:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069073394843385885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768447580961398784",
+              "start": 0,
+              "username": "aloner_second"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069073394843385885",
+        "in_reply_to_user_id": "1768447580961398784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069060841820029265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aloner_second 我是菜逼😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768447580961398784",
+        "conversation_id": "2069055693865558328",
+        "created_at": "2026-06-22T14:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069060841820029265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1276148275175755776",
+              "start": 0,
+              "username": "Haokuno_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069060841820029265",
+        "in_reply_to_user_id": "1276148275175755776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069057481725415887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haokuno_0 好耶。下次要一起吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n祝大家天天开心\n看到喜欢的会回fo",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 103,
+          "like_count": 1037,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1122
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T01:22:21.000Z",
+        "description": "匿名提问箱https://t.co/5hBrDwUpLR\n想死的心止不住。但是懒得动弹所以还活着。抑郁障碍。\n有时候刚刚发泄玩然后就去互动是因为想转移一下注意力。不是装出来的。\n到处fo人是因为想互fo了，想认识更多朋友。\n取关请双取。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aloner_second/",
+                "end": 28,
+                "expanded_url": "https://ngl.link/aloner_second/",
+                "start": 5,
+                "url": "https://t.co/5hBrDwUpLR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aloner_second",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aloner_second",
+                "start": 0,
+                "url": "https://t.co/RsRpqym80k"
+              }
+            ]
+          }
+        },
+        "id": "1768447580961398784",
+        "name": "贰号唱片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988788936265904128/hcbhZNDm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 353,
+          "like_count": 6247,
+          "listed_count": 1,
+          "media_count": 1235,
+          "tweet_count": 3962
+        },
+        "url": "https://t.co/RsRpqym80k",
+        "username": "aloner_second",
+        "verified": false
+      }
+    ]
+  }
+}

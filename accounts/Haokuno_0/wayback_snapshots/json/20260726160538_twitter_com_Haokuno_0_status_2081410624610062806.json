@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2081307371071275440",
+    "created_at": "2026-07-26T16:05:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T17:05:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081410624610062806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2060447695375044608",
+          "start": 0,
+          "username": "xiaotu088"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081410624610062806",
+    "in_reply_to_user_id": "2060447695375044608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081307371071275440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaotu088 看自己发的一阵子就自己删掉了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2081307371071275440",
+        "created_at": "2026-07-26T16:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081410624610062806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2060447695375044608",
+              "start": 0,
+              "username": "xiaotu088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081410624610062806",
+        "in_reply_to_user_id": "2060447695375044608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081307371071275440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaotu088 看自己发的一阵子就自己删掉了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060447695375044608",
+        "conversation_id": "2081307371071275440",
+        "created_at": "2026-07-26T09:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T10:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081307371071275440"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081307371071275440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6029,
+          "like_count": 178,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我真的会很喜欢看那种碎碎念很多的推，感觉很有意思，可能我这个人比较寡淡，每天过的一成不变没什么可以分享的东西，反正我会很喜欢活人感很强的博主，痛苦的也好快乐的也好，总归是种生命力。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T\n@Yeyuxiao_0\nfo你就是对你感兴趣",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Yeyuxiao_0"
+              }
+            ]
+          }
+        },
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 109,
+          "like_count": 1245,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1577
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-29T19:49:48.000Z",
+        "description": "随便倒点垃圾",
+        "id": "2060447695375044608",
+        "location": "纯绿🚪288/1314",
+        "name": "two",
+        "pinned_tweet_id": "2074789737731105070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074568177795710976/xEpj7Eg8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1833,
+          "following_count": 11,
+          "like_count": 1037,
+          "listed_count": 3,
+          "media_count": 34,
+          "tweet_count": 474
+        },
+        "url": "",
+        "username": "xiaotu088",
+        "verified": false
+      }
+    ]
+  }
+}
