@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2084616642378834285",
+    "created_at": "2026-08-04T12:37:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T13:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084619666815869378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1946149148878852096",
+          "start": 0,
+          "username": "todorokidoya1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084619666815869378",
+    "in_reply_to_user_id": "1946149148878852096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084616642378834285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@todorokidoya1 求原图"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1578,
+        "media_key": "3_2084616638406815745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4LybEbcAEhgjH.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2084616642378834285",
+        "created_at": "2026-08-04T12:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084619666815869378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946149148878852096",
+              "start": 0,
+              "username": "todorokidoya1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084619666815869378",
+        "in_reply_to_user_id": "1946149148878852096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084616642378834285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@todorokidoya1 求原图"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084616638406815745"
+          ]
+        },
+        "author_id": "1946149148878852096",
+        "conversation_id": "2084616642378834285",
+        "created_at": "2026-08-04T12:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084616642378834285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Em4631bsJH",
+              "end": 27,
+              "expanded_url": "https://x.com/todorokidoya1/status/2084616642378834285/photo/1",
+              "media_key": "3_2084616638406815745",
+              "start": 4,
+              "url": "https://t.co/Em4631bsJH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084616642378834285",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "饕餮。 https://t.co/Em4631bsJH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T\n@Yeyuxiao_0\nfo你就是对你感兴趣",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Yeyuxiao_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/Yeyuxiaoxiao",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/id/Yeyuxiaoxiao",
+                "start": 0,
+                "url": "https://t.co/d0TPy59UeT"
+              }
+            ]
+          }
+        },
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 119,
+          "like_count": 1324,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1645
+        },
+        "url": "https://t.co/d0TPy59UeT",
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T10:05:17.000Z",
+        "description": "我能否撑到黎明\n\n小号@o0omftft",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "o0omftft"
+              }
+            ]
+          }
+        },
+        "id": "1946149148878852096",
+        "location": "绘画世界",
+        "name": "0o0",
+        "pinned_tweet_id": "2079931487265374536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947494571715461120/yN7x2Gqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 628,
+          "like_count": 64996,
+          "listed_count": 0,
+          "media_count": 437,
+          "tweet_count": 4580
+        },
+        "url": "",
+        "username": "todorokidoya1",
+        "verified": true
+      }
+    ]
+  }
+}

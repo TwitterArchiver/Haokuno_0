@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086043389334867968"
+      ]
+    },
+    "author_id": "1276148275175755776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2085934799764771296",
+    "created_at": "2026-08-08T10:54:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T11:54:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086043417474400496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "893489787411222528",
+          "start": 0,
+          "username": "hanasakimakura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XBwKOKHvdz",
+          "end": 43,
+          "expanded_url": "https://x.com/Haokuno_0/status/2086043417474400496/photo/1",
+          "media_key": "3_2086043389334867968",
+          "start": 20,
+          "url": "https://t.co/XBwKOKHvdz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086043417474400496",
+    "in_reply_to_user_id": "893489787411222528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085934799764771296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hanasakimakura 可爱捏 https://t.co/XBwKOKHvdz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2086043389334867968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPMdaQdbUAA5FsP.jpg",
+        "width": 768
+      },
+      {
+        "duration_ms": 3065,
+        "height": 2880,
+        "media_key": "13_2085934720907608064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085934720907608064/img/oCExAO7SZHj66zgz.jpg",
+        "public_metrics": {
+          "view_count": 4315
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085934720907608064/vid/avc1/1080x1440/DiAINGBFd5ZLWTno.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085934720907608064/vid/avc1/2160x2880/982yfFmFRqdTQ38n.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085934720907608064/pl/Fh36NUX7_EZNVvwk.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085934720907608064/vid/avc1/320x426/gxMRHQNhr5W1NK9m.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085934720907608064/vid/avc1/720x960/mAf-Pv0bVcVsM5hT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085934720907608064/vid/avc1/480x640/d1kq4rHz2j6f9V0G.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086043389334867968"
+          ]
+        },
+        "author_id": "1276148275175755776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085934799764771296",
+        "created_at": "2026-08-08T10:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T11:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086043417474400496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "893489787411222528",
+              "start": 0,
+              "username": "hanasakimakura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XBwKOKHvdz",
+              "end": 43,
+              "expanded_url": "https://x.com/Haokuno_0/status/2086043417474400496/photo/1",
+              "media_key": "3_2086043389334867968",
+              "start": 20,
+              "url": "https://t.co/XBwKOKHvdz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086043417474400496",
+        "in_reply_to_user_id": "893489787411222528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085934799764771296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hanasakimakura 可爱捏 https://t.co/XBwKOKHvdz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085934720907608064"
+          ]
+        },
+        "author_id": "893489787411222528",
+        "conversation_id": "2085934799764771296",
+        "created_at": "2026-08-08T03:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T04:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085934799764771296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4BrwA5Vm74",
+              "end": 29,
+              "expanded_url": "https://x.com/hanasakimakura/status/2085934799764771296/video/1",
+              "media_key": "13_2085934720907608064",
+              "start": 6,
+              "url": "https://t.co/4BrwA5Vm74"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085934799764771296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 195,
+          "impression_count": 18505,
+          "like_count": 1946,
+          "quote_count": 8,
+          "reply_count": 17,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "😡ﾊﾂ!! https://t.co/4BrwA5Vm74"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T\n@Yeyuxiao_0\nfo你就是对你感兴趣",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Yeyuxiao_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/Yeyuxiaoxiao",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/id/Yeyuxiaoxiao",
+                "start": 0,
+                "url": "https://t.co/d0TPy59UeT"
+              }
+            ]
+          }
+        },
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 118,
+          "like_count": 1367,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1690
+        },
+        "url": "https://t.co/d0TPy59UeT",
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-04T15:12:20.000Z",
+        "description": "Chinese cosplayer🎀#まくらーめん 異世界同位体💀#花咲ゾンビ／TikTok▶︎hnsk_makura／@mizuchimakomori 🩵🩺@uypnmn 💙💤／加工厨。時々変な日本語喋る／一生火女🖋️／Fanmark▶︎🌸🪽",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 18,
+                "tag": "まくらーめん"
+              },
+              {
+                "end": 39,
+                "start": 33,
+                "tag": "花咲ゾンビ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mizuchimakomori"
+              },
+              {
+                "end": 86,
+                "start": 79,
+                "username": "uypnmn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/hanasaki___?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/hanasaki___?igsh=MTc3aXppb2I5eWZhZA%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/5qywsnArL1"
+              }
+            ]
+          }
+        },
+        "id": "893489787411222528",
+        "location": "AI🚫reprint🚫写真、仕事はDMへお願いします",
+        "name": "花崎Makura🌸🪽",
+        "pinned_tweet_id": "2086038370413867127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966926126384902146/hC-a3afb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194344,
+          "following_count": 997,
+          "like_count": 105040,
+          "listed_count": 736,
+          "media_count": 1340,
+          "tweet_count": 23305
+        },
+        "url": "https://t.co/5qywsnArL1",
+        "username": "hanasakimakura",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2084271459149729922",
+    "created_at": "2026-08-03T16:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T17:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084322812869935195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1100776666194882561",
+          "start": 0,
+          "username": "akiEl3venn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084322812869935195",
+    "in_reply_to_user_id": "1100776666194882561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084271459149729922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akiEl3venn 我也生病了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2084271459149729922",
+        "created_at": "2026-08-03T16:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084322812869935195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1100776666194882561",
+              "start": 0,
+              "username": "akiEl3venn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084322812869935195",
+        "in_reply_to_user_id": "1100776666194882561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084271459149729922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akiEl3venn 我也生病了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1100776666194882561",
+        "conversation_id": "2084271459149729922",
+        "created_at": "2026-08-03T13:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084271459149729922"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084271459149729922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘉年华回去之后二战新冠了\n\n我不明白"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T\n@Yeyuxiao_0\nfo你就是对你感兴趣",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Yeyuxiao_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/Yeyuxiaoxiao",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/id/Yeyuxiaoxiao",
+                "start": 0,
+                "url": "https://t.co/d0TPy59UeT"
+              }
+            ]
+          }
+        },
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 119,
+          "like_count": 1318,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 1638
+        },
+        "url": "https://t.co/d0TPy59UeT",
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-27T15:16:23.000Z",
+        "description": "你好，我是aki/十一 || 发现有趣的账号就会关注/回关 || 不是男娘 || ACG weeb || System/Level/PX Designer || MI'26 @uoft, Applying PhD || -树洞碎碎念@ich1nana7-",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 87,
+                "username": "uoft"
+              },
+              {
+                "end": 126,
+                "start": 116,
+                "username": "ich1nana7"
+              }
+            ]
+          }
+        },
+        "id": "1100776666194882561",
+        "location": "Toronto, Ontario",
+        "name": "akiEl3venn_",
+        "pinned_tweet_id": "1978640484584046673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999793852970921986/J4gygtMB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 359,
+          "like_count": 8961,
+          "listed_count": 1,
+          "media_count": 677,
+          "tweet_count": 3206
+        },
+        "url": "",
+        "username": "akiEl3venn",
+        "verified": false
+      }
+    ]
+  }
+}

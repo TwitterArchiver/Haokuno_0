@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083561317034860544"
+      ]
+    },
+    "author_id": "1276148275175755776",
+    "conversation_id": "2083561716844286437",
+    "created_at": "2026-08-01T14:33:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T15:33:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083561716844286437"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/M1o37OcIfA",
+          "end": 28,
+          "expanded_url": "https://x.com/Haokuno_0/status/2083561716844286437/video/1",
+          "media_key": "13_2083561317034860544",
+          "start": 5,
+          "url": "https://t.co/M1o37OcIfA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083561716844286437",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好可爱呀 https://t.co/M1o37OcIfA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13383,
+        "height": 1920,
+        "media_key": "13_2083561317034860544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083561317034860544/img/IFhGtdrR5M4g9WHz.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083561317034860544/vid/avc1/1080x1920/_jWmfR5_79GFOQ3z.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083561317034860544/vid/avc1/320x568/LOfPAWOsAkdjh2d4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083561317034860544/pl/qoBilwlnbzUc1z0h.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083561317034860544/vid/avc1/480x852/l9Ri77n54SD2t54V.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083561317034860544/vid/avc1/720x1280/j10fTYqFcx7Uh2i6.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083561317034860544"
+          ]
+        },
+        "author_id": "1276148275175755776",
+        "conversation_id": "2083561716844286437",
+        "created_at": "2026-08-01T14:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083561716844286437"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M1o37OcIfA",
+              "end": 28,
+              "expanded_url": "https://x.com/Haokuno_0/status/2083561716844286437/video/1",
+              "media_key": "13_2083561317034860544",
+              "start": 5,
+              "url": "https://t.co/M1o37OcIfA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083561716844286437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好可爱呀 https://t.co/M1o37OcIfA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T\n@Yeyuxiao_0\nfo你就是对你感兴趣",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Yeyuxiao_0"
+              }
+            ]
+          }
+        },
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 109,
+          "like_count": 1288,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 1675
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      }
+    ]
+  }
+}

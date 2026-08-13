@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083820353428795392",
+        "3_2083820353449803776"
+      ]
+    },
+    "author_id": "1276148275175755776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083820365294547219",
+    "created_at": "2026-08-02T07:41:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T08:41:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083820365294547219"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MwGGAW2KgH",
+          "end": 29,
+          "expanded_url": "https://x.com/Haokuno_0/status/2083820365294547219/photo/1",
+          "media_key": "3_2083820353428795392",
+          "start": 6,
+          "url": "https://t.co/MwGGAW2KgH"
+        },
+        {
+          "display_url": "pic.x.com/MwGGAW2KgH",
+          "end": 29,
+          "expanded_url": "https://x.com/Haokuno_0/status/2083820365294547219/photo/1",
+          "media_key": "3_2083820353449803776",
+          "start": 6,
+          "url": "https://t.co/MwGGAW2KgH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083820365294547219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最贫穷之人 https://t.co/MwGGAW2KgH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083820353428795392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOs3kiXaMAAyYWm.jpg",
+        "width": 943
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2083820353449803776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOs3kicawAA1k5X.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083820353428795392",
+            "3_2083820353449803776"
+          ]
+        },
+        "author_id": "1276148275175755776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083820365294547219",
+        "created_at": "2026-08-02T07:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083820365294547219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MwGGAW2KgH",
+              "end": 29,
+              "expanded_url": "https://x.com/Haokuno_0/status/2083820365294547219/photo/1",
+              "media_key": "3_2083820353428795392",
+              "start": 6,
+              "url": "https://t.co/MwGGAW2KgH"
+            },
+            {
+              "display_url": "pic.x.com/MwGGAW2KgH",
+              "end": 29,
+              "expanded_url": "https://x.com/Haokuno_0/status/2083820365294547219/photo/1",
+              "media_key": "3_2083820353449803776",
+              "start": 6,
+              "url": "https://t.co/MwGGAW2KgH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083820365294547219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最贫穷之人 https://t.co/MwGGAW2KgH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T\n@Yeyuxiao_0\nfo你就是对你感兴趣",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Yeyuxiao_0"
+              }
+            ]
+          }
+        },
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 113,
+          "like_count": 1296,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 1687
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      }
+    ]
+  }
+}

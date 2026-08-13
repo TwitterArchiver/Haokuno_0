@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087108188898578433"
+      ]
+    },
+    "author_id": "1276148275175755776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity includes all conversations about travel and vacation.",
+          "id": "839161975712067584",
+          "name": "Travel Actions"
+        }
+      }
+    ],
+    "conversation_id": "2087108198407012777",
+    "created_at": "2026-08-11T09:25:45.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T10:25:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087108198407012777"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zm3vOVjD94",
+          "end": 34,
+          "expanded_url": "https://x.com/Haokuno_0/status/2087108198407012777/photo/1",
+          "media_key": "3_2087108188898578433",
+          "start": 11,
+          "url": "https://t.co/Zm3vOVjD94"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087108198407012777",
+    "lang": "fr",
+    "media_metadata": [
+      {
+        "media_key": "3_2087108188898578433"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "bon voyage https://t.co/Zm3vOVjD94"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2087108188898578433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPbl1v8b0AE0mIf.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087108188898578433"
+          ]
+        },
+        "author_id": "1276148275175755776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity includes all conversations about travel and vacation.",
+              "id": "839161975712067584",
+              "name": "Travel Actions"
+            }
+          }
+        ],
+        "conversation_id": "2087108198407012777",
+        "created_at": "2026-08-11T09:25:45.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T10:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087108198407012777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zm3vOVjD94",
+              "end": 34,
+              "expanded_url": "https://x.com/Haokuno_0/status/2087108198407012777/photo/1",
+              "media_key": "3_2087108188898578433",
+              "start": 11,
+              "url": "https://t.co/Zm3vOVjD94"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087108198407012777",
+        "lang": "fr",
+        "media_metadata": [
+          {
+            "media_key": "3_2087108188898578433"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "bon voyage https://t.co/Zm3vOVjD94"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T\nfo你就是对你感兴趣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/Yeyuxiaoxiao",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/id/Yeyuxiaoxiao",
+                "start": 0,
+                "url": "https://t.co/d0TPy59mpl"
+              }
+            ]
+          }
+        },
+        "id": "1276148275175755776",
+        "is_identity_verified": false,
+        "location": "日记本",
+        "most_recent_tweet_id": "2087108198407012777",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276148275175755776/1783527500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 116,
+          "like_count": 1384,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 1721
+        },
+        "url": "https://t.co/d0TPy59mpl",
+        "username": "Haokuno_0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

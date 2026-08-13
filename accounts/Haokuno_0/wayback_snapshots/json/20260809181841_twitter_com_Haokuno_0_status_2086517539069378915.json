@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2086506024320806988",
+    "created_at": "2026-08-09T18:18:41.000Z",
+    "display_text_range": [
+      13,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T19:18:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086517539069378915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "417165222",
+          "start": 0,
+          "username": "neginegi555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086517539069378915",
+    "in_reply_to_user_id": "417165222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086506024320806988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neginegi555 手怎么这么抖😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5021,
+        "height": 3840,
+        "media_key": "13_2086505872659013632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086505872659013632/img/rNFiXOn35m38JFYT.jpg",
+        "public_metrics": {
+          "view_count": 82
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086505872659013632/vid/avc1/480x852/H_7X71JtGum5gd_v.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086505872659013632/vid/avc1/1080x1920/7i-vdUudaPpYe14f.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086505872659013632/vid/avc1/720x1280/860jLRjhynk0zVf1.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086505872659013632/vid/avc1/320x568/vp4K-umAUQA8pCa9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086505872659013632/pl/wsm53zXNM8MA0o5_.m3u8"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086505872659013632/vid/avc1/2160x3840/nJS1A9mDEG4ANS9a.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2086506024320806988",
+        "created_at": "2026-08-09T18:18:41.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T19:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086517539069378915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "417165222",
+              "start": 0,
+              "username": "neginegi555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086517539069378915",
+        "in_reply_to_user_id": "417165222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086506024320806988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neginegi555 手怎么这么抖😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086505872659013632"
+          ]
+        },
+        "author_id": "417165222",
+        "conversation_id": "2086506024320806988",
+        "created_at": "2026-08-09T17:32:56.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T18:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086506024320806988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E6znThr8vy",
+              "end": 84,
+              "expanded_url": "https://x.com/neginegi555/status/2086506024320806988/video/1",
+              "media_key": "13_2086505872659013632",
+              "start": 61,
+              "url": "https://t.co/E6znThr8vy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086506024320806988",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2086505872659013632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ヤニが切れちゃったタイミングにタバコを1箱拾ったんだ\n( ˊᵕˋ; )💦\nどうしよう\n吸いたい😭でも拾い食いみたいでいや https://t.co/E6znThr8vy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T\nfo你就是对你感兴趣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/Yeyuxiaoxiao",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/id/Yeyuxiaoxiao",
+                "start": 0,
+                "url": "https://t.co/d0TPy59mpl"
+              }
+            ]
+          }
+        },
+        "id": "1276148275175755776",
+        "is_identity_verified": false,
+        "location": "日记本",
+        "most_recent_tweet_id": "2086517539069378915",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276148275175755776/1783527500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 118,
+          "like_count": 1375,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 1708
+        },
+        "url": "https://t.co/d0TPy59mpl",
+        "username": "Haokuno_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-11-20T16:21:07.000Z",
+        "description": "Ascetic/ロリィタ、生粋なAtelier BOZ信者/機器保守系/レトロPC＆コンソール色々所有/プロの通訳🇯🇵🇨🇳/IHIレベルの重加工  欲しい物https://t.co/77Lf8ktueT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/3Qf51",
+                "end": 101,
+                "expanded_url": "https://x.gd/3Qf51",
+                "start": 78,
+                "url": "https://t.co/77Lf8ktueT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/neginegi555",
+                "end": 23,
+                "expanded_url": "https://lit.link/neginegi555",
+                "start": 0,
+                "url": "https://t.co/8EFYvOChfP"
+              }
+            ]
+          }
+        },
+        "id": "417165222",
+        "is_identity_verified": true,
+        "location": "ブラウン管の妖精(耐圧200VAC)",
+        "most_recent_tweet_id": "2086509026695909781",
+        "name": "鴨川ネギ (⃔ *`꒳´ * )⃕↝🖤",
+        "pinned_tweet_id": "2073094025075404877",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/417165222/1762287345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990001618348281857/Xy4_081k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1369,
+          "following_count": 778,
+          "like_count": 17032,
+          "listed_count": 25,
+          "media_count": 3459,
+          "tweet_count": 11050
+        },
+        "url": "https://t.co/8EFYvOChfP",
+        "username": "neginegi555",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

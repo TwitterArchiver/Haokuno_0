@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2083720960591749519",
+    "created_at": "2026-08-02T04:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T05:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083769135180456388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1307616183479275522",
+          "start": 0,
+          "username": "vacation_ete"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083769135180456388",
+    "in_reply_to_user_id": "1307616183479275522",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083720960591749519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vacation_ete 👋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2083720952836481025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrdKqTbYAE1HgB.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2083720960591749519",
+        "created_at": "2026-08-02T04:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083769135180456388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1307616183479275522",
+              "start": 0,
+              "username": "vacation_ete"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083769135180456388",
+        "in_reply_to_user_id": "1307616183479275522",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083720960591749519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vacation_ete 👋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083720952836481025"
+          ]
+        },
+        "author_id": "1307616183479275522",
+        "conversation_id": "2083720960591749519",
+        "created_at": "2026-08-02T01:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T02:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083720960591749519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CEjPjmNJIo",
+              "end": 44,
+              "expanded_url": "https://x.com/vacation_ete/status/2083720960591749519/photo/1",
+              "media_key": "3_2083720952836481025",
+              "start": 21,
+              "url": "https://t.co/CEjPjmNJIo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083720960591749519",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1260,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "bye 上海👋🏻゛\n\nまた遊びに来るね✨ https://t.co/CEjPjmNJIo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T\n@Yeyuxiao_0\nfo你就是对你感兴趣",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Yeyuxiao_0"
+              }
+            ]
+          }
+        },
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 112,
+          "like_count": 1294,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 1684
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-20T09:42:58.000Z",
+        "description": "DONOT REPOST MY ART WORKS(無断転載禁止/AI学習禁止) \nLINKS: https://t.co/3YzLmOEWGk \n サブ（@ete_summer365） \nMAIL:vacation.ete★https://t.co/zSlYEhOYpY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "ete_summer365"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "profcard.info/u/IQDD2Nnj4BS8…",
+                "end": 72,
+                "expanded_url": "https://profcard.info/u/IQDD2Nnj4BS8tZAw0fG1yr2nvyp1",
+                "start": 49,
+                "url": "https://t.co/3YzLmOEWGk"
+              },
+              {
+                "display_url": "gmail.com",
+                "end": 136,
+                "expanded_url": "http://gmail.com",
+                "start": 113,
+                "url": "https://t.co/zSlYEhOYpY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/vacation_ete?u…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/vacation_ete?utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/5MMLPoAGyt"
+              }
+            ]
+          }
+        },
+        "id": "1307616183479275522",
+        "location": "龍門近衛局",
+        "name": "えて",
+        "pinned_tweet_id": "2068638660745199671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794686668177625088/qpIWz9ow_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19949,
+          "following_count": 229,
+          "like_count": 83842,
+          "listed_count": 165,
+          "media_count": 4094,
+          "tweet_count": 97383
+        },
+        "url": "https://t.co/5MMLPoAGyt",
+        "username": "vacation_ete",
+        "verified": false
+      }
+    ]
+  }
+}
