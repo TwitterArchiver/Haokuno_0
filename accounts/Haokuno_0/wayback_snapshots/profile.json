@@ -1,20 +1,12 @@
 {
   "name": "潇潇",
   "username": "@Haokuno_0",
-  "bio": "07 ENFP-T @Yeyuxiao_0 fo你就是对你感兴趣",
+  "bio": "07 ENFP-T fo你就是对你感兴趣",
   "location": "日记本",
-  "link": "",
+  "link": "https://steamcommunity.com/id/Yeyuxiaoxiao",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "2034294107699302775",
-  "bio_entities": {
-    "mentions": [
-      {
-        "end": 21,
-        "start": 10,
-        "username": "Yeyuxiao_0"
-      }
-    ]
-  },
+  "bio_entities": {},
   "_avatar_source": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg"
 }
