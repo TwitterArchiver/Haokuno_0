@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2089667906221346985",
+    "created_at": "2026-08-18T11:42:48.000Z",
+    "display_text_range": [
+      10,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T12:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089679402179428646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2057809656542814208",
+          "start": 0,
+          "username": "hycai522"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089679402179428646",
+    "in_reply_to_user_id": "2057809656542814208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089673156663615800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hycai522 有牛奶味的气泡啤酒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2089667906221346985",
+        "created_at": "2026-08-18T11:42:48.000Z",
+        "display_text_range": [
+          10,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T12:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089679402179428646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057809656542814208",
+              "start": 0,
+              "username": "hycai522"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089679402179428646",
+        "in_reply_to_user_id": "2057809656542814208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089673156663615800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hycai522 有牛奶味的气泡啤酒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057809656542814208",
+        "conversation_id": "2089667906221346985",
+        "created_at": "2026-08-18T11:17:59.000Z",
+        "display_text_range": [
+          11,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T12:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089673156663615800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1276148275175755776",
+              "start": 0,
+              "username": "Haokuno_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089673156663615800",
+        "in_reply_to_user_id": "1276148275175755776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089667906221346985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haokuno_0 奶啤啥味呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "活下去",
+        "id": "1276148275175755776",
+        "is_identity_verified": false,
+        "location": "日记本",
+        "most_recent_tweet_id": "2089679402179428646",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276148275175755776/1783527500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 123,
+          "like_count": 1422,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1505
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T13:05:02.000Z",
+        "description": "我是一只🐱",
+        "id": "2057809656542814208",
+        "is_identity_verified": false,
+        "location": "🌐",
+        "most_recent_tweet_id": "2089673156663615800",
+        "name": "かや",
+        "pinned_tweet_id": "2086080700357501060",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057809656542814208/1786123864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057810188728725505/pf5OtD-A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 28,
+          "like_count": 373,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "hycai522",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2087106633612820487",
+    "created_at": "2026-08-11T15:12:23.000Z",
+    "display_text_range": [
+      26,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T16:12:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087195431776498035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2083081810859466752",
+          "start": 0,
+          "username": "yuzhazha69"
+        },
+        {
+          "end": 25,
+          "id": "2084252255738572800",
+          "start": 12,
+          "username": "Ririnnnkanya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087195431776498035",
+    "in_reply_to_user_id": "2083081810859466752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087107550185746912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuzhazha69 @Ririnnnkanya 生日快乐🎂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2087106633612820487",
+        "created_at": "2026-08-11T15:12:23.000Z",
+        "display_text_range": [
+          26,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T16:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087195431776498035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2083081810859466752",
+              "start": 0,
+              "username": "yuzhazha69"
+            },
+            {
+              "end": 25,
+              "id": "2084252255738572800",
+              "start": 12,
+              "username": "Ririnnnkanya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087195431776498035",
+        "in_reply_to_user_id": "2083081810859466752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087107550185746912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuzhazha69 @Ririnnnkanya 生日快乐🎂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083081810859466752",
+        "conversation_id": "2087106633612820487",
+        "created_at": "2026-08-11T09:23:11.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T10:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087107550185746912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2084252255738572800",
+              "start": 0,
+              "username": "Ririnnnkanya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087107550185746912",
+        "in_reply_to_user_id": "2084252255738572800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087106633612820487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ririnnnkanya 爱你哼哼😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T\nfo你就是对你感兴趣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/Yeyuxiaoxiao",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/id/Yeyuxiaoxiao",
+                "start": 0,
+                "url": "https://t.co/d0TPy59mpl"
+              }
+            ]
+          }
+        },
+        "id": "1276148275175755776",
+        "is_identity_verified": false,
+        "location": "日记本",
+        "most_recent_tweet_id": "2087195431776498035",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276148275175755776/1783527500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 116,
+          "like_count": 1384,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 1725
+        },
+        "url": "https://t.co/d0TPy59mpl",
+        "username": "Haokuno_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-31T06:47:17.000Z",
+        "description": "4.0火乍玉\nod/自伤/精神病内容\n妈妈@boqiaoahm4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "boqiaoahm4"
+              }
+            ]
+          }
+        },
+        "id": "2083081810859466752",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087157511732473972",
+        "name": "炸炸火乍玉",
+        "pinned_tweet_id": "2086345944996659524",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083081810859466752/1785480562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083082423362031617/XGLgLscM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 161,
+          "like_count": 296,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 128
+        },
+        "url": "",
+        "username": "yuzhazha69",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-03T12:18:27.000Z",
+        "description": "🤍🩷🎀",
+        "id": "2084252255738572800",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087189413717750133",
+        "name": "Ririnnnkanya",
+        "pinned_tweet_id": "2086424934562062607",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084252255738572800/1786277437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084252694106214400/lxDAfg5e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 9,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "Ririnnnkanya",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

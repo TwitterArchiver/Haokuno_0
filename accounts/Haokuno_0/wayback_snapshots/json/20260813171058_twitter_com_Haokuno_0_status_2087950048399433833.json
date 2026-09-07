@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2087146507858596095",
+    "created_at": "2026-08-13T17:10:58.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T18:10:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087950048399433833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1945371083827503105",
+          "start": 0,
+          "username": "zhmng189975"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087950048399433833",
+    "in_reply_to_user_id": "1945371083827503105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087146507858596095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhmng189975 我说也是"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2087146310315249664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcIgtSbkAAIKAO.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2087146507858596095",
+        "created_at": "2026-08-13T17:10:58.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T18:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087950048399433833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1945371083827503105",
+              "start": 0,
+              "username": "zhmng189975"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087950048399433833",
+        "in_reply_to_user_id": "1945371083827503105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087146507858596095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhmng189975 我说也是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087146310315249664"
+          ]
+        },
+        "author_id": "1945371083827503105",
+        "conversation_id": "2087146507858596095",
+        "created_at": "2026-08-11T11:57:59.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087146507858596095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Id5sEfzu5V",
+              "end": 61,
+              "expanded_url": "https://x.com/zhmng189975/status/2087146507858596095/photo/1",
+              "media_key": "3_2087146310315249664",
+              "start": 38,
+              "url": "https://t.co/Id5sEfzu5V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087146507858596095",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087146310315249664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分手了互相开户的来，自己被别人开户了关我啥事啊大傻逼，给你挂上来爽死你好吧 https://t.co/Id5sEfzu5V"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T\nfo你就是对你感兴趣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/Yeyuxiaoxiao",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/id/Yeyuxiaoxiao",
+                "start": 0,
+                "url": "https://t.co/d0TPy59mpl"
+              }
+            ]
+          }
+        },
+        "id": "1276148275175755776",
+        "is_identity_verified": false,
+        "location": "日记本",
+        "most_recent_tweet_id": "2087950048399433833",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276148275175755776/1783527500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 120,
+          "like_count": 1395,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 1722
+        },
+        "url": "https://t.co/d0TPy59mpl",
+        "username": "Haokuno_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-16T06:33:20.000Z",
+        "description": "我都把你当人了你能不能装点像一点\nhttps://t.co/sp9TY4Tm7B谁来给我发",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1111116440",
+                "end": 40,
+                "expanded_url": "https://ngl.link/1111116440",
+                "start": 17,
+                "url": "https://t.co/sp9TY4Tm7B"
+              }
+            ]
+          }
+        },
+        "id": "1945371083827503105",
+        "is_identity_verified": false,
+        "location": "Florida, USA",
+        "most_recent_tweet_id": "2087947134834561085",
+        "name": "忧郁喵社男",
+        "pinned_tweet_id": "2070446716072136780",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945371083827503105/1752815577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946075696519946241/ZSmktDVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 54,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 199
+        },
+        "url": "",
+        "username": "zhmng189975",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

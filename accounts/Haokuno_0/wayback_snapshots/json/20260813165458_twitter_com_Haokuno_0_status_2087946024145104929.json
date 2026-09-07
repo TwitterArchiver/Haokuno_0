@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2087749305264431587",
+    "created_at": "2026-08-13T16:54:58.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T17:54:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087946024145104929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2085274724591144961",
+          "start": 0,
+          "username": "nobuyasuyuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087946024145104929",
+    "in_reply_to_user_id": "2085274724591144961",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087749305264431587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nobuyasuyuki 像素字体"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2087749296980733952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPks7JqbsAAeq50.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2087749305264431587",
+        "created_at": "2026-08-13T16:54:58.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T17:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087946024145104929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2085274724591144961",
+              "start": 0,
+              "username": "nobuyasuyuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087946024145104929",
+        "in_reply_to_user_id": "2085274724591144961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087749305264431587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nobuyasuyuki 像素字体"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087749296980733952"
+          ]
+        },
+        "author_id": "2085274724591144961",
+        "conversation_id": "2087749305264431587",
+        "created_at": "2026-08-13T03:53:17.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T04:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087749305264431587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6gtJCJoipb",
+              "end": 30,
+              "expanded_url": "https://x.com/nobuyasuyuki/status/2087749305264431587/photo/1",
+              "media_key": "3_2087749296980733952",
+              "start": 7,
+              "url": "https://t.co/6gtJCJoipb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087749305264431587",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087749296980733952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阿里嘎多～！ https://t.co/6gtJCJoipb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T\nfo你就是对你感兴趣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/Yeyuxiaoxiao",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/id/Yeyuxiaoxiao",
+                "start": 0,
+                "url": "https://t.co/d0TPy59mpl"
+              }
+            ]
+          }
+        },
+        "id": "1276148275175755776",
+        "is_identity_verified": false,
+        "location": "日记本",
+        "most_recent_tweet_id": "2087946024145104929",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276148275175755776/1783527500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 120,
+          "like_count": 1394,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 1721
+        },
+        "url": "https://t.co/d0TPy59mpl",
+        "username": "Haokuno_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-06T08:04:14.000Z",
+        "description": "地雷女｜躁郁｜bbw｜e杯\n妻子@woapmpble的小狗\n验证10r可抵门，不过不退\n25好友位/49俩图包/159畅览/520一周电子宠物\n喜欢yuki欢迎互fo互转——😿💕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2085274724591144961",
+        "is_identity_verified": false,
+        "location": "乌托邦",
+        "most_recent_tweet_id": "2087892188105752958",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2086211797582057478",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085274724591144961/1786004837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085901584425533441/Tdo7RjUC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 80,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 49
+        },
+        "url": "",
+        "username": "nobuyasuyuki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

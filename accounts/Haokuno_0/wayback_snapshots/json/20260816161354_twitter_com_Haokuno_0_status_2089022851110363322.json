@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2088534714336301546",
+    "created_at": "2026-08-16T16:13:54.000Z",
+    "display_text_range": [
+      17,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T17:13:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089022851110363322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1852781658430455809",
+          "start": 0,
+          "username": "SeaSaltNotFound"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089022851110363322",
+    "in_reply_to_user_id": "1852781658430455809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088534714336301546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeaSaltNotFound 带我玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2088534714336301546",
+        "created_at": "2026-08-16T16:13:54.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T17:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089022851110363322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852781658430455809",
+              "start": 0,
+              "username": "SeaSaltNotFound"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089022851110363322",
+        "in_reply_to_user_id": "1852781658430455809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088534714336301546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeaSaltNotFound 带我玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852781658430455809",
+        "conversation_id": "2088534714336301546",
+        "created_at": "2026-08-15T07:54:13.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T08:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088534714336301546"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088534714336301546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天打游戏赛点局拿了三杀结果在最后一下假拆按成换弹了他妈还是换的奥丁弹夹也是果不其然被打了那局结束后在队伍麦忍不住一直在道歉结果队友一点没压力😭说没怪我并且把他ak皮肤发我玩😭现在还在想这个事😭希望好人都能被世界温柔以待😭最后也是赢了还加了好友😭虽然估计以后也不会再见了还是好开心😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T\nfo你就是对你感兴趣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/Yeyuxiaoxiao",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/id/Yeyuxiaoxiao",
+                "start": 0,
+                "url": "https://t.co/d0TPy59mpl"
+              }
+            ]
+          }
+        },
+        "id": "1276148275175755776",
+        "is_identity_verified": false,
+        "location": "日记本",
+        "most_recent_tweet_id": "2089022851110363322",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276148275175755776/1783527500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 121,
+          "like_count": 1422,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1745
+        },
+        "url": "https://t.co/d0TPy59mpl",
+        "username": "Haokuno_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-02T18:36:00.000Z",
+        "description": "八小时清醒 八小时做梦 八小时种朵花",
+        "id": "1852781658430455809",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089021587525640527",
+        "name": "塩宇宙",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852781658430455809/1730572844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071254127259353089/p33eQavk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 96,
+          "like_count": 955,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 121
+        },
+        "url": "",
+        "username": "SeaSaltNotFound",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

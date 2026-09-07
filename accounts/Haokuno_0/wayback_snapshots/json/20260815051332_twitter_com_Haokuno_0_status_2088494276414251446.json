@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1276148275175755776",
+    "conversation_id": "2088191570847895891",
+    "created_at": "2026-08-15T05:13:32.000Z",
+    "display_text_range": [
+      13,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T06:13:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088494276414251446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1895463022367498240",
+          "start": 0,
+          "username": "hikaribottt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088494276414251446",
+    "in_reply_to_user_id": "1895463022367498240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088191570847895891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hikaribottt 这玩意一开就能上推了我草 好神奇"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39625,
+        "height": 1440,
+        "media_key": "13_2088191356846190592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088191356846190592/img/V5exQCDUwsBaLWLD.jpg",
+        "public_metrics": {
+          "view_count": 5885
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088191356846190592/vid/avc1/360x270/HBmGlic126Y-fNnF.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088191356846190592/vid/avc1/1920x1440/HA_cV-Qg7bmqdIbI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088191356846190592/vid/avc1/960x720/c9MzHIDoKRtJVBuL.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088191356846190592/vid/avc1/480x360/cLLcwubT1T-65xij.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088191356846190592/pl/kmkka9THNAGWU4wW.m3u8?v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2088191570847895891",
+        "created_at": "2026-08-15T05:13:32.000Z",
+        "display_text_range": [
+          13,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T06:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088494276414251446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1895463022367498240",
+              "start": 0,
+              "username": "hikaribottt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088494276414251446",
+        "in_reply_to_user_id": "1895463022367498240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088191570847895891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hikaribottt 这玩意一开就能上推了我草 好神奇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088191356846190592"
+          ]
+        },
+        "author_id": "1895463022367498240",
+        "conversation_id": "2088191570847895891",
+        "created_at": "2026-08-14T09:10:41.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T10:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088191570847895891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7m0a0HeEJP",
+              "end": 31,
+              "expanded_url": "https://x.com/hikaribottt/status/2088191570847895891/video/1",
+              "media_key": "13_2088191356846190592",
+              "start": 8,
+              "url": "https://t.co/7m0a0HeEJP"
+            },
+            {
+              "display_url": "x.com/lingyu0612/sta…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/lingyu0612/status/2087817932097094121",
+              "start": 32,
+              "url": "https://t.co/2UIQj15Hbq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088191570847895891",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2088191356846190592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 14782,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087817932097094121",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是怎么上推的 https://t.co/7m0a0HeEJP https://t.co/2UIQj15Hbq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T\nfo你就是对你感兴趣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/Yeyuxiaoxiao",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/id/Yeyuxiaoxiao",
+                "start": 0,
+                "url": "https://t.co/d0TPy59mpl"
+              }
+            ]
+          }
+        },
+        "id": "1276148275175755776",
+        "is_identity_verified": false,
+        "location": "日记本",
+        "most_recent_tweet_id": "2088494276414251446",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276148275175755776/1783527500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 123,
+          "like_count": 1410,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1744
+        },
+        "url": "https://t.co/d0TPy59mpl",
+        "username": "Haokuno_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-28T13:16:44.000Z",
+        "description": "日常水推/日常帖/bot/天然蠢废/是个学生/音游人\n互fo喵\n平时水课，假期发癫，可能也会记录一些互联网怪事（存疑）\n一个无趣的灵魂游荡ing",
+        "id": "1895463022367498240",
+        "is_identity_verified": false,
+        "location": "天國",
+        "most_recent_tweet_id": "2088492078510882838",
+        "name": "落叶sour-ce",
+        "pinned_tweet_id": "2086785404339179811",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1895463022367498240/1763214198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075742744803479552/cpDWGZvr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 137,
+          "like_count": 2431,
+          "listed_count": 3,
+          "media_count": 143,
+          "tweet_count": 1242
+        },
+        "url": "",
+        "username": "hikaribottt",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
